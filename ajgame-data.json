@@ -1,6 +1,6 @@
 {
   "version": "2025-06-v4",
-  "savedAt": "2026-03-27T09:35:18.913Z",
+  "savedAt": "2026-03-27T09:44:22.194Z",
   "platforms": [
     {
       "id": "ps45",
@@ -43,55 +43,9 @@
       "icon": "🔴",
       "color": "#cc0000",
       "gamepassUrl": "https://www.xbox.com/th-th/xbox-game-pass/games"
-    },
-    {
-      "id": "p_1774589723584",
-      "name": "test",
-      "icon": "🎮",
-      "color": "#333333",
-      "gamepassUrl": ""
-    },
-    {
-      "id": "p_1774593839911",
-      "name": "test111",
-      "icon": "🎮",
-      "color": "#333333",
-      "gamepassUrl": ""
     }
   ],
   "games": [
-    {
-      "id": "g_1774600777638",
-      "platformId": "ps45",
-      "name": "test",
-      "ytId": "",
-      "year": 2027,
-      "players": null,
-      "genre": [],
-      "desc_th": null,
-      "desc_en": null,
-      "unavailable": false,
-      "available_date": null,
-      "insertedAt": 1774600777638,
-      "imgUrl": "https://i.postimg.cc/jjTFJCxt/Crimson-Desert.jpg"
-    },
-    {
-      "id": "g_1774600531538",
-      "platformId": "ps45",
-      "name": "Crimson Desert",
-      "ytId": "",
-      "year": 2028,
-      "players": "1",
-      "genre": [
-        "Action"
-      ],
-      "desc_th": null,
-      "desc_en": null,
-      "unavailable": false,
-      "available_date": null,
-      "insertedAt": 1774600531538,
-      "imgUrl": "https://i.postimg.cc/jjTFJCxt/Crimson-Desert.jpg"
-    },
     {
       "id": "g100",
       "platformId": "switch2",
@@ -101,8 +55,7 @@
         "Horror",
         "Survival Horror"
       ],
-      "year": 2025,
-      "players": null
+      "year": 2025
     },
     {
       "id": "g101",
@@ -112,8 +65,7 @@
       "genre": [
         "Action"
       ],
-      "year": 2025,
-      "players": null
+      "year": 2025
     },
     {
       "id": "g102",
@@ -124,8 +76,7 @@
         "RPG",
         "Adventure"
       ],
-      "year": 2025,
-      "players": null
+      "year": 2025
     },
     {
       "id": "g103",
@@ -135,8 +86,7 @@
       "genre": [
         "Sports"
       ],
-      "year": 2025,
-      "players": null
+      "year": 2025
     },
     {
       "id": "g104",
@@ -184,8 +134,7 @@
         "Platformer",
         "Action"
       ],
-      "year": 2025,
-      "players": null
+      "year": 2025
     },
     {
       "id": "g108",
@@ -196,8 +145,7 @@
         "Platformer",
         "Action"
       ],
-      "year": 2025,
-      "players": null
+      "year": 2025
     },
     {
       "id": "g109",
@@ -208,8 +156,7 @@
         "Adventure",
         "Cooperative"
       ],
-      "year": 2025,
-      "players": null
+      "year": 2025
     },
     {
       "id": "g110",
@@ -219,8 +166,7 @@
       "genre": [
         "Party"
       ],
-      "year": 2024,
-      "players": null
+      "year": 2024
     },
     {
       "id": "g111",
@@ -244,8 +190,7 @@
         "Action",
         "Stealth"
       ],
-      "year": 2021,
-      "players": null
+      "year": 2021
     },
     {
       "id": "g113",
@@ -269,8 +214,7 @@
         "Sports",
         "Party"
       ],
-      "year": 2019,
-      "players": null
+      "year": 2019
     },
     {
       "id": "g115",
@@ -282,8 +226,7 @@
         "Survival",
         "Adventure"
       ],
-      "year": 2016,
-      "players": null
+      "year": 2016
     },
     {
       "id": "g116",
@@ -333,8 +276,7 @@
         "Music",
         "Dance"
       ],
-      "year": 2025,
-      "players": null
+      "year": 2025
     },
     {
       "id": "g120",
@@ -345,8 +287,7 @@
         "Sports",
         "Fitness"
       ],
-      "year": 2025,
-      "players": null
+      "year": 2025
     },
     {
       "id": "g121",
@@ -357,8 +298,7 @@
         "Adventure",
         "Simulation"
       ],
-      "year": 2024,
-      "players": null
+      "year": 2024
     },
     {
       "id": "g122",
@@ -368,8 +308,7 @@
       "genre": [
         "Puzzle"
       ],
-      "year": 2019,
-      "players": null
+      "year": 2019
     },
     {
       "id": "g123",
@@ -379,8 +318,7 @@
       "genre": [
         "Puzzle"
       ],
-      "year": 2018,
-      "players": null
+      "year": 2018
     },
     {
       "id": "g124",
@@ -404,8 +342,7 @@
         "Puzzle",
         "Stealth"
       ],
-      "year": 2019,
-      "players": null
+      "year": 2019
     },
     {
       "id": "g126",
@@ -417,8 +354,7 @@
         "Survival",
         "Open World"
       ],
-      "year": 2015,
-      "players": null
+      "year": 2015
     },
     {
       "id": "g127",
@@ -429,8 +365,7 @@
         "Action",
         "Adventure"
       ],
-      "year": 2019,
-      "players": null
+      "year": 2019
     },
     {
       "id": "g128",
@@ -441,8 +376,7 @@
         "Action",
         "Adventure"
       ],
-      "year": 2021,
-      "players": null
+      "year": 2021
     },
     {
       "id": "g129",
@@ -453,8 +387,7 @@
         "Shooter",
         "Horror"
       ],
-      "year": 2022,
-      "players": null
+      "year": 2022
     },
     {
       "id": "g130",
@@ -465,8 +398,7 @@
         "Action",
         "Roguelike"
       ],
-      "year": 2020,
-      "players": null
+      "year": 2020
     },
     {
       "id": "g131",
@@ -476,8 +408,7 @@
       "genre": [
         "Party"
       ],
-      "year": 2023,
-      "players": null
+      "year": 2023
     },
     {
       "id": "g132",
@@ -488,8 +419,7 @@
         "Puzzle",
         "Party"
       ],
-      "year": 2018,
-      "players": null
+      "year": 2018
     },
     {
       "id": "g133",
@@ -500,8 +430,7 @@
         "Adventure",
         "Puzzle"
       ],
-      "year": 2022,
-      "players": null
+      "year": 2022
     },
     {
       "id": "g134",
@@ -512,8 +441,7 @@
         "Adventure",
         "Puzzle"
       ],
-      "year": 2016,
-      "players": null
+      "year": 2016
     },
     {
       "id": "g135",
@@ -524,8 +452,7 @@
         "Adventure",
         "Puzzle"
       ],
-      "year": 2018,
-      "players": null
+      "year": 2018
     },
     {
       "id": "g136",
@@ -536,8 +463,7 @@
         "Adventure",
         "Puzzle"
       ],
-      "year": 2019,
-      "players": null
+      "year": 2019
     },
     {
       "id": "g137",
@@ -548,8 +474,7 @@
         "Adventure",
         "Puzzle"
       ],
-      "year": 2019,
-      "players": null
+      "year": 2019
     },
     {
       "id": "g138",
@@ -560,8 +485,7 @@
         "Adventure",
         "Puzzle"
       ],
-      "year": 2018,
-      "players": null
+      "year": 2018
     },
     {
       "id": "g139",
@@ -572,8 +496,7 @@
         "Adventure",
         "Puzzle"
       ],
-      "year": 2015,
-      "players": null
+      "year": 2015
     },
     {
       "id": "g140",
@@ -584,8 +507,7 @@
         "Action",
         "Open World"
       ],
-      "year": 2021,
-      "players": null
+      "year": 2021
     },
     {
       "id": "g141",
@@ -595,8 +517,7 @@
       "genre": [
         "Racing"
       ],
-      "year": 2022,
-      "players": null
+      "year": 2022
     },
     {
       "id": "g142",
@@ -607,8 +528,7 @@
         "Sports",
         "Party"
       ],
-      "year": 2020,
-      "players": null
+      "year": 2020
     },
     {
       "id": "g143",
@@ -618,8 +538,7 @@
       "genre": [
         "Action RPG"
       ],
-      "year": 2021,
-      "players": null
+      "year": 2021
     },
     {
       "id": "g144",
@@ -629,8 +548,7 @@
       "genre": [
         "Action RPG"
       ],
-      "year": 2018,
-      "players": null
+      "year": 2018
     },
     {
       "id": "g145",
@@ -641,8 +559,7 @@
         "RPG",
         "Open World"
       ],
-      "year": 2017,
-      "players": null
+      "year": 2017
     },
     {
       "id": "g146",
@@ -652,8 +569,7 @@
       "genre": [
         "Survival"
       ],
-      "year": 2021,
-      "players": null
+      "year": 2021
     },
     {
       "id": "g147",
@@ -663,8 +579,7 @@
       "genre": [
         "Survival"
       ],
-      "year": 2021,
-      "players": null
+      "year": 2021
     },
     {
       "id": "g148",
@@ -687,8 +602,7 @@
       "genre": [
         "Sports"
       ],
-      "year": 2024,
-      "players": null
+      "year": 2024
     },
     {
       "id": "g150",
@@ -712,8 +626,7 @@
         "Simulation",
         "Strategy"
       ],
-      "year": 2022,
-      "players": null
+      "year": 2022
     },
     {
       "id": "g152",
@@ -724,8 +637,7 @@
         "Strategy",
         "RPG"
       ],
-      "year": 2022,
-      "players": null
+      "year": 2022
     },
     {
       "id": "g153",
@@ -749,8 +661,7 @@
         "RPG",
         "Adventure"
       ],
-      "year": 2022,
-      "players": null
+      "year": 2022
     },
     {
       "id": "g155",
@@ -774,8 +685,7 @@
         "Action",
         "Fighting"
       ],
-      "year": 2021,
-      "players": null
+      "year": 2021
     },
     {
       "id": "g157",
@@ -785,8 +695,7 @@
       "genre": [
         "Action RPG"
       ],
-      "year": 2024,
-      "players": null
+      "year": 2024
     },
     {
       "id": "g158",
@@ -797,8 +706,7 @@
         "Action",
         "Beat-em-up"
       ],
-      "year": 2022,
-      "players": null
+      "year": 2022
     },
     {
       "id": "g159",
@@ -821,8 +729,7 @@
       "genre": [
         "Party"
       ],
-      "year": 2022,
-      "players": null
+      "year": 2022
     },
     {
       "id": "g161",
@@ -833,8 +740,7 @@
         "Party",
         "Cooperative"
       ],
-      "year": 2020,
-      "players": null
+      "year": 2020
     },
     {
       "id": "g162",
@@ -869,8 +775,7 @@
         "Action RPG",
         "Open World"
       ],
-      "year": 2018,
-      "players": null
+      "year": 2018
     },
     {
       "id": "g165",
@@ -880,8 +785,7 @@
       "genre": [
         "Action RPG"
       ],
-      "year": 2020,
-      "players": null
+      "year": 2020
     },
     {
       "id": "g166",
@@ -892,8 +796,7 @@
         "Horror",
         "Action"
       ],
-      "year": 2021,
-      "players": null
+      "year": 2021
     },
     {
       "id": "g167",
@@ -903,8 +806,7 @@
       "genre": [
         "Fighting"
       ],
-      "year": 2021,
-      "players": null
+      "year": 2021
     },
     {
       "id": "g168",
@@ -928,8 +830,7 @@
         "Shooter",
         "FPS"
       ],
-      "year": 2020,
-      "players": null
+      "year": 2020
     },
     {
       "id": "g170",
@@ -940,8 +841,7 @@
         "Simulation",
         "RPG"
       ],
-      "year": 2022,
-      "players": null
+      "year": 2022
     },
     {
       "id": "g171",
@@ -964,8 +864,7 @@
       "genre": [
         "Action RPG"
       ],
-      "year": 2022,
-      "players": null
+      "year": 2022
     },
     {
       "id": "g173",
@@ -988,8 +887,7 @@
       "genre": [
         "Racing"
       ],
-      "year": 2023,
-      "players": null
+      "year": 2023
     },
     {
       "id": "g175",
@@ -1000,8 +898,7 @@
         "Shooter",
         "Battle Royale"
       ],
-      "year": 2017,
-      "players": null
+      "year": 2017
     },
     {
       "id": "g176",
@@ -1012,8 +909,7 @@
         "Party",
         "Battle Royale"
       ],
-      "year": 2020,
-      "players": null
+      "year": 2020
     },
     {
       "id": "g177",
@@ -1024,8 +920,7 @@
         "Action",
         "Fighting"
       ],
-      "year": 2017,
-      "players": null
+      "year": 2017
     },
     {
       "id": "g178",
@@ -1036,8 +931,7 @@
         "Simulation",
         "Strategy"
       ],
-      "year": 2022,
-      "players": null
+      "year": 2022
     },
     {
       "id": "g179",
@@ -1048,8 +942,7 @@
         "Party",
         "Cooperative"
       ],
-      "year": 2020,
-      "players": null
+      "year": 2020
     },
     {
       "id": "g180",
@@ -1061,8 +954,7 @@
         "Puzzle",
         "Horror"
       ],
-      "year": 2016,
-      "players": null
+      "year": 2016
     },
     {
       "id": "g181",
@@ -1073,8 +965,7 @@
         "Strategy",
         "Roguelike"
       ],
-      "year": 2024,
-      "players": null
+      "year": 2024
     },
     {
       "id": "g182",
@@ -1085,8 +976,7 @@
         "Survival",
         "Sandbox"
       ],
-      "year": 2013,
-      "players": null
+      "year": 2013
     },
     {
       "id": "g183",
@@ -1097,8 +987,7 @@
         "Party",
         "Cooperative"
       ],
-      "year": 2016,
-      "players": null
+      "year": 2016
     },
     {
       "id": "g184",
@@ -1133,8 +1022,7 @@
       "genre": [
         "Rhythm"
       ],
-      "year": 2022,
-      "players": null
+      "year": 2022
     },
     {
       "id": "g187",
@@ -1145,8 +1033,7 @@
         "Action",
         "Party"
       ],
-      "year": 2019,
-      "players": null
+      "year": 2019
     },
     {
       "id": "g188",
@@ -1156,8 +1043,7 @@
       "genre": [
         "Horror"
       ],
-      "year": 2019,
-      "players": null
+      "year": 2019
     },
     {
       "id": "g189",
@@ -1167,8 +1053,7 @@
       "genre": [
         "Simulation"
       ],
-      "year": 2019,
-      "players": null
+      "year": 2019
     },
     {
       "id": "g190",
@@ -1178,8 +1063,7 @@
       "genre": [
         "Racing"
       ],
-      "year": 2017,
-      "players": null
+      "year": 2017
     },
     {
       "id": "g191",
@@ -1189,8 +1073,7 @@
       "genre": [
         "Racing"
       ],
-      "year": 2020,
-      "players": null
+      "year": 2020
     },
     {
       "id": "g192",
@@ -1200,8 +1083,7 @@
       "genre": [
         "Action"
       ],
-      "year": 2020,
-      "players": null
+      "year": 2020
     },
     {
       "id": "g193",
@@ -1212,8 +1094,7 @@
         "Simulation",
         "RPG"
       ],
-      "year": 2020,
-      "players": null
+      "year": 2020
     },
     {
       "id": "g194",
@@ -1224,8 +1105,7 @@
         "Simulation",
         "RPG"
       ],
-      "year": 2023,
-      "players": null
+      "year": 2023
     },
     {
       "id": "g195",
@@ -1236,8 +1116,7 @@
         "Simulation",
         "RPG"
       ],
-      "year": 2021,
-      "players": null
+      "year": 2021
     },
     {
       "id": "g196",
@@ -1248,8 +1127,7 @@
         "Action",
         "Cooperative"
       ],
-      "year": 2015,
-      "players": null
+      "year": 2015
     },
     {
       "id": "g197",
@@ -1287,8 +1165,7 @@
         "Puzzle",
         "Horror"
       ],
-      "year": 2016,
-      "players": null
+      "year": 2016
     },
     {
       "id": "g200",
@@ -1299,8 +1176,7 @@
         "Party",
         "Sports"
       ],
-      "year": 2019,
-      "players": null
+      "year": 2019
     },
     {
       "id": "g201",
@@ -1310,8 +1186,7 @@
       "genre": [
         "Fighting"
       ],
-      "year": 2018,
-      "players": null
+      "year": 2018
     },
     {
       "id": "g202",
@@ -1321,8 +1196,7 @@
       "genre": [
         "Action"
       ],
-      "year": 2020,
-      "players": null
+      "year": 2020
     },
     {
       "id": "g203",
@@ -1333,8 +1207,7 @@
         "Action",
         "Open World"
       ],
-      "year": 2020,
-      "players": null
+      "year": 2020
     },
     {
       "id": "g204",
@@ -1345,8 +1218,7 @@
         "Horror",
         "Survival Horror"
       ],
-      "year": 2016,
-      "players": null
+      "year": 2016
     },
     {
       "id": "g205",
@@ -1357,8 +1229,7 @@
         "Horror",
         "Action"
       ],
-      "year": 2021,
-      "players": null
+      "year": 2021
     },
     {
       "id": "g206",
@@ -1369,8 +1240,7 @@
         "Shooter",
         "RPG"
       ],
-      "year": 2019,
-      "players": null
+      "year": 2019
     },
     {
       "id": "g207",
@@ -1381,8 +1251,7 @@
         "Shooter",
         "RPG"
       ],
-      "year": 2019,
-      "players": null
+      "year": 2019
     },
     {
       "id": "g208",
@@ -1393,8 +1262,7 @@
         "Shooter",
         "Horror"
       ],
-      "year": 2017,
-      "players": null
+      "year": 2017
     },
     {
       "id": "g209",
@@ -1405,8 +1273,7 @@
         "Shooter",
         "Horror"
       ],
-      "year": 2017,
-      "players": null
+      "year": 2017
     },
     {
       "id": "g210",
@@ -1417,8 +1284,7 @@
         "Shooter",
         "Horror"
       ],
-      "year": 2017,
-      "players": null
+      "year": 2017
     },
     {
       "id": "g211",
@@ -1428,8 +1294,7 @@
       "genre": [
         "Strategy"
       ],
-      "year": 2020,
-      "players": null
+      "year": 2020
     },
     {
       "id": "g212",
@@ -1440,8 +1305,7 @@
         "Shooter",
         "FPS"
       ],
-      "year": 2021,
-      "players": null
+      "year": 2021
     },
     {
       "id": "g213",
@@ -1452,8 +1316,7 @@
         "Party",
         "Action"
       ],
-      "year": 2017,
-      "players": null
+      "year": 2017
     },
     {
       "id": "g214",
@@ -1463,8 +1326,7 @@
       "genre": [
         "Party"
       ],
-      "year": 2024,
-      "players": null
+      "year": 2024
     },
     {
       "id": "g215",
@@ -1476,8 +1338,7 @@
         "Adventure",
         "Puzzle"
       ],
-      "year": 2024,
-      "players": null
+      "year": 2024
     },
     {
       "id": "g216",
@@ -1500,8 +1361,7 @@
       "genre": [
         "Action RPG"
       ],
-      "year": 2024,
-      "players": null
+      "year": 2024
     },
     {
       "id": "g218",
@@ -1511,8 +1371,7 @@
       "genre": [
         "Action RPG"
       ],
-      "year": 2024,
-      "players": null
+      "year": 2024
     },
     {
       "id": "g219",
@@ -1523,8 +1382,7 @@
         "Platformer",
         "Adventure"
       ],
-      "year": 2024,
-      "players": null
+      "year": 2024
     },
     {
       "id": "g220",
@@ -1535,8 +1393,7 @@
         "Adventure",
         "Simulation"
       ],
-      "year": 2024,
-      "players": null
+      "year": 2024
     },
     {
       "id": "g221",
@@ -1547,8 +1404,7 @@
         "Action",
         "Platformer"
       ],
-      "year": 2024,
-      "players": null
+      "year": 2024
     },
     {
       "id": "g222",
@@ -1598,8 +1454,7 @@
         "Party",
         "Action"
       ],
-      "year": 2023,
-      "players": null
+      "year": 2023
     },
     {
       "id": "g226",
@@ -1610,8 +1465,7 @@
         "Party",
         "Cooperative"
       ],
-      "year": 2023,
-      "players": null
+      "year": 2023
     },
     {
       "id": "g227",
@@ -1621,8 +1475,7 @@
       "genre": [
         "Party"
       ],
-      "year": 2023,
-      "players": null
+      "year": 2023
     },
     {
       "id": "g228",
@@ -1646,8 +1499,7 @@
         "Adventure",
         "Horror"
       ],
-      "year": 2023,
-      "players": null
+      "year": 2023
     },
     {
       "id": "g230",
@@ -1657,8 +1509,7 @@
       "genre": [
         "Action RPG"
       ],
-      "year": 2022,
-      "players": null
+      "year": 2022
     },
     {
       "id": "g231",
@@ -1669,8 +1520,7 @@
         "RPG",
         "Adventure"
       ],
-      "year": 2022,
-      "players": null
+      "year": 2022
     },
     {
       "id": "g232",
@@ -1681,8 +1531,7 @@
         "RPG",
         "Adventure"
       ],
-      "year": 2022,
-      "players": null
+      "year": 2022
     },
     {
       "id": "g233",
@@ -1693,8 +1542,7 @@
         "Action",
         "Adventure"
       ],
-      "year": 2022,
-      "players": null
+      "year": 2022
     },
     {
       "id": "g234",
@@ -1705,8 +1553,7 @@
         "Strategy",
         "RPG"
       ],
-      "year": 2022,
-      "players": null
+      "year": 2022
     },
     {
       "id": "g235",
@@ -1717,8 +1564,7 @@
         "Horror",
         "Action"
       ],
-      "year": 2021,
-      "players": null
+      "year": 2021
     },
     {
       "id": "g236",
@@ -1728,8 +1574,7 @@
       "genre": [
         "Action"
       ],
-      "year": 2022,
-      "players": null
+      "year": 2022
     },
     {
       "id": "g237",
@@ -1740,8 +1585,7 @@
         "Platformer",
         "Action"
       ],
-      "year": 2021,
-      "players": null
+      "year": 2021
     },
     {
       "id": "g238",
@@ -1764,8 +1608,7 @@
       "genre": [
         "RPG"
       ],
-      "year": 2022,
-      "players": null
+      "year": 2022
     },
     {
       "id": "g240",
@@ -1775,8 +1618,7 @@
       "genre": [
         "Action RPG"
       ],
-      "year": 2017,
-      "players": null
+      "year": 2017
     },
     {
       "id": "g241",
@@ -1788,8 +1630,7 @@
         "Survival",
         "Adventure"
       ],
-      "year": 2016,
-      "players": null
+      "year": 2016
     },
     {
       "id": "g242",
@@ -1799,8 +1640,7 @@
       "genre": [
         "Sports"
       ],
-      "year": 2022,
-      "players": null
+      "year": 2022
     },
     {
       "id": "g243",
@@ -1810,8 +1650,7 @@
       "genre": [
         "Sports"
       ],
-      "year": 2023,
-      "players": null
+      "year": 2023
     },
     {
       "id": "g244",
@@ -1821,8 +1660,7 @@
       "genre": [
         "Sports"
       ],
-      "year": 2022,
-      "players": null
+      "year": 2022
     },
     {
       "id": "g245",
@@ -1832,8 +1670,7 @@
       "genre": [
         "Action RPG"
       ],
-      "year": 2022,
-      "players": null
+      "year": 2022
     },
     {
       "id": "g246",
@@ -1844,8 +1681,7 @@
         "Adventure",
         "Simulation"
       ],
-      "year": 2022,
-      "players": null
+      "year": 2022
     },
     {
       "id": "g247",
@@ -1856,8 +1692,7 @@
         "Action",
         "Fighting"
       ],
-      "year": 2021,
-      "players": null
+      "year": 2021
     },
     {
       "id": "g248",
@@ -1868,8 +1703,7 @@
         "RPG",
         "Action RPG"
       ],
-      "year": 2022,
-      "players": null
+      "year": 2022
     },
     {
       "id": "g249",
@@ -1880,8 +1714,7 @@
         "RPG",
         "Adventure"
       ],
-      "year": 2022,
-      "players": null
+      "year": 2022
     },
     {
       "id": "g250",
@@ -1891,8 +1724,7 @@
       "genre": [
         "Party"
       ],
-      "year": 2022,
-      "players": null
+      "year": 2022
     },
     {
       "id": "g251",
@@ -1902,8 +1734,7 @@
       "genre": [
         "Platformer"
       ],
-      "year": 2022,
-      "players": null
+      "year": 2022
     },
     {
       "id": "g252",
@@ -1914,8 +1745,7 @@
         "Action RPG",
         "Strategy"
       ],
-      "year": 2022,
-      "players": null
+      "year": 2022
     },
     {
       "id": "g253",
@@ -1926,8 +1756,7 @@
         "Action",
         "Beat-em-up"
       ],
-      "year": 2022,
-      "players": null
+      "year": 2022
     },
     {
       "id": "g254",
@@ -1938,8 +1767,7 @@
         "Sports",
         "Party"
       ],
-      "year": 2021,
-      "players": null
+      "year": 2021
     },
     {
       "id": "g255",
@@ -1950,8 +1778,7 @@
         "Sports",
         "Party"
       ],
-      "year": 2022,
-      "players": null
+      "year": 2022
     },
     {
       "id": "g256",
@@ -1961,8 +1788,7 @@
       "genre": [
         "RPG"
       ],
-      "year": 2022,
-      "players": null
+      "year": 2022
     },
     {
       "id": "g257",
@@ -1972,8 +1798,7 @@
       "genre": [
         "Action RPG"
       ],
-      "year": 2022,
-      "players": null
+      "year": 2022
     },
     {
       "id": "g258",
@@ -1984,8 +1809,7 @@
         "Shooter",
         "Horror"
       ],
-      "year": 2022,
-      "players": null
+      "year": 2022
     },
     {
       "id": "g259",
@@ -2009,8 +1833,7 @@
         "Strategy",
         "RPG"
       ],
-      "year": 2022,
-      "players": null
+      "year": 2022
     },
     {
       "id": "g261",
@@ -2021,8 +1844,7 @@
         "Platformer",
         "Action"
       ],
-      "year": 2022,
-      "players": null
+      "year": 2022
     },
     {
       "id": "g262",
@@ -2032,8 +1854,7 @@
       "genre": [
         "Racing"
       ],
-      "year": 2022,
-      "players": null
+      "year": 2022
     },
     {
       "id": "g263",
@@ -2043,8 +1864,7 @@
       "genre": [
         "Party"
       ],
-      "year": 2017,
-      "players": null
+      "year": 2017
     },
     {
       "id": "g264",
@@ -2055,8 +1875,7 @@
         "Fighting",
         "Sports"
       ],
-      "year": 2017,
-      "players": null
+      "year": 2017
     },
     {
       "id": "g265",
@@ -2080,8 +1899,7 @@
         "Sports",
         "Fitness"
       ],
-      "year": 2020,
-      "players": null
+      "year": 2020
     },
     {
       "id": "g267",
@@ -2092,8 +1910,7 @@
         "Platformer",
         "Puzzle"
       ],
-      "year": 2019,
-      "players": null
+      "year": 2019
     },
     {
       "id": "g268",
@@ -2104,8 +1921,7 @@
         "Puzzle",
         "Party"
       ],
-      "year": 2021,
-      "players": null
+      "year": 2021
     },
     {
       "id": "g269",
@@ -2128,8 +1944,7 @@
       "genre": [
         "Simulation"
       ],
-      "year": 2019,
-      "players": null
+      "year": 2019
     },
     {
       "id": "g271",
@@ -2140,8 +1955,7 @@
         "Action RPG",
         "Souls-like"
       ],
-      "year": 2018,
-      "players": null
+      "year": 2018
     },
     {
       "id": "g272",
@@ -2152,8 +1966,7 @@
         "Shooter",
         "FPS"
       ],
-      "year": 2020,
-      "players": null
+      "year": 2020
     },
     {
       "id": "g273",
@@ -2163,8 +1976,7 @@
       "genre": [
         "Platformer"
       ],
-      "year": 2018,
-      "players": null
+      "year": 2018
     },
     {
       "id": "g274",
@@ -2174,8 +1986,7 @@
       "genre": [
         "Action RPG"
       ],
-      "year": 2018,
-      "players": null
+      "year": 2018
     },
     {
       "id": "g275",
@@ -2186,8 +1997,7 @@
         "Simulation",
         "RPG"
       ],
-      "year": 2022,
-      "players": null
+      "year": 2022
     },
     {
       "id": "g276",
@@ -2197,8 +2007,7 @@
       "genre": [
         "Fighting"
       ],
-      "year": 2018,
-      "players": null
+      "year": 2018
     },
     {
       "id": "g277",
@@ -2209,8 +2018,7 @@
         "Action",
         "Roguelike"
       ],
-      "year": 2018,
-      "players": null
+      "year": 2018
     },
     {
       "id": "g278",
@@ -2221,8 +2029,7 @@
         "RPG",
         "Simulation"
       ],
-      "year": 2021,
-      "players": null
+      "year": 2021
     },
     {
       "id": "g279",
@@ -2232,8 +2039,7 @@
       "genre": [
         "Simulation"
       ],
-      "year": 2020,
-      "players": null
+      "year": 2020
     },
     {
       "id": "g280",
@@ -2244,8 +2050,7 @@
         "Sports",
         "Fitness"
       ],
-      "year": 2018,
-      "players": null
+      "year": 2018
     },
     {
       "id": "g281",
@@ -2256,8 +2061,7 @@
         "Sports",
         "Fitness"
       ],
-      "year": 2020,
-      "players": null
+      "year": 2020
     },
     {
       "id": "g282",
@@ -2267,8 +2071,7 @@
       "genre": [
         "Sports"
       ],
-      "year": 2021,
-      "players": null
+      "year": 2021
     },
     {
       "id": "g283",
@@ -2279,8 +2082,7 @@
         "Sports",
         "Strategy"
       ],
-      "year": 2021,
-      "players": null
+      "year": 2021
     },
     {
       "id": "g284",
@@ -2291,8 +2093,7 @@
         "Simulation",
         "Party"
       ],
-      "year": 2019,
-      "players": null
+      "year": 2019
     },
     {
       "id": "g285",
@@ -2316,8 +2117,7 @@
         "Music",
         "Dance"
       ],
-      "year": 2017,
-      "players": null
+      "year": 2017
     },
     {
       "id": "g287",
@@ -2328,8 +2128,7 @@
         "Music",
         "Dance"
       ],
-      "year": 2017,
-      "players": null
+      "year": 2017
     },
     {
       "id": "g288",
@@ -2340,8 +2139,7 @@
         "Music",
         "Dance"
       ],
-      "year": 2018,
-      "players": null
+      "year": 2018
     },
     {
       "id": "g289",
@@ -2352,8 +2150,7 @@
         "Music",
         "Dance"
       ],
-      "year": 2019,
-      "players": null
+      "year": 2019
     },
     {
       "id": "g290",
@@ -2364,8 +2161,7 @@
         "Music",
         "Dance"
       ],
-      "year": 2020,
-      "players": null
+      "year": 2020
     },
     {
       "id": "g291",
@@ -2376,8 +2172,7 @@
         "Music",
         "Dance"
       ],
-      "year": 2021,
-      "players": null
+      "year": 2021
     },
     {
       "id": "g292",
@@ -2387,8 +2182,7 @@
       "genre": [
         "Fighting"
       ],
-      "year": 2019,
-      "players": null
+      "year": 2019
     },
     {
       "id": "g293",
@@ -2399,8 +2193,7 @@
         "Adventure",
         "Puzzle"
       ],
-      "year": 2019,
-      "players": null
+      "year": 2019
     },
     {
       "id": "g294",
@@ -2412,8 +2205,7 @@
         "Platformer",
         "Puzzle"
       ],
-      "year": 2021,
-      "players": null
+      "year": 2021
     },
     {
       "id": "g295",
@@ -2423,8 +2215,7 @@
       "genre": [
         "Adventure"
       ],
-      "year": 2021,
-      "players": null
+      "year": 2021
     },
     {
       "id": "g296",
@@ -2434,8 +2225,7 @@
       "genre": [
         "Fighting"
       ],
-      "year": 2020,
-      "players": null
+      "year": 2020
     },
     {
       "id": "g297",
@@ -2446,8 +2236,7 @@
         "Platformer",
         "Action"
       ],
-      "year": 2018,
-      "players": null
+      "year": 2018
     },
     {
       "id": "g298",
@@ -2470,8 +2259,7 @@
       "genre": [
         "Platformer"
       ],
-      "year": 2013,
-      "players": null
+      "year": 2013
     },
     {
       "id": "g300",
@@ -2481,8 +2269,7 @@
       "genre": [
         "Action"
       ],
-      "year": 2022,
-      "players": null
+      "year": 2022
     },
     {
       "id": "g301",
@@ -2493,8 +2280,7 @@
         "RPG",
         "Action"
       ],
-      "year": 2022,
-      "players": null
+      "year": 2022
     },
     {
       "id": "g302",
@@ -2505,8 +2291,7 @@
         "RPG",
         "Adventure"
       ],
-      "year": 2019,
-      "players": null
+      "year": 2019
     },
     {
       "id": "g303",
@@ -2516,8 +2301,7 @@
       "genre": [
         "Sports"
       ],
-      "year": 2021,
-      "players": null
+      "year": 2021
     },
     {
       "id": "g304",
@@ -2527,8 +2311,7 @@
       "genre": [
         "Sports"
       ],
-      "year": 2020,
-      "players": null
+      "year": 2020
     },
     {
       "id": "g305",
@@ -2539,8 +2322,7 @@
         "Party",
         "Cooperative"
       ],
-      "year": 2020,
-      "players": null
+      "year": 2020
     },
     {
       "id": "g306",
@@ -2550,8 +2332,7 @@
       "genre": [
         "Fighting"
       ],
-      "year": 2023,
-      "players": null
+      "year": 2023
     },
     {
       "id": "g307",
@@ -2575,8 +2356,7 @@
         "RPG",
         "Action RPG"
       ],
-      "year": 2021,
-      "players": null
+      "year": 2021
     },
     {
       "id": "g309",
@@ -2586,8 +2366,7 @@
       "genre": [
         "Action RPG"
       ],
-      "year": 2022,
-      "players": null
+      "year": 2022
     },
     {
       "id": "g310",
@@ -2597,8 +2376,7 @@
       "genre": [
         "Sandbox"
       ],
-      "year": 2018,
-      "players": null
+      "year": 2018
     },
     {
       "id": "g311",
@@ -2609,8 +2387,7 @@
         "Strategy",
         "RPG"
       ],
-      "year": 2017,
-      "players": null
+      "year": 2017
     },
     {
       "id": "g312",
@@ -2633,8 +2410,7 @@
       "genre": [
         "Sports"
       ],
-      "year": 2018,
-      "players": null
+      "year": 2018
     },
     {
       "id": "g314",
@@ -2645,8 +2421,7 @@
         "Sports",
         "Party"
       ],
-      "year": 2019,
-      "players": null
+      "year": 2019
     },
     {
       "id": "g315",
@@ -2656,8 +2431,7 @@
       "genre": [
         "Sports"
       ],
-      "year": 2021,
-      "players": null
+      "year": 2021
     },
     {
       "id": "g316",
@@ -2667,8 +2441,7 @@
       "genre": [
         "Action"
       ],
-      "year": 2021,
-      "players": null
+      "year": 2021
     },
     {
       "id": "g317",
@@ -2679,8 +2452,7 @@
         "Simulation",
         "RPG"
       ],
-      "year": 2016,
-      "players": null
+      "year": 2016
     },
     {
       "id": "g318",
@@ -2690,8 +2462,7 @@
       "genre": [
         "Platformer"
       ],
-      "year": 2019,
-      "players": null
+      "year": 2019
     },
     {
       "id": "g319",
@@ -2701,8 +2472,7 @@
       "genre": [
         "Platformer"
       ],
-      "year": 2019,
-      "players": null
+      "year": 2019
     },
     {
       "id": "g320",
@@ -2712,8 +2482,7 @@
       "genre": [
         "Platformer"
       ],
-      "year": 2020,
-      "players": null
+      "year": 2020
     },
     {
       "id": "g321",
@@ -2736,8 +2505,7 @@
       "genre": [
         "Party"
       ],
-      "year": 2021,
-      "players": null
+      "year": 2021
     },
     {
       "id": "g323",
@@ -2747,8 +2515,7 @@
       "genre": [
         "Party"
       ],
-      "year": 2018,
-      "players": null
+      "year": 2018
     },
     {
       "id": "g324",
@@ -2772,8 +2539,7 @@
         "Party",
         "Action"
       ],
-      "year": 2017,
-      "players": null
+      "year": 2017
     },
     {
       "id": "g326",
@@ -2784,8 +2550,7 @@
         "Action",
         "Platformer"
       ],
-      "year": 2019,
-      "players": null
+      "year": 2019
     },
     {
       "id": "g327",
@@ -2796,8 +2561,7 @@
         "Puzzle",
         "Cooperative"
       ],
-      "year": 2017,
-      "players": null
+      "year": 2017
     },
     {
       "id": "g328",
@@ -2808,8 +2572,7 @@
         "Party",
         "Sports"
       ],
-      "year": 2018,
-      "players": null
+      "year": 2018
     },
     {
       "id": "g329",
@@ -2819,8 +2582,7 @@
       "genre": [
         "Platformer"
       ],
-      "year": 2022,
-      "players": null
+      "year": 2022
     },
     {
       "id": "g330",
@@ -2831,8 +2593,7 @@
         "Platformer",
         "Action"
       ],
-      "year": 2017,
-      "players": null
+      "year": 2017
     },
     {
       "id": "g331",
@@ -2856,8 +2617,7 @@
         "Sports",
         "Party"
       ],
-      "year": 2021,
-      "players": null
+      "year": 2021
     },
     {
       "id": "g333",
@@ -2867,8 +2627,7 @@
       "genre": [
         "Puzzle"
       ],
-      "year": 2018,
-      "players": null
+      "year": 2018
     },
     {
       "id": "g334",
@@ -2879,8 +2638,7 @@
         "Sandbox",
         "Adventure"
       ],
-      "year": 2013,
-      "players": null
+      "year": 2013
     },
     {
       "id": "g335",
@@ -2890,8 +2648,7 @@
       "genre": [
         "Racing"
       ],
-      "year": 2019,
-      "players": null
+      "year": 2019
     },
     {
       "id": "g336",
@@ -2901,8 +2658,7 @@
       "genre": [
         "Party"
       ],
-      "year": 2019,
-      "players": null
+      "year": 2019
     },
     {
       "id": "g337",
@@ -2914,8 +2670,7 @@
         "Adventure",
         "Open World"
       ],
-      "year": 2017,
-      "players": null
+      "year": 2017
     },
     {
       "id": "g338",
@@ -2926,8 +2681,7 @@
         "Action",
         "Adventure"
       ],
-      "year": 2021,
-      "players": null
+      "year": 2021
     },
     {
       "id": "g339",
@@ -2938,8 +2692,7 @@
         "RPG",
         "Open World"
       ],
-      "year": 2019,
-      "players": null
+      "year": 2019
     },
     {
       "id": "g340",
@@ -2950,8 +2703,7 @@
         "RPG",
         "Open World"
       ],
-      "year": 2017,
-      "players": null
+      "year": 2017
     },
     {
       "id": "g341",
@@ -2962,8 +2714,7 @@
         "Adventure",
         "Puzzle"
       ],
-      "year": 2022,
-      "players": null
+      "year": 2022
     },
     {
       "id": "g342",
@@ -2973,8 +2724,7 @@
       "genre": [
         "Platformer"
       ],
-      "year": 2019,
-      "players": null
+      "year": 2019
     },
     {
       "id": "g343",
@@ -2985,8 +2735,7 @@
         "Shooter",
         "Cooperative"
       ],
-      "year": 2021,
-      "players": null
+      "year": 2021
     },
     {
       "id": "g344",
@@ -2996,8 +2745,18 @@
       "genre": [
         "Party"
       ],
-      "year": 2017,
-      "players": null
+      "year": 2017
+    },
+    {
+      "id": "g345",
+      "platformId": "ps45",
+      "name": "Crimson Desert",
+      "ytId": "",
+      "genre": [
+        "Action RPG",
+        "Open World"
+      ],
+      "year": 2025
     },
     {
       "id": "g346",
@@ -3008,8 +2767,7 @@
         "Horror",
         "Survival Horror"
       ],
-      "year": 2025,
-      "players": null
+      "year": 2025
     },
     {
       "id": "g347",
@@ -3020,8 +2778,7 @@
         "Action RPG",
         "Souls-like"
       ],
-      "year": 2025,
-      "players": null
+      "year": 2025
     },
     {
       "id": "g348",
@@ -3032,8 +2789,7 @@
         "Platformer",
         "Action"
       ],
-      "year": 2025,
-      "players": null
+      "year": 2025
     },
     {
       "id": "g349",
@@ -3044,8 +2800,7 @@
         "Shooter",
         "FPS"
       ],
-      "year": 2025,
-      "players": null
+      "year": 2025
     },
     {
       "id": "g350",
@@ -3056,8 +2811,7 @@
         "Shooter",
         "FPS"
       ],
-      "year": 2025,
-      "players": null
+      "year": 2025
     },
     {
       "id": "g351",
@@ -3080,8 +2834,7 @@
         "Shooter",
         "FPS"
       ],
-      "year": 2025,
-      "players": null
+      "year": 2025
     },
     {
       "id": "g353",
@@ -3093,8 +2846,7 @@
         "Adventure",
         "Open World"
       ],
-      "year": 2025,
-      "players": null
+      "year": 2025
     },
     {
       "id": "g354",
@@ -3104,8 +2856,7 @@
       "genre": [
         "Horror"
       ],
-      "year": 2025,
-      "players": null
+      "year": 2025
     },
     {
       "id": "g355",
@@ -3116,8 +2867,7 @@
         "Action",
         "Shooter"
       ],
-      "year": 2024,
-      "players": null
+      "year": 2024
     },
     {
       "id": "g356",
@@ -3127,8 +2877,7 @@
       "genre": [
         "Sports"
       ],
-      "year": 2025,
-      "players": null
+      "year": 2025
     },
     {
       "id": "g357",
@@ -3140,8 +2889,7 @@
         "Survival",
         "Open World"
       ],
-      "year": 2015,
-      "players": null
+      "year": 2015
     },
     {
       "id": "g358",
@@ -3151,8 +2899,7 @@
       "genre": [
         "Sports"
       ],
-      "year": 2025,
-      "players": null
+      "year": 2025
     },
     {
       "id": "g359",
@@ -3176,8 +2923,7 @@
         "Shooter",
         "RPG"
       ],
-      "year": 2019,
-      "players": null
+      "year": 2019
     },
     {
       "id": "g361",
@@ -3187,8 +2933,7 @@
       "genre": [
         "Action RPG"
       ],
-      "year": 2025,
-      "players": null
+      "year": 2025
     },
     {
       "id": "g362",
@@ -3199,8 +2944,7 @@
         "Sports",
         "Fighting"
       ],
-      "year": 2024,
-      "players": null
+      "year": 2024
     },
     {
       "id": "g363",
@@ -3211,8 +2955,7 @@
         "Action RPG",
         "Souls-like"
       ],
-      "year": 2025,
-      "players": null
+      "year": 2025
     },
     {
       "id": "g364",
@@ -3223,8 +2966,7 @@
         "Action",
         "Open World"
       ],
-      "year": 2025,
-      "players": null
+      "year": 2025
     },
     {
       "id": "g365",
@@ -3235,8 +2977,7 @@
         "Action",
         "Adventure"
       ],
-      "year": 2025,
-      "players": null
+      "year": 2025
     },
     {
       "id": "g366",
@@ -3247,8 +2988,7 @@
         "Horror",
         "Puzzle"
       ],
-      "year": 2025,
-      "players": null
+      "year": 2025
     },
     {
       "id": "g367",
@@ -3259,8 +2999,7 @@
         "RPG",
         "Action"
       ],
-      "year": 2024,
-      "players": null
+      "year": 2024
     },
     {
       "id": "g368",
@@ -3271,8 +3010,7 @@
         "Survival",
         "Open World"
       ],
-      "year": 2022,
-      "players": null
+      "year": 2022
     },
     {
       "id": "g369",
@@ -3283,8 +3021,7 @@
         "Action RPG",
         "Souls-like"
       ],
-      "year": 2023,
-      "players": null
+      "year": 2023
     },
     {
       "id": "g370",
@@ -3295,8 +3032,7 @@
         "Party",
         "Simulation"
       ],
-      "year": 2022,
-      "players": null
+      "year": 2022
     },
     {
       "id": "g371",
@@ -3307,8 +3043,7 @@
         "Adventure",
         "Puzzle"
       ],
-      "year": 2022,
-      "players": null
+      "year": 2022
     },
     {
       "id": "g372",
@@ -3319,8 +3054,7 @@
         "Horror",
         "Stealth"
       ],
-      "year": 2024,
-      "players": null
+      "year": 2024
     },
     {
       "id": "g373",
@@ -3330,8 +3064,7 @@
       "genre": [
         "Sports"
       ],
-      "year": 2025,
-      "players": null
+      "year": 2025
     },
     {
       "id": "g374",
@@ -3342,8 +3075,7 @@
         "Action RPG",
         "Souls-like"
       ],
-      "year": 2025,
-      "players": null
+      "year": 2025
     },
     {
       "id": "g375",
@@ -3354,8 +3086,7 @@
         "RPG",
         "Simulation"
       ],
-      "year": 2024,
-      "players": null
+      "year": 2024
     },
     {
       "id": "g376",
@@ -3365,8 +3096,7 @@
       "genre": [
         "RPG"
       ],
-      "year": 2025,
-      "players": null
+      "year": 2025
     },
     {
       "id": "g377",
@@ -3389,8 +3119,7 @@
         "Shooter",
         "Action"
       ],
-      "year": 2023,
-      "players": null
+      "year": 2023
     },
     {
       "id": "g379",
@@ -3401,8 +3130,7 @@
         "Action RPG",
         "Souls-like"
       ],
-      "year": 2025,
-      "players": null
+      "year": 2025
     },
     {
       "id": "g380",
@@ -3413,8 +3141,7 @@
         "Action RPG",
         "Open World"
       ],
-      "year": 2025,
-      "players": null
+      "year": 2025
     },
     {
       "id": "g381",
@@ -3425,8 +3152,7 @@
         "Action",
         "Platformer"
       ],
-      "year": 2024,
-      "players": null
+      "year": 2024
     },
     {
       "id": "g382",
@@ -3436,8 +3162,7 @@
       "genre": [
         "Action RPG"
       ],
-      "year": 2024,
-      "players": null
+      "year": 2024
     },
     {
       "id": "g383",
@@ -3447,8 +3172,7 @@
       "genre": [
         "Action RPG"
       ],
-      "year": 2025,
-      "players": null
+      "year": 2025
     },
     {
       "id": "g384",
@@ -3459,8 +3183,7 @@
         "RPG",
         "Open World"
       ],
-      "year": 2025,
-      "players": null
+      "year": 2025
     },
     {
       "id": "g385",
@@ -3470,8 +3193,7 @@
       "genre": [
         "Action"
       ],
-      "year": 2025,
-      "players": null
+      "year": 2025
     },
     {
       "id": "g386",
@@ -3481,8 +3203,7 @@
       "genre": [
         "Action RPG"
       ],
-      "year": 2022,
-      "players": null
+      "year": 2022
     },
     {
       "id": "g387",
@@ -3493,8 +3214,7 @@
         "RPG",
         "Action"
       ],
-      "year": 2023,
-      "players": null
+      "year": 2023
     },
     {
       "id": "g388",
@@ -3505,8 +3225,7 @@
         "Action RPG",
         "Open World"
       ],
-      "year": 2023,
-      "players": null
+      "year": 2023
     },
     {
       "id": "g389",
@@ -3517,8 +3236,7 @@
         "Action",
         "Shooter"
       ],
-      "year": 2024,
-      "players": null
+      "year": 2024
     },
     {
       "id": "g390",
@@ -3528,8 +3246,7 @@
       "genre": [
         "Action RPG"
       ],
-      "year": 2024,
-      "players": null
+      "year": 2024
     },
     {
       "id": "g391",
@@ -3540,8 +3257,7 @@
         "Shooter",
         "FPS"
       ],
-      "year": 2024,
-      "players": null
+      "year": 2024
     },
     {
       "id": "g392",
@@ -3590,8 +3306,7 @@
       "genre": [
         "RPG"
       ],
-      "year": 2024,
-      "players": null
+      "year": 2024
     },
     {
       "id": "g396",
@@ -3615,8 +3330,7 @@
         "Racing",
         "Sports"
       ],
-      "year": 2024,
-      "players": null
+      "year": 2024
     },
     {
       "id": "g398",
@@ -3640,8 +3354,7 @@
         "Horror",
         "Action"
       ],
-      "year": 2023,
-      "players": null
+      "year": 2023
     },
     {
       "id": "g400",
@@ -3677,8 +3390,7 @@
       "genre": [
         "Sports"
       ],
-      "year": 2024,
-      "players": null
+      "year": 2024
     },
     {
       "id": "g403",
@@ -3688,8 +3400,7 @@
       "genre": [
         "Sports"
       ],
-      "year": 2024,
-      "players": null
+      "year": 2024
     },
     {
       "id": "g404",
@@ -3701,8 +3412,7 @@
         "Platformer",
         "Puzzle"
       ],
-      "year": 2021,
-      "players": null
+      "year": 2021
     },
     {
       "id": "g405",
@@ -3713,8 +3423,7 @@
         "Shooter",
         "FPS"
       ],
-      "year": 2025,
-      "players": null
+      "year": 2025
     },
     {
       "id": "g406",
@@ -3749,8 +3458,7 @@
       "genre": [
         "RPG"
       ],
-      "year": 2024,
-      "players": null
+      "year": 2024
     },
     {
       "id": "g409",
@@ -3761,8 +3469,7 @@
         "Action RPG",
         "Shooter"
       ],
-      "year": 2023,
-      "players": null
+      "year": 2023
     },
     {
       "id": "g410",
@@ -3772,8 +3479,7 @@
       "genre": [
         "Action RPG"
       ],
-      "year": 2022,
-      "players": null
+      "year": 2022
     },
     {
       "id": "g411",
@@ -3783,8 +3489,7 @@
       "genre": [
         "Simulation"
       ],
-      "year": 2022,
-      "players": null
+      "year": 2022
     },
     {
       "id": "g412",
@@ -3794,8 +3499,7 @@
       "genre": [
         "Action RPG"
       ],
-      "year": 2019,
-      "players": null
+      "year": 2019
     },
     {
       "id": "g413",
@@ -3805,8 +3509,7 @@
       "genre": [
         "Action RPG"
       ],
-      "year": 2022,
-      "players": null
+      "year": 2022
     },
     {
       "id": "g414",
@@ -3817,8 +3520,7 @@
         "Sports",
         "Strategy"
       ],
-      "year": 2023,
-      "players": null
+      "year": 2023
     },
     {
       "id": "g415",
@@ -3829,8 +3531,7 @@
         "Racing",
         "Sports"
       ],
-      "year": 2023,
-      "players": null
+      "year": 2023
     },
     {
       "id": "g416",
@@ -3841,8 +3542,7 @@
         "Strategy",
         "Simulation"
       ],
-      "year": 2023,
-      "players": null
+      "year": 2023
     },
     {
       "id": "g417",
@@ -3853,8 +3553,7 @@
         "Adventure",
         "Puzzle"
       ],
-      "year": 2018,
-      "players": null
+      "year": 2018
     },
     {
       "id": "g418",
@@ -3865,8 +3564,7 @@
         "Adventure",
         "Puzzle"
       ],
-      "year": 2014,
-      "players": null
+      "year": 2014
     },
     {
       "id": "g419",
@@ -3876,8 +3574,7 @@
       "genre": [
         "Sports"
       ],
-      "year": 2023,
-      "players": null
+      "year": 2023
     },
     {
       "id": "g420",
@@ -3888,8 +3585,7 @@
         "Adventure",
         "Puzzle"
       ],
-      "year": 2017,
-      "players": null
+      "year": 2017
     },
     {
       "id": "g421",
@@ -3900,8 +3596,7 @@
         "Strategy",
         "RPG"
       ],
-      "year": 2023,
-      "players": null
+      "year": 2023
     },
     {
       "id": "g422",
@@ -3912,8 +3607,7 @@
         "Action RPG",
         "Souls-like"
       ],
-      "year": 2024,
-      "players": null
+      "year": 2024
     },
     {
       "id": "g423",
@@ -3924,8 +3618,7 @@
         "Adventure",
         "Horror"
       ],
-      "year": 2023,
-      "players": null
+      "year": 2023
     },
     {
       "id": "g424",
@@ -3935,8 +3628,7 @@
       "genre": [
         "Horror"
       ],
-      "year": 2018,
-      "players": null
+      "year": 2018
     },
     {
       "id": "g425",
@@ -3946,8 +3638,7 @@
       "genre": [
         "Action"
       ],
-      "year": 2020,
-      "players": null
+      "year": 2020
     },
     {
       "id": "g426",
@@ -3958,8 +3649,7 @@
         "RPG",
         "Action"
       ],
-      "year": 2023,
-      "players": null
+      "year": 2023
     },
     {
       "id": "g427",
@@ -3970,8 +3660,7 @@
         "Simulation",
         "RPG"
       ],
-      "year": 2022,
-      "players": null
+      "year": 2022
     },
     {
       "id": "g428",
@@ -3982,8 +3671,7 @@
         "Action RPG",
         "Adventure"
       ],
-      "year": 2023,
-      "players": null
+      "year": 2023
     },
     {
       "id": "g429",
@@ -3993,8 +3681,7 @@
       "genre": [
         "Action"
       ],
-      "year": 2023,
-      "players": null
+      "year": 2023
     },
     {
       "id": "g430",
@@ -4005,8 +3692,7 @@
         "Adventure",
         "Simulation"
       ],
-      "year": 2024,
-      "players": null
+      "year": 2024
     },
     {
       "id": "g431",
@@ -4016,8 +3702,7 @@
       "genre": [
         "Party"
       ],
-      "year": 2023,
-      "players": null
+      "year": 2023
     },
     {
       "id": "g432",
@@ -4027,8 +3712,7 @@
       "genre": [
         "Simulation"
       ],
-      "year": 2022,
-      "players": null
+      "year": 2022
     },
     {
       "id": "g433",
@@ -4039,8 +3723,7 @@
         "Adventure",
         "Puzzle"
       ],
-      "year": 2017,
-      "players": null
+      "year": 2017
     },
     {
       "id": "g434",
@@ -4051,8 +3734,7 @@
         "Adventure",
         "Puzzle"
       ],
-      "year": 2016,
-      "players": null
+      "year": 2016
     },
     {
       "id": "g435",
@@ -4063,8 +3745,7 @@
         "Action",
         "Strategy"
       ],
-      "year": 2023,
-      "players": null
+      "year": 2023
     },
     {
       "id": "g436",
@@ -4075,8 +3756,7 @@
         "Shooter",
         "Action"
       ],
-      "year": 2023,
-      "players": null
+      "year": 2023
     },
     {
       "id": "g437",
@@ -4087,8 +3767,7 @@
         "Action RPG",
         "Open World"
       ],
-      "year": 2024,
-      "players": null
+      "year": 2024
     },
     {
       "id": "g438",
@@ -4123,8 +3802,7 @@
       "genre": [
         "Shooter"
       ],
-      "year": 2024,
-      "players": null
+      "year": 2024
     },
     {
       "id": "g441",
@@ -4159,8 +3837,7 @@
         "Shooter",
         "FPS"
       ],
-      "year": 2023,
-      "players": null
+      "year": 2023
     },
     {
       "id": "g444",
@@ -4171,8 +3848,7 @@
         "Action",
         "Adventure"
       ],
-      "year": 2022,
-      "players": null
+      "year": 2022
     },
     {
       "id": "g445",
@@ -4183,8 +3859,7 @@
         "Action",
         "Shooter"
       ],
-      "year": 2022,
-      "players": null
+      "year": 2022
     },
     {
       "id": "g446",
@@ -4194,8 +3869,7 @@
       "genre": [
         "Action RPG"
       ],
-      "year": 2022,
-      "players": null
+      "year": 2022
     },
     {
       "id": "g447",
@@ -4206,8 +3880,7 @@
         "Action",
         "Open World"
       ],
-      "year": 2023,
-      "players": null
+      "year": 2023
     },
     {
       "id": "g448",
@@ -4217,8 +3890,7 @@
       "genre": [
         "Racing"
       ],
-      "year": 2023,
-      "players": null
+      "year": 2023
     },
     {
       "id": "g449",
@@ -4229,8 +3901,7 @@
         "Horror",
         "Action"
       ],
-      "year": 2023,
-      "players": null
+      "year": 2023
     },
     {
       "id": "g450",
@@ -4252,8 +3923,7 @@
       "genre": [
         "Action RPG"
       ],
-      "year": 2017,
-      "players": null
+      "year": 2017
     },
     {
       "id": "g452",
@@ -4264,8 +3934,7 @@
         "Action",
         "Adventure"
       ],
-      "year": 2023,
-      "players": null
+      "year": 2023
     },
     {
       "id": "g453",
@@ -4289,8 +3958,7 @@
         "Action",
         "Open World"
       ],
-      "year": 2022,
-      "players": null
+      "year": 2022
     },
     {
       "id": "g455",
@@ -4301,8 +3969,7 @@
         "Action RPG",
         "Souls-like"
       ],
-      "year": 2019,
-      "players": null
+      "year": 2019
     },
     {
       "id": "g456",
@@ -4312,8 +3979,7 @@
       "genre": [
         "Action RPG"
       ],
-      "year": 2023,
-      "players": null
+      "year": 2023
     },
     {
       "id": "g457",
@@ -4348,8 +4014,7 @@
         "Action",
         "Open World"
       ],
-      "year": 2023,
-      "players": null
+      "year": 2023
     },
     {
       "id": "g460",
@@ -4360,8 +4025,7 @@
         "Action",
         "Adventure"
       ],
-      "year": 2023,
-      "players": null
+      "year": 2023
     },
     {
       "id": "g461",
@@ -4372,8 +4036,7 @@
         "Sports",
         "Fighting"
       ],
-      "year": 2023,
-      "players": null
+      "year": 2023
     },
     {
       "id": "g462",
@@ -4383,8 +4046,7 @@
       "genre": [
         "Sports"
       ],
-      "year": 2022,
-      "players": null
+      "year": 2022
     },
     {
       "id": "g463",
@@ -4395,8 +4057,7 @@
         "Action",
         "Adventure"
       ],
-      "year": 2022,
-      "players": null
+      "year": 2022
     },
     {
       "id": "g464",
@@ -4407,8 +4068,7 @@
         "Strategy",
         "Simulation"
       ],
-      "year": 2021,
-      "players": null
+      "year": 2021
     },
     {
       "id": "g465",
@@ -4418,8 +4078,7 @@
       "genre": [
         "Puzzle"
       ],
-      "year": 2023,
-      "players": null
+      "year": 2023
     },
     {
       "id": "g466",
@@ -4430,8 +4089,7 @@
         "Shooter",
         "FPS"
       ],
-      "year": 2020,
-      "players": null
+      "year": 2020
     },
     {
       "id": "g467",
@@ -4442,8 +4100,7 @@
         "Horror",
         "Action"
       ],
-      "year": 2021,
-      "players": null
+      "year": 2021
     },
     {
       "id": "g468",
@@ -4454,8 +4111,7 @@
         "Platformer",
         "Action"
       ],
-      "year": 2021,
-      "players": null
+      "year": 2021
     },
     {
       "id": "g469",
@@ -4478,8 +4134,7 @@
         "Action",
         "Adventure"
       ],
-      "year": 2019,
-      "players": null
+      "year": 2019
     },
     {
       "id": "g471",
@@ -4489,8 +4144,7 @@
       "genre": [
         "Sports"
       ],
-      "year": 2020,
-      "players": null
+      "year": 2020
     },
     {
       "id": "g472",
@@ -4501,8 +4155,7 @@
         "Survival",
         "Open World"
       ],
-      "year": 2017,
-      "players": null
+      "year": 2017
     },
     {
       "id": "g473",
@@ -4513,8 +4166,7 @@
         "Action RPG",
         "Open World"
       ],
-      "year": 2018,
-      "players": null
+      "year": 2018
     },
     {
       "id": "g474",
@@ -4525,8 +4177,7 @@
         "Action RPG",
         "Open World"
       ],
-      "year": 2020,
-      "players": null
+      "year": 2020
     },
     {
       "id": "g475",
@@ -4537,8 +4188,7 @@
         "Shooter",
         "Battle Royale"
       ],
-      "year": 2019,
-      "players": null
+      "year": 2019
     },
     {
       "id": "g476",
@@ -4549,8 +4199,7 @@
         "Shooter",
         "FPS"
       ],
-      "year": 2018,
-      "players": null
+      "year": 2018
     },
     {
       "id": "g477",
@@ -4561,8 +4210,7 @@
         "Shooter",
         "FPS"
       ],
-      "year": 2013,
-      "players": null
+      "year": 2013
     },
     {
       "id": "g478",
@@ -4573,8 +4221,7 @@
         "Shooter",
         "Horror"
       ],
-      "year": 2020,
-      "players": null
+      "year": 2020
     },
     {
       "id": "g479",
@@ -4585,8 +4232,7 @@
         "Action RPG",
         "Souls-like"
       ],
-      "year": 2015,
-      "players": null
+      "year": 2015
     },
     {
       "id": "g480",
@@ -4596,8 +4242,7 @@
       "genre": [
         "Racing"
       ],
-      "year": 2018,
-      "players": null
+      "year": 2018
     },
     {
       "id": "g481",
@@ -4608,8 +4253,7 @@
         "Shooter",
         "FPS"
       ],
-      "year": 2015,
-      "players": null
+      "year": 2015
     },
     {
       "id": "g482",
@@ -4620,8 +4264,7 @@
         "Shooter",
         "FPS"
       ],
-      "year": 2018,
-      "players": null
+      "year": 2018
     },
     {
       "id": "g483",
@@ -4632,8 +4275,7 @@
         "Shooter",
         "FPS"
       ],
-      "year": 2022,
-      "players": null
+      "year": 2022
     },
     {
       "id": "g484",
@@ -4644,8 +4286,7 @@
         "Shooter",
         "Battle Royale"
       ],
-      "year": 2020,
-      "players": null
+      "year": 2020
     },
     {
       "id": "g485",
@@ -4656,8 +4297,7 @@
         "Shooter",
         "FPS"
       ],
-      "year": 2017,
-      "players": null
+      "year": 2017
     },
     {
       "id": "g486",
@@ -4668,8 +4308,7 @@
         "Action",
         "Shooter"
       ],
-      "year": 2019,
-      "players": null
+      "year": 2019
     },
     {
       "id": "g487",
@@ -4694,8 +4333,7 @@
         "Open World",
         "Survival"
       ],
-      "year": 2019,
-      "players": null
+      "year": 2019
     },
     {
       "id": "g489",
@@ -4706,8 +4344,7 @@
         "Action",
         "Adventure"
       ],
-      "year": 2021,
-      "players": null
+      "year": 2021
     },
     {
       "id": "g490",
@@ -4718,8 +4355,7 @@
         "Action",
         "Shooter"
       ],
-      "year": 2021,
-      "players": null
+      "year": 2021
     },
     {
       "id": "g491",
@@ -4742,8 +4378,7 @@
       "genre": [
         "Adventure"
       ],
-      "year": 2018,
-      "players": null
+      "year": 2018
     },
     {
       "id": "g493",
@@ -4753,8 +4388,7 @@
       "genre": [
         "Racing"
       ],
-      "year": 2020,
-      "players": null
+      "year": 2020
     },
     {
       "id": "g494",
@@ -4766,8 +4400,7 @@
         "Survival",
         "Open World"
       ],
-      "year": 2015,
-      "players": null
+      "year": 2015
     },
     {
       "id": "g495",
@@ -4779,8 +4412,7 @@
         "Survival",
         "Open World"
       ],
-      "year": 2022,
-      "players": null
+      "year": 2022
     },
     {
       "id": "g496",
@@ -4790,8 +4422,7 @@
       "genre": [
         "Action"
       ],
-      "year": 2018,
-      "players": null
+      "year": 2018
     },
     {
       "id": "g497",
@@ -4801,8 +4432,7 @@
       "genre": [
         "Sports"
       ],
-      "year": 2023,
-      "players": null
+      "year": 2023
     },
     {
       "id": "g498",
@@ -4826,8 +4456,7 @@
       "genre": [
         "Sports"
       ],
-      "year": 2017,
-      "players": null
+      "year": 2017
     },
     {
       "id": "g500",
@@ -4838,8 +4467,7 @@
         "Horror",
         "Action"
       ],
-      "year": 2014,
-      "players": null
+      "year": 2014
     },
     {
       "id": "g501",
@@ -4850,8 +4478,7 @@
         "Horror",
         "Action"
       ],
-      "year": 2017,
-      "players": null
+      "year": 2017
     },
     {
       "id": "g502",
@@ -4862,8 +4489,7 @@
         "Shooter",
         "Open World"
       ],
-      "year": 2018,
-      "players": null
+      "year": 2018
     },
     {
       "id": "g503",
@@ -4874,8 +4500,7 @@
         "Shooter",
         "Open World"
       ],
-      "year": 2021,
-      "players": null
+      "year": 2021
     },
     {
       "id": "g504",
@@ -4886,8 +4511,7 @@
         "Shooter",
         "Open World"
       ],
-      "year": 2016,
-      "players": null
+      "year": 2016
     },
     {
       "id": "g505",
@@ -4899,8 +4523,7 @@
         "Open World",
         "Survival"
       ],
-      "year": 2015,
-      "players": null
+      "year": 2015
     },
     {
       "id": "g506",
@@ -4910,8 +4533,7 @@
       "genre": [
         "Sports"
       ],
-      "year": 2021,
-      "players": null
+      "year": 2021
     },
     {
       "id": "g507",
@@ -4921,8 +4543,7 @@
       "genre": [
         "Sports"
       ],
-      "year": 2022,
-      "players": null
+      "year": 2022
     },
     {
       "id": "g508",
@@ -4933,8 +4554,7 @@
         "RPG",
         "Action RPG"
       ],
-      "year": 2020,
-      "players": null
+      "year": 2020
     },
     {
       "id": "g509",
@@ -4945,8 +4565,7 @@
         "Shooter",
         "Battle Royale"
       ],
-      "year": 2017,
-      "players": null
+      "year": 2017
     },
     {
       "id": "g510",
@@ -4957,8 +4576,7 @@
         "Action",
         "Fighting"
       ],
-      "year": 2017,
-      "players": null
+      "year": 2017
     },
     {
       "id": "g511",
@@ -4969,8 +4587,7 @@
         "Action RPG",
         "Open World"
       ],
-      "year": 2023,
-      "players": null
+      "year": 2023
     },
     {
       "id": "g512",
@@ -4994,8 +4611,7 @@
         "Shooter",
         "Open World"
       ],
-      "year": 2019,
-      "players": null
+      "year": 2019
     },
     {
       "id": "g514",
@@ -5005,8 +4621,7 @@
       "genre": [
         "Action"
       ],
-      "year": 2020,
-      "players": null
+      "year": 2020
     },
     {
       "id": "g515",
@@ -5017,8 +4632,7 @@
         "Action",
         "Adventure"
       ],
-      "year": 2022,
-      "players": null
+      "year": 2022
     },
     {
       "id": "g516",
@@ -5041,8 +4655,7 @@
         "Action",
         "Adventure"
       ],
-      "year": 2015,
-      "players": null
+      "year": 2015
     },
     {
       "id": "g518",
@@ -5077,8 +4690,7 @@
         "Action",
         "Adventure"
       ],
-      "year": 2017,
-      "players": null
+      "year": 2017
     },
     {
       "id": "g521",
@@ -5089,8 +4701,7 @@
         "RPG",
         "Open World"
       ],
-      "year": 2019,
-      "players": null
+      "year": 2019
     },
     {
       "id": "g522",
@@ -5113,8 +4724,7 @@
         "Action",
         "Open World"
       ],
-      "year": 2014,
-      "players": null
+      "year": 2014
     },
     {
       "id": "g524",
@@ -5125,8 +4735,7 @@
         "Shooter",
         "Cooperative"
       ],
-      "year": 2015,
-      "players": null
+      "year": 2015
     },
     {
       "id": "g525",
@@ -5136,8 +4745,7 @@
       "genre": [
         "Horror"
       ],
-      "year": 2019,
-      "players": null
+      "year": 2019
     },
     {
       "id": "g526",
@@ -5148,8 +4756,7 @@
         "Action",
         "Stealth"
       ],
-      "year": 2021,
-      "players": null
+      "year": 2021
     },
     {
       "id": "g527",
@@ -5160,8 +4767,7 @@
         "Action",
         "Stealth"
       ],
-      "year": 2018,
-      "players": null
+      "year": 2018
     },
     {
       "id": "g528",
@@ -5172,8 +4778,7 @@
         "Action",
         "Stealth"
       ],
-      "year": 2021,
-      "players": null
+      "year": 2021
     },
     {
       "id": "g529",
@@ -5210,8 +4815,7 @@
         "Action",
         "VR"
       ],
-      "year": 2023,
-      "players": null
+      "year": 2023
     },
     {
       "id": "g532",
@@ -5235,8 +4839,7 @@
         "Action RPG",
         "Open World"
       ],
-      "year": 2017,
-      "players": null
+      "year": 2017
     },
     {
       "id": "g534",
@@ -5246,8 +4849,7 @@
       "genre": [
         "Racing"
       ],
-      "year": 2021,
-      "players": null
+      "year": 2021
     },
     {
       "id": "g535",
@@ -5258,8 +4860,7 @@
         "Puzzle",
         "Party"
       ],
-      "year": 2016,
-      "players": null
+      "year": 2016
     },
     {
       "id": "g536",
@@ -5270,8 +4871,7 @@
         "Action",
         "Open World"
       ],
-      "year": 2014,
-      "players": null
+      "year": 2014
     },
     {
       "id": "g537",
@@ -5281,8 +4881,7 @@
       "genre": [
         "Fighting"
       ],
-      "year": 2017,
-      "players": null
+      "year": 2017
     },
     {
       "id": "g538",
@@ -5293,8 +4892,7 @@
         "Action",
         "Adventure"
       ],
-      "year": 2019,
-      "players": null
+      "year": 2019
     },
     {
       "id": "g539",
@@ -5305,8 +4903,7 @@
         "Action",
         "Open World"
       ],
-      "year": 2018,
-      "players": null
+      "year": 2018
     },
     {
       "id": "g540",
@@ -5317,8 +4914,7 @@
         "Action",
         "Adventure"
       ],
-      "year": 2021,
-      "players": null
+      "year": 2021
     },
     {
       "id": "g541",
@@ -5329,8 +4925,7 @@
         "Adventure",
         "Puzzle"
       ],
-      "year": 2010,
-      "players": null
+      "year": 2010
     },
     {
       "id": "g542",
@@ -5341,8 +4936,7 @@
         "Adventure",
         "Puzzle"
       ],
-      "year": 2014,
-      "players": null
+      "year": 2014
     },
     {
       "id": "g543",
@@ -5353,8 +4947,7 @@
         "Action",
         "Open World"
       ],
-      "year": 2015,
-      "players": null
+      "year": 2015
     },
     {
       "id": "g544",
@@ -5365,8 +4958,7 @@
         "Horror",
         "Adventure"
       ],
-      "year": 2019,
-      "players": null
+      "year": 2019
     },
     {
       "id": "g545",
@@ -5377,8 +4969,7 @@
         "Action",
         "Open World"
       ],
-      "year": 2020,
-      "players": null
+      "year": 2020
     },
     {
       "id": "g546",
@@ -5388,8 +4979,7 @@
       "genre": [
         "Fighting"
       ],
-      "year": 2017,
-      "players": null
+      "year": 2017
     },
     {
       "id": "g547",
@@ -5400,8 +4990,7 @@
         "Action",
         "Adventure"
       ],
-      "year": 2021,
-      "players": null
+      "year": 2021
     },
     {
       "id": "g548",
@@ -5412,8 +5001,7 @@
         "Action",
         "Stealth"
       ],
-      "year": 2015,
-      "players": null
+      "year": 2015
     },
     {
       "id": "g549",
@@ -5424,8 +5012,7 @@
         "Action RPG",
         "Open World"
       ],
-      "year": 2017,
-      "players": null
+      "year": 2017
     },
     {
       "id": "g550",
@@ -5435,8 +5022,7 @@
       "genre": [
         "Racing"
       ],
-      "year": 2020,
-      "players": null
+      "year": 2020
     },
     {
       "id": "g551",
@@ -5460,8 +5046,7 @@
         "Action",
         "Fighting"
       ],
-      "year": 2017,
-      "players": null
+      "year": 2017
     },
     {
       "id": "g553",
@@ -5471,8 +5056,7 @@
       "genre": [
         "Sports"
       ],
-      "year": 2019,
-      "players": null
+      "year": 2019
     },
     {
       "id": "g554",
@@ -5482,8 +5066,7 @@
       "genre": [
         "Sports"
       ],
-      "year": 2021,
-      "players": null
+      "year": 2021
     },
     {
       "id": "g555",
@@ -5494,8 +5077,7 @@
         "Action RPG",
         "Souls-like"
       ],
-      "year": 2017,
-      "players": null
+      "year": 2017
     },
     {
       "id": "g556",
@@ -5506,8 +5088,7 @@
         "Action RPG",
         "Souls-like"
       ],
-      "year": 2020,
-      "players": null
+      "year": 2020
     },
     {
       "id": "g557",
@@ -5519,8 +5100,7 @@
         "Survival",
         "Adventure"
       ],
-      "year": 2016,
-      "players": null
+      "year": 2016
     },
     {
       "id": "g558",
@@ -5531,8 +5111,7 @@
         "Platformer",
         "Action"
       ],
-      "year": 2021,
-      "players": null
+      "year": 2021
     },
     {
       "id": "g559",
@@ -5543,8 +5122,7 @@
         "Horror",
         "Survival Horror"
       ],
-      "year": 2017,
-      "players": null
+      "year": 2017
     },
     {
       "id": "g560",
@@ -5555,8 +5133,7 @@
         "Horror",
         "Survival Horror"
       ],
-      "year": 2017,
-      "players": null
+      "year": 2017
     },
     {
       "id": "g561",
@@ -5567,8 +5144,7 @@
         "Party",
         "Cooperative"
       ],
-      "year": 2016,
-      "players": null
+      "year": 2016
     },
     {
       "id": "g562",
@@ -5604,8 +5180,7 @@
         "RPG",
         "Action"
       ],
-      "year": 2021,
-      "players": null
+      "year": 2021
     },
     {
       "id": "g565",
@@ -5615,8 +5190,7 @@
       "genre": [
         "Sports"
       ],
-      "year": 2021,
-      "players": null
+      "year": 2021
     },
     {
       "id": "g566",
@@ -5626,8 +5200,7 @@
       "genre": [
         "Sports"
       ],
-      "year": 2021,
-      "players": null
+      "year": 2021
     },
     {
       "id": "g567",
@@ -5637,8 +5210,7 @@
       "genre": [
         "Shooter"
       ],
-      "year": 2019,
-      "players": null
+      "year": 2019
     },
     {
       "id": "g568",
@@ -5649,8 +5221,7 @@
         "Strategy",
         "Simulation"
       ],
-      "year": 2016,
-      "players": null
+      "year": 2016
     },
     {
       "id": "g569",
@@ -5660,8 +5231,7 @@
       "genre": [
         "Platformer"
       ],
-      "year": 2013,
-      "players": null
+      "year": 2013
     },
     {
       "id": "g570",
@@ -5685,8 +5255,7 @@
         "Horror",
         "Survival Horror"
       ],
-      "year": 2019,
-      "players": null
+      "year": 2019
     },
     {
       "id": "g572",
@@ -5697,8 +5266,7 @@
         "Horror",
         "Survival Horror"
       ],
-      "year": 2020,
-      "players": null
+      "year": 2020
     },
     {
       "id": "g573",
@@ -5709,8 +5277,7 @@
         "Horror",
         "Survival Horror"
       ],
-      "year": 2017,
-      "players": null
+      "year": 2017
     },
     {
       "id": "g574",
@@ -5721,8 +5288,7 @@
         "Horror",
         "Survival Horror"
       ],
-      "year": 2021,
-      "players": null
+      "year": 2021
     },
     {
       "id": "g575",
@@ -5746,8 +5312,7 @@
         "Sports",
         "Open World"
       ],
-      "year": 2021,
-      "players": null
+      "year": 2021
     },
     {
       "id": "g577",
@@ -5757,8 +5322,7 @@
       "genre": [
         "Racing"
       ],
-      "year": 2020,
-      "players": null
+      "year": 2020
     },
     {
       "id": "g578",
@@ -5768,8 +5332,7 @@
       "genre": [
         "Sports"
       ],
-      "year": 2016,
-      "players": null
+      "year": 2016
     },
     {
       "id": "g579",
@@ -5780,8 +5343,7 @@
         "Platformer",
         "Cooperative"
       ],
-      "year": 2020,
-      "players": null
+      "year": 2020
     },
     {
       "id": "g580",
@@ -5791,8 +5353,7 @@
       "genre": [
         "Action RPG"
       ],
-      "year": 2021,
-      "players": null
+      "year": 2021
     },
     {
       "id": "g581",
@@ -5803,8 +5364,7 @@
         "Horror",
         "Party"
       ],
-      "year": 2021,
-      "players": null
+      "year": 2021
     },
     {
       "id": "g582",
@@ -5815,8 +5375,7 @@
         "Action",
         "Adventure"
       ],
-      "year": 2018,
-      "players": null
+      "year": 2018
     },
     {
       "id": "g583",
@@ -5838,8 +5397,7 @@
       "genre": [
         "Fighting"
       ],
-      "year": 2018,
-      "players": null
+      "year": 2018
     },
     {
       "id": "g585",
@@ -5851,8 +5409,7 @@
         "Adventure",
         "Open World"
       ],
-      "year": 2018,
-      "players": null
+      "year": 2018
     },
     {
       "id": "g586",
@@ -5864,8 +5421,7 @@
         "Adventure",
         "Open World"
       ],
-      "year": 2020,
-      "players": null
+      "year": 2020
     },
     {
       "id": "g587",
@@ -5876,8 +5432,7 @@
         "Shooter",
         "Action"
       ],
-      "year": 2017,
-      "players": null
+      "year": 2017
     },
     {
       "id": "g588",
@@ -5888,8 +5443,7 @@
         "Action",
         "Adventure"
       ],
-      "year": 2019,
-      "players": null
+      "year": 2019
     },
     {
       "id": "g589",
@@ -5912,8 +5466,7 @@
         "Survival",
         "Open World"
       ],
-      "year": 2021,
-      "players": null
+      "year": 2021
     },
     {
       "id": "g591",
@@ -5924,8 +5477,7 @@
         "Party",
         "Action"
       ],
-      "year": 2017,
-      "players": null
+      "year": 2017
     },
     {
       "id": "g592",
@@ -5936,8 +5488,7 @@
         "Action",
         "Shooter"
       ],
-      "year": 2017,
-      "players": null
+      "year": 2017
     },
     {
       "id": "g593",
@@ -5947,8 +5498,7 @@
       "genre": [
         "Rhythm"
       ],
-      "year": 2019,
-      "players": null
+      "year": 2019
     },
     {
       "id": "g594",
@@ -5959,8 +5509,7 @@
         "RPG",
         "Action RPG"
       ],
-      "year": 2021,
-      "players": null
+      "year": 2021
     },
     {
       "id": "g595",
@@ -5994,8 +5543,7 @@
       "genre": [
         "Sports"
       ],
-      "year": 2020,
-      "players": null
+      "year": 2020
     },
     {
       "id": "g598",
@@ -6006,8 +5554,7 @@
         "Sandbox",
         "Adventure"
       ],
-      "year": 2013,
-      "players": null
+      "year": 2013
     },
     {
       "id": "g599",
@@ -6018,8 +5565,7 @@
         "Horror",
         "Action"
       ],
-      "year": 2022,
-      "players": null
+      "year": 2022
     },
     {
       "id": "g600",
@@ -6030,8 +5576,7 @@
         "Racing",
         "Open World"
       ],
-      "year": 2018,
-      "players": null
+      "year": 2018
     },
     {
       "id": "g601",
@@ -6041,8 +5586,7 @@
       "genre": [
         "Simulation"
       ],
-      "year": 2019,
-      "players": null
+      "year": 2019
     },
     {
       "id": "g602",
@@ -6066,8 +5610,7 @@
         "Adventure",
         "Puzzle"
       ],
-      "year": 2014,
-      "players": null
+      "year": 2014
     },
     {
       "id": "g604",
@@ -6077,8 +5620,7 @@
       "genre": [
         "Simulation"
       ],
-      "year": 2017,
-      "players": null
+      "year": 2017
     },
     {
       "id": "g605",
@@ -6089,8 +5631,7 @@
         "RPG",
         "Open World"
       ],
-      "year": 2022,
-      "players": null
+      "year": 2022
     },
     {
       "id": "g606",
@@ -6101,8 +5642,7 @@
         "Shooter",
         "Cooperative"
       ],
-      "year": 2022,
-      "players": null
+      "year": 2022
     },
     {
       "id": "g607",
@@ -6113,8 +5653,7 @@
         "Action",
         "Adventure"
       ],
-      "year": 2014,
-      "players": null
+      "year": 2014
     },
     {
       "id": "g608",
@@ -6138,8 +5677,7 @@
         "Action",
         "Adventure"
       ],
-      "year": 2022,
-      "players": null
+      "year": 2022
     },
     {
       "id": "g610",
@@ -6150,8 +5688,7 @@
         "Action",
         "Adventure"
       ],
-      "year": 2017,
-      "players": null
+      "year": 2017
     },
     {
       "id": "g611",
@@ -6162,8 +5699,7 @@
         "Action",
         "Adventure"
       ],
-      "year": 2016,
-      "players": null
+      "year": 2016
     },
     {
       "id": "g612",
@@ -6174,8 +5710,7 @@
         "Horror",
         "Adventure"
       ],
-      "year": 2015,
-      "players": null
+      "year": 2015
     },
     {
       "id": "g613",
@@ -6186,8 +5721,7 @@
         "Action",
         "Open World"
       ],
-      "year": 2020,
-      "players": null
+      "year": 2020
     },
     {
       "id": "g614",
@@ -6197,8 +5731,7 @@
       "genre": [
         "Action RPG"
       ],
-      "year": 2021,
-      "players": null
+      "year": 2021
     },
     {
       "id": "g615",
@@ -6208,8 +5741,7 @@
       "genre": [
         "Action RPG"
       ],
-      "year": 2023,
-      "players": null
+      "year": 2023
     },
     {
       "id": "g616",
@@ -6221,8 +5753,7 @@
         "Party",
         "VR"
       ],
-      "year": 2020,
-      "players": null
+      "year": 2020
     },
     {
       "id": "g617",
@@ -6233,8 +5764,7 @@
         "Sports",
         "VR"
       ],
-      "year": 2019,
-      "players": null
+      "year": 2019
     },
     {
       "id": "g618",
@@ -6246,8 +5776,7 @@
         "Horror",
         "VR"
       ],
-      "year": 2023,
-      "players": null
+      "year": 2023
     },
     {
       "id": "g619",
@@ -6258,8 +5787,7 @@
         "Action RPG",
         "VR"
       ],
-      "year": 2023,
-      "players": null
+      "year": 2023
     },
     {
       "id": "g620",
@@ -6270,8 +5798,7 @@
         "Rhythm",
         "VR"
       ],
-      "year": 2021,
-      "players": null
+      "year": 2021
     },
     {
       "id": "g621",
@@ -6282,8 +5809,7 @@
         "Sports",
         "VR"
       ],
-      "year": 2018,
-      "players": null
+      "year": 2018
     },
     {
       "id": "g622",
@@ -6294,8 +5820,7 @@
         "Puzzle",
         "VR"
       ],
-      "year": 2022,
-      "players": null
+      "year": 2022
     },
     {
       "id": "g623",
@@ -6306,8 +5831,7 @@
         "Survival",
         "VR"
       ],
-      "year": 2022,
-      "players": null
+      "year": 2022
     },
     {
       "id": "g624",
@@ -6318,8 +5842,7 @@
         "VR",
         "Utility"
       ],
-      "year": 2019,
-      "players": null
+      "year": 2019
     },
     {
       "id": "g625",
@@ -6343,8 +5866,7 @@
         "Party",
         "VR"
       ],
-      "year": 2022,
-      "players": null
+      "year": 2022
     },
     {
       "id": "g627",
@@ -6355,8 +5877,7 @@
         "Simulation",
         "VR"
       ],
-      "year": 2020,
-      "players": null
+      "year": 2020
     },
     {
       "id": "g628",
@@ -6367,8 +5888,7 @@
         "Puzzle",
         "VR"
       ],
-      "year": 2019,
-      "players": null
+      "year": 2019
     },
     {
       "id": "g629",
@@ -6379,8 +5899,7 @@
         "VR",
         "Experience"
       ],
-      "year": 2019,
-      "players": null
+      "year": 2019
     },
     {
       "id": "g630",
@@ -6391,8 +5910,7 @@
         "Sports",
         "VR"
       ],
-      "year": 2021,
-      "players": null
+      "year": 2021
     },
     {
       "id": "g631",
@@ -6403,8 +5921,7 @@
         "Shooter",
         "VR"
       ],
-      "year": 2020,
-      "players": null
+      "year": 2020
     },
     {
       "id": "g632",
@@ -6415,8 +5932,7 @@
         "Sports",
         "VR"
       ],
-      "year": 2020,
-      "players": null
+      "year": 2020
     },
     {
       "id": "g633",
@@ -6427,8 +5943,7 @@
         "Action",
         "VR"
       ],
-      "year": 2021,
-      "players": null
+      "year": 2021
     },
     {
       "id": "g634",
@@ -6439,8 +5954,7 @@
         "Adventure",
         "VR"
       ],
-      "year": 2022,
-      "players": null
+      "year": 2022
     },
     {
       "id": "g635",
@@ -6451,8 +5965,7 @@
         "Action",
         "VR"
       ],
-      "year": 2020,
-      "players": null
+      "year": 2020
     },
     {
       "id": "g636",
@@ -6463,8 +5976,7 @@
         "Sports",
         "VR"
       ],
-      "year": 2019,
-      "players": null
+      "year": 2019
     },
     {
       "id": "g637",
@@ -6475,8 +5987,7 @@
         "Puzzle",
         "VR"
       ],
-      "year": 2021,
-      "players": null
+      "year": 2021
     },
     {
       "id": "g638",
@@ -6487,8 +5998,7 @@
         "RPG",
         "VR"
       ],
-      "year": 2020,
-      "players": null
+      "year": 2020
     },
     {
       "id": "g639",
@@ -6500,8 +6010,7 @@
         "RPG",
         "VR"
       ],
-      "year": 2021,
-      "players": null
+      "year": 2021
     },
     {
       "id": "g640",
@@ -6512,8 +6021,7 @@
         "Puzzle",
         "VR"
       ],
-      "year": 2020,
-      "players": null
+      "year": 2020
     },
     {
       "id": "g641",
@@ -6525,8 +6033,7 @@
         "Stealth",
         "VR"
       ],
-      "year": 2020,
-      "players": null
+      "year": 2020
     },
     {
       "id": "g642",
@@ -6537,8 +6044,7 @@
         "Sports",
         "VR"
       ],
-      "year": 2020,
-      "players": null
+      "year": 2020
     },
     {
       "id": "g643",
@@ -6549,8 +6055,7 @@
         "Puzzle",
         "VR"
       ],
-      "year": 2020,
-      "players": null
+      "year": 2020
     },
     {
       "id": "g644",
@@ -6561,8 +6066,7 @@
         "Strategy",
         "VR"
       ],
-      "year": 2021,
-      "players": null
+      "year": 2021
     },
     {
       "id": "g645",
@@ -6573,8 +6077,7 @@
         "Simulation",
         "VR"
       ],
-      "year": 2019,
-      "players": null
+      "year": 2019
     },
     {
       "id": "g646",
@@ -6585,8 +6088,7 @@
         "Sports",
         "VR"
       ],
-      "year": 2021,
-      "players": null
+      "year": 2021
     },
     {
       "id": "g647",
@@ -6597,8 +6099,7 @@
         "Sports",
         "VR"
       ],
-      "year": 2021,
-      "players": null
+      "year": 2021
     },
     {
       "id": "g648",
@@ -6609,8 +6110,7 @@
         "Shooter",
         "VR"
       ],
-      "year": 2021,
-      "players": null
+      "year": 2021
     },
     {
       "id": "g649",
@@ -6621,8 +6121,7 @@
         "Casino",
         "VR"
       ],
-      "year": 2018,
-      "players": null
+      "year": 2018
     },
     {
       "id": "g650",
@@ -6633,8 +6132,7 @@
         "Puzzle",
         "VR"
       ],
-      "year": 2021,
-      "players": null
+      "year": 2021
     },
     {
       "id": "g651",
@@ -6645,8 +6143,7 @@
         "Party",
         "VR"
       ],
-      "year": 2022,
-      "players": null
+      "year": 2022
     },
     {
       "id": "g652",
@@ -6657,8 +6154,7 @@
         "Puzzle",
         "VR"
       ],
-      "year": 2021,
-      "players": null
+      "year": 2021
     },
     {
       "id": "g653",
@@ -6669,8 +6165,7 @@
         "Party",
         "VR"
       ],
-      "year": 2021,
-      "players": null
+      "year": 2021
     },
     {
       "id": "g654",
@@ -6681,8 +6176,7 @@
         "Sports",
         "VR"
       ],
-      "year": 2021,
-      "players": null
+      "year": 2021
     },
     {
       "id": "g655",
@@ -6693,8 +6187,7 @@
         "VR",
         "Experience"
       ],
-      "year": 2021,
-      "players": null
+      "year": 2021
     },
     {
       "id": "g656",
@@ -6705,8 +6198,7 @@
         "VR",
         "Experience"
       ],
-      "year": 2021,
-      "players": null
+      "year": 2021
     },
     {
       "id": "g657",
@@ -6717,8 +6209,7 @@
         "Sandbox",
         "Party"
       ],
-      "year": 2023,
-      "players": null
+      "year": 2023
     },
     {
       "id": "g658",
@@ -6730,8 +6221,7 @@
         "Fitness",
         "VR"
       ],
-      "year": 2021,
-      "players": null
+      "year": 2021
     },
     {
       "id": "g659",
@@ -6742,8 +6232,7 @@
         "Shooter",
         "VR"
       ],
-      "year": 2021,
-      "players": null
+      "year": 2021
     },
     {
       "id": "g660",
@@ -6754,8 +6243,7 @@
         "Education",
         "VR"
       ],
-      "year": 2021,
-      "players": null
+      "year": 2021
     },
     {
       "id": "g661",
@@ -6766,8 +6254,7 @@
         "Meditation",
         "VR"
       ],
-      "year": 2021,
-      "players": null
+      "year": 2021
     },
     {
       "id": "g662",
@@ -6778,8 +6265,7 @@
         "VR",
         "Experience"
       ],
-      "year": 2022,
-      "players": null
+      "year": 2022
     },
     {
       "id": "g663",
@@ -6790,8 +6276,7 @@
         "Shooter",
         "VR"
       ],
-      "year": 2021,
-      "players": null
+      "year": 2021
     },
     {
       "id": "g664",
@@ -6802,8 +6287,7 @@
         "VR",
         "Experience"
       ],
-      "year": 2021,
-      "players": null
+      "year": 2021
     },
     {
       "id": "g665",
@@ -6814,8 +6298,7 @@
         "VR",
         "Utility"
       ],
-      "year": 2019,
-      "players": null
+      "year": 2019
     },
     {
       "id": "g666",
@@ -6826,8 +6309,7 @@
         "VR",
         "Utility"
       ],
-      "year": 2020,
-      "players": null
+      "year": 2020
     },
     {
       "id": "g667",
@@ -6838,8 +6320,7 @@
         "VR",
         "Social"
       ],
-      "year": 2021,
-      "players": null
+      "year": 2021
     },
     {
       "id": "g668",
@@ -6850,8 +6331,7 @@
         "VR",
         "Social"
       ],
-      "year": 2021,
-      "players": null
+      "year": 2021
     },
     {
       "id": "g669",
@@ -6862,8 +6342,7 @@
         "VR",
         "Utility"
       ],
-      "year": 2019,
-      "players": null
+      "year": 2019
     },
     {
       "id": "g670",
@@ -6874,8 +6353,7 @@
         "Meditation",
         "VR"
       ],
-      "year": 2022,
-      "players": null
+      "year": 2022
     },
     {
       "id": "g671",
@@ -6886,8 +6364,7 @@
         "Simulation",
         "VR"
       ],
-      "year": 2019,
-      "players": null
+      "year": 2019
     },
     {
       "id": "g672",
@@ -6898,8 +6375,7 @@
         "VR",
         "Social"
       ],
-      "year": 2021,
-      "players": null
+      "year": 2021
     },
     {
       "id": "g673",
@@ -6910,8 +6386,7 @@
         "Sports",
         "VR"
       ],
-      "year": 2022,
-      "players": null
+      "year": 2022
     },
     {
       "id": "g674",
@@ -6923,8 +6398,7 @@
         "Battle Royale",
         "VR"
       ],
-      "year": 2020,
-      "players": null
+      "year": 2020
     },
     {
       "id": "g675",
@@ -6935,8 +6409,7 @@
         "VR",
         "Utility"
       ],
-      "year": 2020,
-      "players": null
+      "year": 2020
     },
     {
       "id": "g676",
@@ -6947,8 +6420,7 @@
         "Sports",
         "VR"
       ],
-      "year": 2021,
-      "players": null
+      "year": 2021
     },
     {
       "id": "g677",
@@ -6959,8 +6431,7 @@
         "Education",
         "VR"
       ],
-      "year": 2021,
-      "players": null
+      "year": 2021
     },
     {
       "id": "g678",
@@ -6971,8 +6442,7 @@
         "VR",
         "Social"
       ],
-      "year": 2020,
-      "players": null
+      "year": 2020
     },
     {
       "id": "g679",
@@ -6983,8 +6453,7 @@
         "Shooter",
         "VR"
       ],
-      "year": 2021,
-      "players": null
+      "year": 2021
     },
     {
       "id": "g680",
@@ -6995,8 +6464,7 @@
         "VR",
         "Utility"
       ],
-      "year": 2020,
-      "players": null
+      "year": 2020
     },
     {
       "id": "g681",
@@ -7007,8 +6475,7 @@
         "VR",
         "Experience"
       ],
-      "year": 2019,
-      "players": null
+      "year": 2019
     },
     {
       "id": "g682",
@@ -7019,8 +6486,7 @@
         "Sports",
         "VR"
       ],
-      "year": 2020,
-      "players": null
+      "year": 2020
     },
     {
       "id": "g683",
@@ -7031,8 +6497,7 @@
         "Sports",
         "VR"
       ],
-      "year": 2021,
-      "players": null
+      "year": 2021
     },
     {
       "id": "g684",
@@ -7043,8 +6508,7 @@
         "VR",
         "Utility"
       ],
-      "year": 2021,
-      "players": null
+      "year": 2021
     },
     {
       "id": "g685",
@@ -7055,8 +6519,7 @@
         "VR",
         "Social"
       ],
-      "year": 2019,
-      "players": null
+      "year": 2019
     },
     {
       "id": "g686",
@@ -7067,32 +6530,7 @@
         "VR",
         "Party"
       ],
-      "year": 2019,
-      "players": null
-    },
-    {
-      "id": "g_1774589730815",
-      "platformId": "ps45",
-      "name": "test",
-      "ytId": "",
-      "year": null,
-      "players": null,
-      "genre": [],
-      "desc_th": null,
-      "desc_en": null,
-      "imgUrl": ""
-    },
-    {
-      "id": "g345",
-      "platformId": "ps45",
-      "name": "Crimson Desert",
-      "ytId": "",
-      "genre": [
-        "Action RPG",
-        "Open World"
-      ],
-      "year": 2025,
-      "players": null
+      "year": 2019
     }
   ],
   "howToSteps": [
