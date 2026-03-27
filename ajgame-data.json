@@ -1,6 +1,6 @@
 {
   "version": "2025-06-v4",
-  "savedAt": "2026-03-27T09:44:22.194Z",
+  "savedAt": "2026-03-27T09:45:32.814Z",
   "platforms": [
     {
       "id": "ps45",
@@ -46,6 +46,24 @@
     }
   ],
   "games": [
+    {
+      "id": "g_1774604732813",
+      "platformId": "ps45",
+      "name": "Pragmata",
+      "imgUrl": "https://i.postimg.cc/KvpRpgk8/Pragmata.jpg",
+      "ytId": "",
+      "year": 2026,
+      "players": "1",
+      "genre": [
+        "Action",
+        "Puzzle"
+      ],
+      "desc_th": null,
+      "desc_en": null,
+      "unavailable": true,
+      "available_date": null,
+      "insertedAt": 1774604732813
+    },
     {
       "id": "g100",
       "platformId": "switch2",
