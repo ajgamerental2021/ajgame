@@ -1,0 +1,7198 @@
+{
+  "version": "2025-06-v4",
+  "savedAt": "2026-03-27T09:36:27.150Z",
+  "platforms": [
+    {
+      "id": "ps45",
+      "name": "PS4 & PS5",
+      "icon": "🎮",
+      "color": "#003087",
+      "gamepassUrl": ""
+    },
+    {
+      "id": "switch1",
+      "name": "Nintendo Switch 1",
+      "icon": "🟥",
+      "color": "#e60012",
+      "gamepassUrl": ""
+    },
+    {
+      "id": "switch2",
+      "name": "Nintendo Switch 2",
+      "icon": "🔴",
+      "color": "#c0001a",
+      "gamepassUrl": ""
+    },
+    {
+      "id": "xbox",
+      "name": "XBOX",
+      "icon": "🟩",
+      "color": "#107c10",
+      "gamepassUrl": "https://www.xbox.com/th-th/xbox-game-pass/games"
+    },
+    {
+      "id": "meta",
+      "name": "Meta Quest 3",
+      "icon": "🥽",
+      "color": "#0082fb",
+      "gamepassUrl": ""
+    },
+    {
+      "id": "rog",
+      "name": "ROG & Legion Go2",
+      "icon": "🔴",
+      "color": "#cc0000",
+      "gamepassUrl": "https://www.xbox.com/th-th/xbox-game-pass/games"
+    },
+    {
+      "id": "p_1774589723584",
+      "name": "test",
+      "icon": "🎮",
+      "color": "#333333",
+      "gamepassUrl": ""
+    },
+    {
+      "id": "p_1774593839911",
+      "name": "test111",
+      "icon": "🎮",
+      "color": "#333333",
+      "gamepassUrl": ""
+    }
+  ],
+  "games": [
+    {
+      "id": "g_1774600777638",
+      "platformId": "ps45",
+      "name": "test",
+      "ytId": "",
+      "year": 2027,
+      "players": null,
+      "genre": [],
+      "desc_th": null,
+      "desc_en": null,
+      "unavailable": false,
+      "available_date": null,
+      "insertedAt": 1774600777638,
+      "imgUrl": "https://i.postimg.cc/jjTFJCxt/Crimson-Desert.jpg"
+    },
+    {
+      "id": "g_1774600531538",
+      "platformId": "ps45",
+      "name": "Crimson Desert",
+      "ytId": "",
+      "year": 2028,
+      "players": "1",
+      "genre": [
+        "Action"
+      ],
+      "desc_th": null,
+      "desc_en": null,
+      "unavailable": false,
+      "available_date": null,
+      "insertedAt": 1774600531538,
+      "imgUrl": "https://i.postimg.cc/jjTFJCxt/Crimson-Desert.jpg"
+    },
+    {
+      "id": "g100",
+      "platformId": "switch2",
+      "name": "Resident Evil Requiem",
+      "ytId": "tDtSfKhVGZ8",
+      "genre": [
+        "Horror",
+        "Survival Horror"
+      ],
+      "year": 2025,
+      "players": null
+    },
+    {
+      "id": "g101",
+      "platformId": "switch2",
+      "name": "Dispatch 2",
+      "ytId": "",
+      "genre": [
+        "Action"
+      ],
+      "year": 2025,
+      "players": null
+    },
+    {
+      "id": "g102",
+      "platformId": "switch2",
+      "name": "Pokemon Legend Z-A",
+      "ytId": "BlHKyOPfv8E",
+      "genre": [
+        "RPG",
+        "Adventure"
+      ],
+      "year": 2025,
+      "players": null
+    },
+    {
+      "id": "g103",
+      "platformId": "switch2",
+      "name": "FC26",
+      "ytId": "Y8jVVTiqUEg",
+      "genre": [
+        "Sports"
+      ],
+      "year": 2025,
+      "players": null
+    },
+    {
+      "id": "g104",
+      "platformId": "switch2",
+      "name": "Street Fighter 6",
+      "ytId": "ANvNkk9vSso",
+      "genre": [
+        "เกมต่อสู้",
+        "เล่น 2 คน"
+      ],
+      "year": 2023,
+      "players": "1-2"
+    },
+    {
+      "id": "g105",
+      "platformId": "switch2",
+      "name": "Cyberpunk 2077",
+      "ytId": "FknHjl7eQ6o",
+      "genre": [
+        "RPG",
+        "เล่นคนเดียว",
+        "Open World"
+      ],
+      "year": 2020,
+      "players": "1"
+    },
+    {
+      "id": "g106",
+      "platformId": "switch2",
+      "name": "Little Nightmares 3",
+      "ytId": "W3BpAQnGKvs",
+      "genre": [
+        "เกมสยองขวัญ",
+        "เล่น 2 คน"
+      ],
+      "year": 2025,
+      "players": "1-2"
+    },
+    {
+      "id": "g107",
+      "platformId": "switch2",
+      "name": "Hollow Knight SilkSong",
+      "ytId": "UAO2urG23S4",
+      "genre": [
+        "Platformer",
+        "Action"
+      ],
+      "year": 2025,
+      "players": null
+    },
+    {
+      "id": "g108",
+      "platformId": "switch2",
+      "name": "Donkey Kong: Bananza",
+      "ytId": "TJk6BFklMgM",
+      "genre": [
+        "Platformer",
+        "Action"
+      ],
+      "year": 2025,
+      "players": null
+    },
+    {
+      "id": "g109",
+      "platformId": "switch2",
+      "name": "Split Fiction",
+      "ytId": "vViFIrgNmkA",
+      "genre": [
+        "Adventure",
+        "Cooperative"
+      ],
+      "year": 2025,
+      "players": null
+    },
+    {
+      "id": "g110",
+      "platformId": "switch2",
+      "name": "Super Mario Party Jamboree + Jamboree TV",
+      "ytId": "p0U6l3LpkHc",
+      "genre": [
+        "Party"
+      ],
+      "year": 2024,
+      "players": null
+    },
+    {
+      "id": "g111",
+      "platformId": "switch2",
+      "name": "Mario Kart World",
+      "ytId": "aISqGMFgGgw",
+      "genre": [
+        "เกมแข่งรถ",
+        "เล่น 2-4 คน",
+        "เกมครอบครัว"
+      ],
+      "year": 2025,
+      "players": "1-4"
+    },
+    {
+      "id": "g112",
+      "platformId": "switch2",
+      "name": "Hitman World of Assassination",
+      "ytId": "HiPFGI7pCXg",
+      "genre": [
+        "Action",
+        "Stealth"
+      ],
+      "year": 2021,
+      "players": null
+    },
+    {
+      "id": "g113",
+      "platformId": "switch2",
+      "name": "Hogwarts Legacy",
+      "ytId": "Zb1DXd4HDPQ",
+      "genre": [
+        "RPG",
+        "เล่นคนเดียว",
+        "Open World"
+      ],
+      "year": 2023,
+      "players": "1"
+    },
+    {
+      "id": "g114",
+      "platformId": "switch2",
+      "name": "Mario&Sonic Olympic Games",
+      "ytId": "",
+      "genre": [
+        "Sports",
+        "Party"
+      ],
+      "year": 2019,
+      "players": null
+    },
+    {
+      "id": "g115",
+      "platformId": "switch2",
+      "name": "No Man Sky",
+      "ytId": "nLtmEjqzg7M",
+      "genre": [
+        "Open World",
+        "Survival",
+        "Adventure"
+      ],
+      "year": 2016,
+      "players": null
+    },
+    {
+      "id": "g116",
+      "platformId": "switch2",
+      "name": "The Legend of Zelda : Tears of the Kingdom",
+      "ytId": "uHGShqcAHlQ",
+      "genre": [
+        "เกมผจญภัย",
+        "เล่นคนเดียว",
+        "Open World"
+      ],
+      "year": 2023,
+      "players": "1"
+    },
+    {
+      "id": "g117",
+      "platformId": "switch2",
+      "name": "The Legend of Zelda : Breath of the Wild",
+      "ytId": "zw47_q9wbBE",
+      "genre": [
+        "เกมผจญภัย",
+        "เล่นคนเดียว",
+        "Open World"
+      ],
+      "year": 2017,
+      "players": "1"
+    },
+    {
+      "id": "g118",
+      "platformId": "switch2",
+      "name": "Animal Crossing",
+      "ytId": "wN5NE6q7lsA",
+      "genre": [
+        "เกมจำลองชีวิต",
+        "เล่นคนเดียว",
+        "เกมผ่อนคลาย"
+      ],
+      "year": 2020,
+      "players": "1-8"
+    },
+    {
+      "id": "g119",
+      "platformId": "switch2",
+      "name": "Just Dance 2026",
+      "ytId": "",
+      "genre": [
+        "Music",
+        "Dance"
+      ],
+      "year": 2025,
+      "players": null
+    },
+    {
+      "id": "g120",
+      "platformId": "switch2",
+      "name": "Fitness Boxing Fist of the North Star",
+      "ytId": "",
+      "genre": [
+        "Sports",
+        "Fitness"
+      ],
+      "year": 2025,
+      "players": null
+    },
+    {
+      "id": "g121",
+      "platformId": "switch2",
+      "name": "Dave the Diver",
+      "ytId": "VrDoHVGaRpU",
+      "genre": [
+        "Adventure",
+        "Simulation"
+      ],
+      "year": 2024,
+      "players": null
+    },
+    {
+      "id": "g122",
+      "platformId": "switch2",
+      "name": "Scribblenauts Mega Pack",
+      "ytId": "",
+      "genre": [
+        "Puzzle"
+      ],
+      "year": 2019,
+      "players": null
+    },
+    {
+      "id": "g123",
+      "platformId": "switch2",
+      "name": "Puyo Puyo Tetris 2S",
+      "ytId": "",
+      "genre": [
+        "Puzzle"
+      ],
+      "year": 2018,
+      "players": null
+    },
+    {
+      "id": "g124",
+      "platformId": "switch2",
+      "name": "Super Mario Odyssey",
+      "ytId": "wGQHQc_3ycE",
+      "genre": [
+        "เกม Platform",
+        "เล่น 2 คน",
+        "เกมครอบครัว"
+      ],
+      "year": 2017,
+      "players": "1-2"
+    },
+    {
+      "id": "g125",
+      "platformId": "switch2",
+      "name": "Untitled Goose Game",
+      "ytId": "9LL2AtHo1gk",
+      "genre": [
+        "Puzzle",
+        "Stealth"
+      ],
+      "year": 2019,
+      "players": null
+    },
+    {
+      "id": "g126",
+      "platformId": "switch2",
+      "name": "Dying Light",
+      "ytId": "kLo9Wd3KCWQ",
+      "genre": [
+        "Action",
+        "Survival",
+        "Open World"
+      ],
+      "year": 2015,
+      "players": null
+    },
+    {
+      "id": "g127",
+      "platformId": "switch2",
+      "name": "Assassin's Creed The Rebel Collection",
+      "ytId": "XSsGMUWUgsE",
+      "genre": [
+        "Action",
+        "Adventure"
+      ],
+      "year": 2019,
+      "players": null
+    },
+    {
+      "id": "g128",
+      "platformId": "switch2",
+      "name": "Assassin's Creed The Ezio Collection",
+      "ytId": "XSsGMUWUgsE",
+      "genre": [
+        "Action",
+        "Adventure"
+      ],
+      "year": 2021,
+      "players": null
+    },
+    {
+      "id": "g129",
+      "platformId": "switch2",
+      "name": "The House of The Dead Remake",
+      "ytId": "",
+      "genre": [
+        "Shooter",
+        "Horror"
+      ],
+      "year": 2022,
+      "players": null
+    },
+    {
+      "id": "g130",
+      "platformId": "switch2",
+      "name": "Hades",
+      "ytId": "CxRZLvSGh4U",
+      "genre": [
+        "Action",
+        "Roguelike"
+      ],
+      "year": 2020,
+      "players": null
+    },
+    {
+      "id": "g131",
+      "platformId": "switch2",
+      "name": "Everybody 1-2 Switch",
+      "ytId": "",
+      "genre": [
+        "Party"
+      ],
+      "year": 2023,
+      "players": null
+    },
+    {
+      "id": "g132",
+      "platformId": "switch2",
+      "name": "Tricky Towers",
+      "ytId": "",
+      "genre": [
+        "Puzzle",
+        "Party"
+      ],
+      "year": 2018,
+      "players": null
+    },
+    {
+      "id": "g133",
+      "platformId": "switch2",
+      "name": "Lego Star Wars: The Skywalker Saga",
+      "ytId": "",
+      "genre": [
+        "Adventure",
+        "Puzzle"
+      ],
+      "year": 2022,
+      "players": null
+    },
+    {
+      "id": "g134",
+      "platformId": "switch2",
+      "name": "Lego Harry Potter Collection",
+      "ytId": "",
+      "genre": [
+        "Adventure",
+        "Puzzle"
+      ],
+      "year": 2016,
+      "players": null
+    },
+    {
+      "id": "g135",
+      "platformId": "switch2",
+      "name": "Lego DC Super-Villains",
+      "ytId": "",
+      "genre": [
+        "Adventure",
+        "Puzzle"
+      ],
+      "year": 2018,
+      "players": null
+    },
+    {
+      "id": "g136",
+      "platformId": "switch2",
+      "name": "Lego Marvel Super Heroes",
+      "ytId": "",
+      "genre": [
+        "Adventure",
+        "Puzzle"
+      ],
+      "year": 2019,
+      "players": null
+    },
+    {
+      "id": "g137",
+      "platformId": "switch2",
+      "name": "The Lego Movie 2 - Videogame",
+      "ytId": "",
+      "genre": [
+        "Adventure",
+        "Puzzle"
+      ],
+      "year": 2019,
+      "players": null
+    },
+    {
+      "id": "g138",
+      "platformId": "switch2",
+      "name": "Lego The Incredibles",
+      "ytId": "",
+      "genre": [
+        "Adventure",
+        "Puzzle"
+      ],
+      "year": 2018,
+      "players": null
+    },
+    {
+      "id": "g139",
+      "platformId": "switch2",
+      "name": "Lego Jurassic World",
+      "ytId": "",
+      "genre": [
+        "Adventure",
+        "Puzzle"
+      ],
+      "year": 2015,
+      "players": null
+    },
+    {
+      "id": "g140",
+      "platformId": "switch2",
+      "name": "Grand Theft Auto The Trilogy",
+      "ytId": "QkkoHAzjnUs",
+      "genre": [
+        "Action",
+        "Open World"
+      ],
+      "year": 2021,
+      "players": null
+    },
+    {
+      "id": "g141",
+      "platformId": "switch2",
+      "name": "Chocobo GP",
+      "ytId": "",
+      "genre": [
+        "Racing"
+      ],
+      "year": 2022,
+      "players": null
+    },
+    {
+      "id": "g142",
+      "platformId": "switch2",
+      "name": "Instant Sports",
+      "ytId": "",
+      "genre": [
+        "Sports",
+        "Party"
+      ],
+      "year": 2020,
+      "players": null
+    },
+    {
+      "id": "g143",
+      "platformId": "switch2",
+      "name": "Diablo 2",
+      "ytId": "",
+      "genre": [
+        "Action RPG"
+      ],
+      "year": 2021,
+      "players": null
+    },
+    {
+      "id": "g144",
+      "platformId": "switch2",
+      "name": "Diablo 3",
+      "ytId": "",
+      "genre": [
+        "Action RPG"
+      ],
+      "year": 2018,
+      "players": null
+    },
+    {
+      "id": "g145",
+      "platformId": "switch2",
+      "name": "The Elder Scrolls V Skyrim",
+      "ytId": "",
+      "genre": [
+        "RPG",
+        "Open World"
+      ],
+      "year": 2017,
+      "players": null
+    },
+    {
+      "id": "g146",
+      "platformId": "switch2",
+      "name": "Green Hell",
+      "ytId": "",
+      "genre": [
+        "Survival"
+      ],
+      "year": 2021,
+      "players": null
+    },
+    {
+      "id": "g147",
+      "platformId": "switch2",
+      "name": "Stranded Deep",
+      "ytId": "",
+      "genre": [
+        "Survival"
+      ],
+      "year": 2021,
+      "players": null
+    },
+    {
+      "id": "g148",
+      "platformId": "switch2",
+      "name": "EA Sport FC 25 (Fifa 25)",
+      "ytId": "Y8jVVTiqUEg",
+      "genre": [
+        "เกมกีฬา",
+        "เล่น 2 คน",
+        "ฟุตบอล"
+      ],
+      "year": 2024,
+      "players": "1-4"
+    },
+    {
+      "id": "g149",
+      "platformId": "switch2",
+      "name": "NBA 2K 25",
+      "ytId": "AcbKe6MOaEI",
+      "genre": [
+        "Sports"
+      ],
+      "year": 2024,
+      "players": null
+    },
+    {
+      "id": "g150",
+      "platformId": "switch2",
+      "name": "Super Smash Bros Ultimate",
+      "ytId": "8_J3B5FHmkI",
+      "genre": [
+        "เกมต่อสู้",
+        "เล่น 2-8 คน",
+        "เกมปาร์ตี้"
+      ],
+      "year": 2018,
+      "players": "1-8"
+    },
+    {
+      "id": "g151",
+      "platformId": "switch2",
+      "name": "Two Point Campus",
+      "ytId": "",
+      "genre": [
+        "Simulation",
+        "Strategy"
+      ],
+      "year": 2022,
+      "players": null
+    },
+    {
+      "id": "g152",
+      "platformId": "switch2",
+      "name": "Mario + Rabbids Sparks of Hope",
+      "ytId": "",
+      "genre": [
+        "Strategy",
+        "RPG"
+      ],
+      "year": 2022,
+      "players": null
+    },
+    {
+      "id": "g153",
+      "platformId": "switch2",
+      "name": "Super Mario Bros. Wonder",
+      "ytId": "",
+      "genre": [
+        "เกม Platform",
+        "เล่น 2-4 คน",
+        "เกมครอบครัว"
+      ],
+      "year": 2023,
+      "players": "1-4"
+    },
+    {
+      "id": "g154",
+      "platformId": "switch2",
+      "name": "Pokemon Violet",
+      "ytId": "BlHKyOPfv8E",
+      "genre": [
+        "RPG",
+        "Adventure"
+      ],
+      "year": 2022,
+      "players": null
+    },
+    {
+      "id": "g155",
+      "platformId": "switch2",
+      "name": "It Takes Two",
+      "ytId": "CzVM-XkNvHk",
+      "genre": [
+        "เล่น 2 คน",
+        "เกมผจญภัย",
+        "เกมครอบครัว"
+      ],
+      "year": 2021,
+      "players": "2"
+    },
+    {
+      "id": "g156",
+      "platformId": "switch2",
+      "name": "Demon Slayer",
+      "ytId": "",
+      "genre": [
+        "Action",
+        "Fighting"
+      ],
+      "year": 2021,
+      "players": null
+    },
+    {
+      "id": "g157",
+      "platformId": "switch2",
+      "name": "Cat Quest 3",
+      "ytId": "",
+      "genre": [
+        "Action RPG"
+      ],
+      "year": 2024,
+      "players": null
+    },
+    {
+      "id": "g158",
+      "platformId": "switch2",
+      "name": "Teenage Mutant Ninja Turtles : Shredder's Revenge",
+      "ytId": "",
+      "genre": [
+        "Action",
+        "Beat-em-up"
+      ],
+      "year": 2022,
+      "players": null
+    },
+    {
+      "id": "g159",
+      "platformId": "switch2",
+      "name": "Nintendo Switch Sport",
+      "ytId": "",
+      "genre": [
+        "เกมกีฬา",
+        "เล่น 2-4 คน",
+        "เกมครอบครัว"
+      ],
+      "year": 2022,
+      "players": "1-4"
+    },
+    {
+      "id": "g160",
+      "platformId": "switch2",
+      "name": "Rabbids Party of Legends",
+      "ytId": "",
+      "genre": [
+        "Party"
+      ],
+      "year": 2022,
+      "players": null
+    },
+    {
+      "id": "g161",
+      "platformId": "switch2",
+      "name": "Moving Out",
+      "ytId": "",
+      "genre": [
+        "Party",
+        "Cooperative"
+      ],
+      "year": 2020,
+      "players": null
+    },
+    {
+      "id": "g162",
+      "platformId": "switch2",
+      "name": "Little Nightmares 1",
+      "ytId": "W3BpAQnGKvs",
+      "genre": [
+        "เกมสยองขวัญ",
+        "เล่นคนเดียว"
+      ],
+      "year": 2017,
+      "players": "1"
+    },
+    {
+      "id": "g163",
+      "platformId": "switch2",
+      "name": "Little Nightmares 2",
+      "ytId": "W3BpAQnGKvs",
+      "genre": [
+        "เกมสยองขวัญ",
+        "เล่นคนเดียว"
+      ],
+      "year": 2021,
+      "players": "1"
+    },
+    {
+      "id": "g164",
+      "platformId": "switch2",
+      "name": "Assassin's Creed Odyssey",
+      "ytId": "XSsGMUWUgsE",
+      "genre": [
+        "Action RPG",
+        "Open World"
+      ],
+      "year": 2018,
+      "players": null
+    },
+    {
+      "id": "g165",
+      "platformId": "switch2",
+      "name": "Dragonball Z Kakarot",
+      "ytId": "x0OzWn0UZPI",
+      "genre": [
+        "Action RPG"
+      ],
+      "year": 2020,
+      "players": null
+    },
+    {
+      "id": "g166",
+      "platformId": "switch2",
+      "name": "Alan Wake Remasteres",
+      "ytId": "xFvBHqfFLrY",
+      "genre": [
+        "Horror",
+        "Action"
+      ],
+      "year": 2021,
+      "players": null
+    },
+    {
+      "id": "g167",
+      "platformId": "switch2",
+      "name": "Nickelodeon : All Star Brawl",
+      "ytId": "",
+      "genre": [
+        "Fighting"
+      ],
+      "year": 2021,
+      "players": null
+    },
+    {
+      "id": "g168",
+      "platformId": "switch2",
+      "name": "Cuphead",
+      "ytId": "0fHCMSiGPjY",
+      "genre": [
+        "เกม Platform",
+        "เล่น 2 คน",
+        "เกมโหด"
+      ],
+      "year": 2017,
+      "players": "1-2"
+    },
+    {
+      "id": "g169",
+      "platformId": "switch2",
+      "name": "Doom Eternal",
+      "ytId": "",
+      "genre": [
+        "Shooter",
+        "FPS"
+      ],
+      "year": 2020,
+      "players": null
+    },
+    {
+      "id": "g170",
+      "platformId": "switch2",
+      "name": "Doraemon Story of Seasons  Friends of The Great Kingdom",
+      "ytId": "",
+      "genre": [
+        "Simulation",
+        "RPG"
+      ],
+      "year": 2022,
+      "players": null
+    },
+    {
+      "id": "g171",
+      "platformId": "switch2",
+      "name": "Mortal Kombat 11",
+      "ytId": "OPgbKy1JEsY",
+      "genre": [
+        "เกมต่อสู้",
+        "เล่น 2 คน",
+        "เกมผู้ใหญ่"
+      ],
+      "year": 2019,
+      "players": "1-2"
+    },
+    {
+      "id": "g172",
+      "platformId": "switch2",
+      "name": "Monster Hunter Rise",
+      "ytId": "gLOVNhcOWck",
+      "genre": [
+        "Action RPG"
+      ],
+      "year": 2022,
+      "players": null
+    },
+    {
+      "id": "g173",
+      "platformId": "switch2",
+      "name": "Mario Kart 8 Deluxe",
+      "ytId": "aISqGMFgGgw",
+      "genre": [
+        "เกมแข่งรถ",
+        "เล่น 2-4 คน",
+        "เกมครอบครัว"
+      ],
+      "year": 2017,
+      "players": "1-4"
+    },
+    {
+      "id": "g174",
+      "platformId": "switch2",
+      "name": "Disney Speedstorm",
+      "ytId": "",
+      "genre": [
+        "Racing"
+      ],
+      "year": 2023,
+      "players": null
+    },
+    {
+      "id": "g175",
+      "platformId": "switch2",
+      "name": "Fortnite",
+      "ytId": "",
+      "genre": [
+        "Shooter",
+        "Battle Royale"
+      ],
+      "year": 2017,
+      "players": null
+    },
+    {
+      "id": "g176",
+      "platformId": "switch2",
+      "name": "Fall Guys",
+      "ytId": "",
+      "genre": [
+        "Party",
+        "Battle Royale"
+      ],
+      "year": 2020,
+      "players": null
+    },
+    {
+      "id": "g177",
+      "platformId": "switch2",
+      "name": "Naruto Shippuden",
+      "ytId": "",
+      "genre": [
+        "Action",
+        "Fighting"
+      ],
+      "year": 2017,
+      "players": null
+    },
+    {
+      "id": "g178",
+      "platformId": "switch2",
+      "name": "Let's Build a Zoo",
+      "ytId": "",
+      "genre": [
+        "Simulation",
+        "Strategy"
+      ],
+      "year": 2022,
+      "players": null
+    },
+    {
+      "id": "g179",
+      "platformId": "switch2",
+      "name": "Tools Up!",
+      "ytId": "",
+      "genre": [
+        "Party",
+        "Cooperative"
+      ],
+      "year": 2020,
+      "players": null
+    },
+    {
+      "id": "g180",
+      "platformId": "switch2",
+      "name": "Inside",
+      "ytId": "op0PNKo2F5g",
+      "genre": [
+        "Platformer",
+        "Puzzle",
+        "Horror"
+      ],
+      "year": 2016,
+      "players": null
+    },
+    {
+      "id": "g181",
+      "platformId": "switch2",
+      "name": "Balatro",
+      "ytId": "",
+      "genre": [
+        "Strategy",
+        "Roguelike"
+      ],
+      "year": 2024,
+      "players": null
+    },
+    {
+      "id": "g182",
+      "platformId": "switch2",
+      "name": "Don't Strave Together",
+      "ytId": "",
+      "genre": [
+        "Survival",
+        "Sandbox"
+      ],
+      "year": 2013,
+      "players": null
+    },
+    {
+      "id": "g183",
+      "platformId": "switch2",
+      "name": "Overcooked 1",
+      "ytId": "n9R4FdEXMCk",
+      "genre": [
+        "Party",
+        "Cooperative"
+      ],
+      "year": 2016,
+      "players": null
+    },
+    {
+      "id": "g184",
+      "platformId": "switch2",
+      "name": "Overcooked 2",
+      "ytId": "n9R4FdEXMCk",
+      "genre": [
+        "เล่น 2-4 คน",
+        "เกมปาร์ตี้"
+      ],
+      "year": 2018,
+      "players": "1-4"
+    },
+    {
+      "id": "g185",
+      "platformId": "switch2",
+      "name": "Overcooked All You Can Eat",
+      "ytId": "n9R4FdEXMCk",
+      "genre": [
+        "เล่น 2-4 คน",
+        "เกมปาร์ตี้",
+        "เกมครอบครัว"
+      ],
+      "year": 2020,
+      "players": "1-4"
+    },
+    {
+      "id": "g186",
+      "platformId": "switch2",
+      "name": "Taikono Tatsujin Rhythm Festival",
+      "ytId": "",
+      "genre": [
+        "Rhythm"
+      ],
+      "year": 2022,
+      "players": null
+    },
+    {
+      "id": "g187",
+      "platformId": "switch2",
+      "name": "Super Kirby Clash",
+      "ytId": "",
+      "genre": [
+        "Action",
+        "Party"
+      ],
+      "year": 2019,
+      "players": null
+    },
+    {
+      "id": "g188",
+      "platformId": "switch2",
+      "name": "Amnesia Collection",
+      "ytId": "",
+      "genre": [
+        "Horror"
+      ],
+      "year": 2019,
+      "players": null
+    },
+    {
+      "id": "g189",
+      "platformId": "switch2",
+      "name": "Bee Simulator",
+      "ytId": "",
+      "genre": [
+        "Simulation"
+      ],
+      "year": 2019,
+      "players": null
+    },
+    {
+      "id": "g190",
+      "platformId": "switch2",
+      "name": "Cars 3 Driven to Win",
+      "ytId": "",
+      "genre": [
+        "Racing"
+      ],
+      "year": 2017,
+      "players": null
+    },
+    {
+      "id": "g191",
+      "platformId": "switch2",
+      "name": "Need for Speed Hot Pursuit",
+      "ytId": "",
+      "genre": [
+        "Racing"
+      ],
+      "year": 2020,
+      "players": null
+    },
+    {
+      "id": "g192",
+      "platformId": "switch2",
+      "name": "One Piece Pirate Warrior 4",
+      "ytId": "",
+      "genre": [
+        "Action"
+      ],
+      "year": 2020,
+      "players": null
+    },
+    {
+      "id": "g193",
+      "platformId": "switch2",
+      "name": "Story of Seasons Friends of Mineral Town",
+      "ytId": "",
+      "genre": [
+        "Simulation",
+        "RPG"
+      ],
+      "year": 2020,
+      "players": null
+    },
+    {
+      "id": "g194",
+      "platformId": "switch2",
+      "name": "Story of Seasons A Wonderful Life",
+      "ytId": "",
+      "genre": [
+        "Simulation",
+        "RPG"
+      ],
+      "year": 2023,
+      "players": null
+    },
+    {
+      "id": "g195",
+      "platformId": "switch2",
+      "name": "Story of Seasons Pioneers of Olive Town",
+      "ytId": "",
+      "genre": [
+        "Simulation",
+        "RPG"
+      ],
+      "year": 2021,
+      "players": null
+    },
+    {
+      "id": "g196",
+      "platformId": "switch2",
+      "name": "Lovers In A Dangerous Spacetime",
+      "ytId": "",
+      "genre": [
+        "Action",
+        "Cooperative"
+      ],
+      "year": 2015,
+      "players": null
+    },
+    {
+      "id": "g197",
+      "platformId": "switch2",
+      "name": "Stardew Valley",
+      "ytId": "ot7uXNQskhs",
+      "genre": [
+        "เกมจำลองชีวิต",
+        "เล่น 2-4 คน",
+        "เกมผ่อนคลาย"
+      ],
+      "year": 2016,
+      "players": "1-4"
+    },
+    {
+      "id": "g198",
+      "platformId": "switch2",
+      "name": "Hollow Knight",
+      "ytId": "UAO2urG23S4",
+      "genre": [
+        "เกม Platform",
+        "เล่นคนเดียว",
+        "เกมโหด"
+      ],
+      "year": 2017,
+      "players": "1"
+    },
+    {
+      "id": "g199",
+      "platformId": "switch2",
+      "name": "Inside",
+      "ytId": "op0PNKo2F5g",
+      "genre": [
+        "Platformer",
+        "Puzzle",
+        "Horror"
+      ],
+      "year": 2016,
+      "players": null
+    },
+    {
+      "id": "g200",
+      "platformId": "switch2",
+      "name": "StikBold!",
+      "ytId": "",
+      "genre": [
+        "Party",
+        "Sports"
+      ],
+      "year": 2019,
+      "players": null
+    },
+    {
+      "id": "g201",
+      "platformId": "switch2",
+      "name": "Dragonball Fighter Z",
+      "ytId": "YVEPeJnWuTU",
+      "genre": [
+        "Fighting"
+      ],
+      "year": 2018,
+      "players": null
+    },
+    {
+      "id": "g202",
+      "platformId": "switch2",
+      "name": "Devil May Cry 3 Special Edition",
+      "ytId": "",
+      "genre": [
+        "Action"
+      ],
+      "year": 2020,
+      "players": null
+    },
+    {
+      "id": "g203",
+      "platformId": "switch2",
+      "name": "Saints Row IV",
+      "ytId": "",
+      "genre": [
+        "Action",
+        "Open World"
+      ],
+      "year": 2020,
+      "players": null
+    },
+    {
+      "id": "g204",
+      "platformId": "switch2",
+      "name": "Resident Evil 0",
+      "ytId": "",
+      "genre": [
+        "Horror",
+        "Survival Horror"
+      ],
+      "year": 2016,
+      "players": null
+    },
+    {
+      "id": "g205",
+      "platformId": "switch2",
+      "name": "Resident Evil 6",
+      "ytId": "",
+      "genre": [
+        "Horror",
+        "Action"
+      ],
+      "year": 2021,
+      "players": null
+    },
+    {
+      "id": "g206",
+      "platformId": "switch2",
+      "name": "Borderlands",
+      "ytId": "",
+      "genre": [
+        "Shooter",
+        "RPG"
+      ],
+      "year": 2019,
+      "players": null
+    },
+    {
+      "id": "g207",
+      "platformId": "switch2",
+      "name": "Borderlands 2",
+      "ytId": "",
+      "genre": [
+        "Shooter",
+        "RPG"
+      ],
+      "year": 2019,
+      "players": null
+    },
+    {
+      "id": "g208",
+      "platformId": "switch2",
+      "name": "Bioshock Remastered",
+      "ytId": "nkJe-zUC0JI",
+      "genre": [
+        "Shooter",
+        "Horror"
+      ],
+      "year": 2017,
+      "players": null
+    },
+    {
+      "id": "g209",
+      "platformId": "switch2",
+      "name": "Bioshock 2 Remastered",
+      "ytId": "",
+      "genre": [
+        "Shooter",
+        "Horror"
+      ],
+      "year": 2017,
+      "players": null
+    },
+    {
+      "id": "g210",
+      "platformId": "switch2",
+      "name": "Bioshock Infinite",
+      "ytId": "nkJe-zUC0JI",
+      "genre": [
+        "Shooter",
+        "Horror"
+      ],
+      "year": 2017,
+      "players": null
+    },
+    {
+      "id": "g211",
+      "platformId": "switch2",
+      "name": "XCOM 2",
+      "ytId": "",
+      "genre": [
+        "Strategy"
+      ],
+      "year": 2020,
+      "players": null
+    },
+    {
+      "id": "g212",
+      "platformId": "switch2",
+      "name": "Crysis 3 Remastered",
+      "ytId": "",
+      "genre": [
+        "Shooter",
+        "FPS"
+      ],
+      "year": 2021,
+      "players": null
+    },
+    {
+      "id": "g213",
+      "platformId": "switch2",
+      "name": "Super Bomberman R",
+      "ytId": "",
+      "genre": [
+        "Party",
+        "Action"
+      ],
+      "year": 2017,
+      "players": null
+    },
+    {
+      "id": "g214",
+      "platformId": "switch1",
+      "name": "Super Mario Party Jamboree",
+      "ytId": "p0U6l3LpkHc",
+      "genre": [
+        "Party"
+      ],
+      "year": 2024,
+      "players": null
+    },
+    {
+      "id": "g215",
+      "platformId": "switch1",
+      "name": "The Legend Of Zelda : Echoes of Wisdom",
+      "ytId": "",
+      "genre": [
+        "Action",
+        "Adventure",
+        "Puzzle"
+      ],
+      "year": 2024,
+      "players": null
+    },
+    {
+      "id": "g216",
+      "platformId": "switch1",
+      "name": "EA Sport FC 25 (Fifa 25)",
+      "ytId": "Y8jVVTiqUEg",
+      "genre": [
+        "เกมกีฬา",
+        "เล่น 2 คน",
+        "ฟุตบอล"
+      ],
+      "year": 2024,
+      "players": "1-4"
+    },
+    {
+      "id": "g217",
+      "platformId": "switch1",
+      "name": "Gundam Breaker 4",
+      "ytId": "",
+      "genre": [
+        "Action RPG"
+      ],
+      "year": 2024,
+      "players": null
+    },
+    {
+      "id": "g218",
+      "platformId": "switch1",
+      "name": "Cat Quest 3",
+      "ytId": "",
+      "genre": [
+        "Action RPG"
+      ],
+      "year": 2024,
+      "players": null
+    },
+    {
+      "id": "g219",
+      "platformId": "switch1",
+      "name": "Pricess Peach : Showtime!",
+      "ytId": "",
+      "genre": [
+        "Platformer",
+        "Adventure"
+      ],
+      "year": 2024,
+      "players": null
+    },
+    {
+      "id": "g220",
+      "platformId": "switch1",
+      "name": "Dave the Diver",
+      "ytId": "VrDoHVGaRpU",
+      "genre": [
+        "Adventure",
+        "Simulation"
+      ],
+      "year": 2024,
+      "players": null
+    },
+    {
+      "id": "g221",
+      "platformId": "switch1",
+      "name": "Prince of Persia : The Lost Crown",
+      "ytId": "o0YEwiFh-BE",
+      "genre": [
+        "Action",
+        "Platformer"
+      ],
+      "year": 2024,
+      "players": null
+    },
+    {
+      "id": "g222",
+      "platformId": "switch1",
+      "name": "Hogwarts Legacy",
+      "ytId": "Zb1DXd4HDPQ",
+      "genre": [
+        "RPG",
+        "เล่นคนเดียว",
+        "Open World"
+      ],
+      "year": 2023,
+      "players": "1"
+    },
+    {
+      "id": "g223",
+      "platformId": "switch1",
+      "name": "Super Mario Bros. Wonder",
+      "ytId": "",
+      "genre": [
+        "เกม Platform",
+        "เล่น 2-4 คน",
+        "เกมครอบครัว"
+      ],
+      "year": 2023,
+      "players": "1-4"
+    },
+    {
+      "id": "g224",
+      "platformId": "switch1",
+      "name": "EA Sport FC 24 (Fifa 24)",
+      "ytId": "xkVDsaBwGnA",
+      "genre": [
+        "เกมกีฬา",
+        "เล่น 2 คน",
+        "ฟุตบอล"
+      ],
+      "year": 2023,
+      "players": "1-4"
+    },
+    {
+      "id": "g225",
+      "platformId": "switch1",
+      "name": "Super Bomberman R 2",
+      "ytId": "",
+      "genre": [
+        "Party",
+        "Action"
+      ],
+      "year": 2023,
+      "players": null
+    },
+    {
+      "id": "g226",
+      "platformId": "switch1",
+      "name": "Moving Out 2",
+      "ytId": "",
+      "genre": [
+        "Party",
+        "Cooperative"
+      ],
+      "year": 2023,
+      "players": null
+    },
+    {
+      "id": "g227",
+      "platformId": "switch1",
+      "name": "Everybody 1-2 Switch",
+      "ytId": "",
+      "genre": [
+        "Party"
+      ],
+      "year": 2023,
+      "players": null
+    },
+    {
+      "id": "g228",
+      "platformId": "switch1",
+      "name": "The Legend of Zelda : Tears of the Kingdom",
+      "ytId": "uHGShqcAHlQ",
+      "genre": [
+        "เกมผจญภัย",
+        "เล่นคนเดียว",
+        "Open World"
+      ],
+      "year": 2023,
+      "players": "1"
+    },
+    {
+      "id": "g229",
+      "platformId": "switch1",
+      "name": "Dredge",
+      "ytId": "",
+      "genre": [
+        "Adventure",
+        "Horror"
+      ],
+      "year": 2023,
+      "players": null
+    },
+    {
+      "id": "g230",
+      "platformId": "switch1",
+      "name": "Crisis Core : Final Fantasy VII",
+      "ytId": "c_jzHKBi2TU",
+      "genre": [
+        "Action RPG"
+      ],
+      "year": 2022,
+      "players": null
+    },
+    {
+      "id": "g231",
+      "platformId": "switch1",
+      "name": "Pokemon Violet",
+      "ytId": "BlHKyOPfv8E",
+      "genre": [
+        "RPG",
+        "Adventure"
+      ],
+      "year": 2022,
+      "players": null
+    },
+    {
+      "id": "g232",
+      "platformId": "switch1",
+      "name": "Pokemon Scarlet",
+      "ytId": "BlHKyOPfv8E",
+      "genre": [
+        "RPG",
+        "Adventure"
+      ],
+      "year": 2022,
+      "players": null
+    },
+    {
+      "id": "g233",
+      "platformId": "switch1",
+      "name": "Sonic Frontiers",
+      "ytId": "",
+      "genre": [
+        "Action",
+        "Adventure"
+      ],
+      "year": 2022,
+      "players": null
+    },
+    {
+      "id": "g234",
+      "platformId": "switch1",
+      "name": "Mario plus Rabbids Sparks of hope",
+      "ytId": "",
+      "genre": [
+        "Strategy",
+        "RPG"
+      ],
+      "year": 2022,
+      "players": null
+    },
+    {
+      "id": "g235",
+      "platformId": "switch1",
+      "name": "Alan Wake Remasteres",
+      "ytId": "xFvBHqfFLrY",
+      "genre": [
+        "Horror",
+        "Action"
+      ],
+      "year": 2021,
+      "players": null
+    },
+    {
+      "id": "g236",
+      "platformId": "switch1",
+      "name": "Bayonetta 3",
+      "ytId": "",
+      "genre": [
+        "Action"
+      ],
+      "year": 2022,
+      "players": null
+    },
+    {
+      "id": "g237",
+      "platformId": "switch1",
+      "name": "Oddworld : Soulstrom",
+      "ytId": "",
+      "genre": [
+        "Platformer",
+        "Action"
+      ],
+      "year": 2021,
+      "players": null
+    },
+    {
+      "id": "g238",
+      "platformId": "switch1",
+      "name": "It Takes Two",
+      "ytId": "CzVM-XkNvHk",
+      "genre": [
+        "เล่น 2 คน",
+        "เกมผจญภัย",
+        "เกมครอบครัว"
+      ],
+      "year": 2021,
+      "players": "2"
+    },
+    {
+      "id": "g239",
+      "platformId": "switch1",
+      "name": "Persona 5 Royal",
+      "ytId": "2lT4q2_tL2U",
+      "genre": [
+        "RPG"
+      ],
+      "year": 2022,
+      "players": null
+    },
+    {
+      "id": "g240",
+      "platformId": "switch1",
+      "name": "Nier Automata",
+      "ytId": "ZBxNOBv7xM8",
+      "genre": [
+        "Action RPG"
+      ],
+      "year": 2017,
+      "players": null
+    },
+    {
+      "id": "g241",
+      "platformId": "switch1",
+      "name": "No Man Sky",
+      "ytId": "nLtmEjqzg7M",
+      "genre": [
+        "Open World",
+        "Survival",
+        "Adventure"
+      ],
+      "year": 2016,
+      "players": null
+    },
+    {
+      "id": "g242",
+      "platformId": "switch1",
+      "name": "Fifa 23",
+      "ytId": "8FIJf-V3hNk",
+      "genre": [
+        "Sports"
+      ],
+      "year": 2022,
+      "players": null
+    },
+    {
+      "id": "g243",
+      "platformId": "switch1",
+      "name": "NBA 2K24",
+      "ytId": "AcbKe6MOaEI",
+      "genre": [
+        "Sports"
+      ],
+      "year": 2023,
+      "players": null
+    },
+    {
+      "id": "g244",
+      "platformId": "switch1",
+      "name": "NBA 2K23",
+      "ytId": "AcbKe6MOaEI",
+      "genre": [
+        "Sports"
+      ],
+      "year": 2022,
+      "players": null
+    },
+    {
+      "id": "g245",
+      "platformId": "switch1",
+      "name": "SD Gundam Battle Alliance",
+      "ytId": "",
+      "genre": [
+        "Action RPG"
+      ],
+      "year": 2022,
+      "players": null
+    },
+    {
+      "id": "g246",
+      "platformId": "switch1",
+      "name": "Shin Chan : Me and the professor on summer vacation",
+      "ytId": "",
+      "genre": [
+        "Adventure",
+        "Simulation"
+      ],
+      "year": 2022,
+      "players": null
+    },
+    {
+      "id": "g247",
+      "platformId": "switch1",
+      "name": "Demon Slayer",
+      "ytId": "",
+      "genre": [
+        "Action",
+        "Fighting"
+      ],
+      "year": 2021,
+      "players": null
+    },
+    {
+      "id": "g248",
+      "platformId": "switch1",
+      "name": "Xenoblade 3",
+      "ytId": "",
+      "genre": [
+        "RPG",
+        "Action RPG"
+      ],
+      "year": 2022,
+      "players": null
+    },
+    {
+      "id": "g249",
+      "platformId": "switch1",
+      "name": "Digimon Survive",
+      "ytId": "",
+      "genre": [
+        "RPG",
+        "Adventure"
+      ],
+      "year": 2022,
+      "players": null
+    },
+    {
+      "id": "g250",
+      "platformId": "switch1",
+      "name": "Rabbids Party of Legends",
+      "ytId": "",
+      "genre": [
+        "Party"
+      ],
+      "year": 2022,
+      "players": null
+    },
+    {
+      "id": "g251",
+      "platformId": "switch1",
+      "name": "KLONOA Phantasy Reverie Series",
+      "ytId": "",
+      "genre": [
+        "Platformer"
+      ],
+      "year": 2022,
+      "players": null
+    },
+    {
+      "id": "g252",
+      "platformId": "switch1",
+      "name": "Fire Emblem Warriors : Three Hopes",
+      "ytId": "",
+      "genre": [
+        "Action RPG",
+        "Strategy"
+      ],
+      "year": 2022,
+      "players": null
+    },
+    {
+      "id": "g253",
+      "platformId": "switch1",
+      "name": "Teenage Mutant Ninja Turtles : Shredder's Revenge",
+      "ytId": "",
+      "genre": [
+        "Action",
+        "Beat-em-up"
+      ],
+      "year": 2022,
+      "players": null
+    },
+    {
+      "id": "g254",
+      "platformId": "switch1",
+      "name": "Instant Sports ALL-STAR",
+      "ytId": "",
+      "genre": [
+        "Sports",
+        "Party"
+      ],
+      "year": 2021,
+      "players": null
+    },
+    {
+      "id": "g255",
+      "platformId": "switch1",
+      "name": "Mario Strikers Battle League",
+      "ytId": "",
+      "genre": [
+        "Sports",
+        "Party"
+      ],
+      "year": 2022,
+      "players": null
+    },
+    {
+      "id": "g256",
+      "platformId": "switch1",
+      "name": "Chrono Cross",
+      "ytId": "",
+      "genre": [
+        "RPG"
+      ],
+      "year": 2022,
+      "players": null
+    },
+    {
+      "id": "g257",
+      "platformId": "switch1",
+      "name": "Nobody Save The World",
+      "ytId": "",
+      "genre": [
+        "Action RPG"
+      ],
+      "year": 2022,
+      "players": null
+    },
+    {
+      "id": "g258",
+      "platformId": "switch1",
+      "name": "The House of the Dead",
+      "ytId": "",
+      "genre": [
+        "Shooter",
+        "Horror"
+      ],
+      "year": 2022,
+      "players": null
+    },
+    {
+      "id": "g259",
+      "platformId": "switch1",
+      "name": "Nintendo Switch Sport",
+      "ytId": "",
+      "genre": [
+        "เกมกีฬา",
+        "เล่น 2-4 คน",
+        "เกมครอบครัว"
+      ],
+      "year": 2022,
+      "players": "1-4"
+    },
+    {
+      "id": "g260",
+      "platformId": "switch1",
+      "name": "Triangle Strategy",
+      "ytId": "",
+      "genre": [
+        "Strategy",
+        "RPG"
+      ],
+      "year": 2022,
+      "players": null
+    },
+    {
+      "id": "g261",
+      "platformId": "switch1",
+      "name": "Kirby and the Forgotten Land",
+      "ytId": "",
+      "genre": [
+        "Platformer",
+        "Action"
+      ],
+      "year": 2022,
+      "players": null
+    },
+    {
+      "id": "g262",
+      "platformId": "switch1",
+      "name": "Chocobo GP",
+      "ytId": "",
+      "genre": [
+        "Racing"
+      ],
+      "year": 2022,
+      "players": null
+    },
+    {
+      "id": "g263",
+      "platformId": "switch1",
+      "name": "1-2 Switch",
+      "ytId": "",
+      "genre": [
+        "Party"
+      ],
+      "year": 2017,
+      "players": null
+    },
+    {
+      "id": "g264",
+      "platformId": "switch1",
+      "name": "Arms",
+      "ytId": "",
+      "genre": [
+        "Fighting",
+        "Sports"
+      ],
+      "year": 2017,
+      "players": null
+    },
+    {
+      "id": "g265",
+      "platformId": "switch1",
+      "name": "Animal Crossing",
+      "ytId": "wN5NE6q7lsA",
+      "genre": [
+        "เกมจำลองชีวิต",
+        "เล่นคนเดียว",
+        "เกมผ่อนคลาย"
+      ],
+      "year": 2020,
+      "players": "1-8"
+    },
+    {
+      "id": "g266",
+      "platformId": "switch1",
+      "name": "Family Trainer",
+      "ytId": "",
+      "genre": [
+        "Sports",
+        "Fitness"
+      ],
+      "year": 2020,
+      "players": null
+    },
+    {
+      "id": "g267",
+      "platformId": "switch1",
+      "name": "Badland",
+      "ytId": "",
+      "genre": [
+        "Platformer",
+        "Puzzle"
+      ],
+      "year": 2019,
+      "players": null
+    },
+    {
+      "id": "g268",
+      "platformId": "switch1",
+      "name": "Big Brain Academy",
+      "ytId": "",
+      "genre": [
+        "Puzzle",
+        "Party"
+      ],
+      "year": 2021,
+      "players": null
+    },
+    {
+      "id": "g269",
+      "platformId": "switch1",
+      "name": "Cuphead",
+      "ytId": "0fHCMSiGPjY",
+      "genre": [
+        "เกม Platform",
+        "เล่น 2 คน",
+        "เกมโหด"
+      ],
+      "year": 2017,
+      "players": "1-2"
+    },
+    {
+      "id": "g270",
+      "platformId": "switch1",
+      "name": "Cooking Mama",
+      "ytId": "",
+      "genre": [
+        "Simulation"
+      ],
+      "year": 2019,
+      "players": null
+    },
+    {
+      "id": "g271",
+      "platformId": "switch1",
+      "name": "Dark Soul Remastered",
+      "ytId": "",
+      "genre": [
+        "Action RPG",
+        "Souls-like"
+      ],
+      "year": 2018,
+      "players": null
+    },
+    {
+      "id": "g272",
+      "platformId": "switch1",
+      "name": "Doom Eternal",
+      "ytId": "",
+      "genre": [
+        "Shooter",
+        "FPS"
+      ],
+      "year": 2020,
+      "players": null
+    },
+    {
+      "id": "g273",
+      "platformId": "switch1",
+      "name": "Donkey Kong",
+      "ytId": "",
+      "genre": [
+        "Platformer"
+      ],
+      "year": 2018,
+      "players": null
+    },
+    {
+      "id": "g274",
+      "platformId": "switch1",
+      "name": "Diablo 3",
+      "ytId": "",
+      "genre": [
+        "Action RPG"
+      ],
+      "year": 2018,
+      "players": null
+    },
+    {
+      "id": "g275",
+      "platformId": "switch1",
+      "name": "Doraemon Story of Seasons",
+      "ytId": "",
+      "genre": [
+        "Simulation",
+        "RPG"
+      ],
+      "year": 2022,
+      "players": null
+    },
+    {
+      "id": "g276",
+      "platformId": "switch1",
+      "name": "Dragonball Fighter Z",
+      "ytId": "YVEPeJnWuTU",
+      "genre": [
+        "Fighting"
+      ],
+      "year": 2018,
+      "players": null
+    },
+    {
+      "id": "g277",
+      "platformId": "switch1",
+      "name": "Dead Cells",
+      "ytId": "",
+      "genre": [
+        "Action",
+        "Roguelike"
+      ],
+      "year": 2018,
+      "players": null
+    },
+    {
+      "id": "g278",
+      "platformId": "switch1",
+      "name": "Disney Magical World 2",
+      "ytId": "",
+      "genre": [
+        "RPG",
+        "Simulation"
+      ],
+      "year": 2021,
+      "players": null
+    },
+    {
+      "id": "g279",
+      "platformId": "switch1",
+      "name": "Fishing Start World Tour",
+      "ytId": "",
+      "genre": [
+        "Simulation"
+      ],
+      "year": 2020,
+      "players": null
+    },
+    {
+      "id": "g280",
+      "platformId": "switch1",
+      "name": "Fitness Boxing",
+      "ytId": "",
+      "genre": [
+        "Sports",
+        "Fitness"
+      ],
+      "year": 2018,
+      "players": null
+    },
+    {
+      "id": "g281",
+      "platformId": "switch1",
+      "name": "Fitness Boxing 2",
+      "ytId": "",
+      "genre": [
+        "Sports",
+        "Fitness"
+      ],
+      "year": 2020,
+      "players": null
+    },
+    {
+      "id": "g282",
+      "platformId": "switch1",
+      "name": "Fifa 22 Legacy Editions",
+      "ytId": "lNeblxO0Mec",
+      "genre": [
+        "Sports"
+      ],
+      "year": 2021,
+      "players": null
+    },
+    {
+      "id": "g283",
+      "platformId": "switch1",
+      "name": "Football Manager 22 Touch",
+      "ytId": "",
+      "genre": [
+        "Sports",
+        "Strategy"
+      ],
+      "year": 2021,
+      "players": null
+    },
+    {
+      "id": "g284",
+      "platformId": "switch1",
+      "name": "Harvest Moon Mad Dash",
+      "ytId": "",
+      "genre": [
+        "Simulation",
+        "Party"
+      ],
+      "year": 2019,
+      "players": null
+    },
+    {
+      "id": "g285",
+      "platformId": "switch1",
+      "name": "Hollow Knight",
+      "ytId": "UAO2urG23S4",
+      "genre": [
+        "เกม Platform",
+        "เล่นคนเดียว",
+        "เกมโหด"
+      ],
+      "year": 2017,
+      "players": "1"
+    },
+    {
+      "id": "g286",
+      "platformId": "switch1",
+      "name": "Just Dance 2017",
+      "ytId": "",
+      "genre": [
+        "Music",
+        "Dance"
+      ],
+      "year": 2017,
+      "players": null
+    },
+    {
+      "id": "g287",
+      "platformId": "switch1",
+      "name": "Just Dance 2018",
+      "ytId": "",
+      "genre": [
+        "Music",
+        "Dance"
+      ],
+      "year": 2017,
+      "players": null
+    },
+    {
+      "id": "g288",
+      "platformId": "switch1",
+      "name": "Just Dance 2019",
+      "ytId": "",
+      "genre": [
+        "Music",
+        "Dance"
+      ],
+      "year": 2018,
+      "players": null
+    },
+    {
+      "id": "g289",
+      "platformId": "switch1",
+      "name": "Just Dance 2020",
+      "ytId": "",
+      "genre": [
+        "Music",
+        "Dance"
+      ],
+      "year": 2019,
+      "players": null
+    },
+    {
+      "id": "g290",
+      "platformId": "switch1",
+      "name": "Just Dance 2021",
+      "ytId": "",
+      "genre": [
+        "Music",
+        "Dance"
+      ],
+      "year": 2020,
+      "players": null
+    },
+    {
+      "id": "g291",
+      "platformId": "switch1",
+      "name": "Just Dance 2022",
+      "ytId": "",
+      "genre": [
+        "Music",
+        "Dance"
+      ],
+      "year": 2021,
+      "players": null
+    },
+    {
+      "id": "g292",
+      "platformId": "switch1",
+      "name": "Jump Force",
+      "ytId": "",
+      "genre": [
+        "Fighting"
+      ],
+      "year": 2019,
+      "players": null
+    },
+    {
+      "id": "g293",
+      "platformId": "switch1",
+      "name": "Luigi's Mansion 3",
+      "ytId": "EvQ3-LIxbH4",
+      "genre": [
+        "Adventure",
+        "Puzzle"
+      ],
+      "year": 2019,
+      "players": null
+    },
+    {
+      "id": "g294",
+      "platformId": "switch1",
+      "name": "Little Nightmare 2",
+      "ytId": "W3BpAQnGKvs",
+      "genre": [
+        "Horror",
+        "Platformer",
+        "Puzzle"
+      ],
+      "year": 2021,
+      "players": null
+    },
+    {
+      "id": "g295",
+      "platformId": "switch1",
+      "name": "Life is strange True Colors",
+      "ytId": "",
+      "genre": [
+        "Adventure"
+      ],
+      "year": 2021,
+      "players": null
+    },
+    {
+      "id": "g296",
+      "platformId": "switch1",
+      "name": "Kirby Fighters 2",
+      "ytId": "",
+      "genre": [
+        "Fighting"
+      ],
+      "year": 2020,
+      "players": null
+    },
+    {
+      "id": "g297",
+      "platformId": "switch1",
+      "name": "Kirby Star Alies",
+      "ytId": "",
+      "genre": [
+        "Platformer",
+        "Action"
+      ],
+      "year": 2018,
+      "players": null
+    },
+    {
+      "id": "g298",
+      "platformId": "switch1",
+      "name": "RingFit Adventure",
+      "ytId": "",
+      "genre": [
+        "เกมกีฬา",
+        "ออกกำลังกาย",
+        "เล่นคนเดียว"
+      ],
+      "year": 2019,
+      "players": "1"
+    },
+    {
+      "id": "g299",
+      "platformId": "switch1",
+      "name": "Rayman Legends",
+      "ytId": "",
+      "genre": [
+        "Platformer"
+      ],
+      "year": 2013,
+      "players": null
+    },
+    {
+      "id": "g300",
+      "platformId": "switch1",
+      "name": "PAC-MAN MUSEUM+",
+      "ytId": "",
+      "genre": [
+        "Action"
+      ],
+      "year": 2022,
+      "players": null
+    },
+    {
+      "id": "g301",
+      "platformId": "switch1",
+      "name": "Pokemon Legends Arceus",
+      "ytId": "BlHKyOPfv8E",
+      "genre": [
+        "RPG",
+        "Action"
+      ],
+      "year": 2022,
+      "players": null
+    },
+    {
+      "id": "g302",
+      "platformId": "switch1",
+      "name": "Pokemon Sword",
+      "ytId": "BlHKyOPfv8E",
+      "genre": [
+        "RPG",
+        "Adventure"
+      ],
+      "year": 2019,
+      "players": null
+    },
+    {
+      "id": "g303",
+      "platformId": "switch1",
+      "name": "NBA 2K22",
+      "ytId": "AcbKe6MOaEI",
+      "genre": [
+        "Sports"
+      ],
+      "year": 2021,
+      "players": null
+    },
+    {
+      "id": "g304",
+      "platformId": "switch1",
+      "name": "NBA 2K21",
+      "ytId": "AcbKe6MOaEI",
+      "genre": [
+        "Sports"
+      ],
+      "year": 2020,
+      "players": null
+    },
+    {
+      "id": "g305",
+      "platformId": "switch1",
+      "name": "Moving Out",
+      "ytId": "",
+      "genre": [
+        "Party",
+        "Cooperative"
+      ],
+      "year": 2020,
+      "players": null
+    },
+    {
+      "id": "g306",
+      "platformId": "switch1",
+      "name": "Mortal Kombat 1",
+      "ytId": "OPgbKy1JEsY",
+      "genre": [
+        "Fighting"
+      ],
+      "year": 2023,
+      "players": null
+    },
+    {
+      "id": "g307",
+      "platformId": "switch1",
+      "name": "Mortal Kombat 11",
+      "ytId": "OPgbKy1JEsY",
+      "genre": [
+        "เกมต่อสู้",
+        "เล่น 2 คน",
+        "เกมผู้ใหญ่"
+      ],
+      "year": 2019,
+      "players": "1-2"
+    },
+    {
+      "id": "g308",
+      "platformId": "switch1",
+      "name": "Monster Hunter Stories 2 : Wings of Ruin",
+      "ytId": "",
+      "genre": [
+        "RPG",
+        "Action RPG"
+      ],
+      "year": 2021,
+      "players": null
+    },
+    {
+      "id": "g309",
+      "platformId": "switch1",
+      "name": "Monster Hunter Rise",
+      "ytId": "gLOVNhcOWck",
+      "genre": [
+        "Action RPG"
+      ],
+      "year": 2022,
+      "players": null
+    },
+    {
+      "id": "g310",
+      "platformId": "switch1",
+      "name": "Minecraft",
+      "ytId": "",
+      "genre": [
+        "Sandbox"
+      ],
+      "year": 2018,
+      "players": null
+    },
+    {
+      "id": "g311",
+      "platformId": "switch1",
+      "name": "Mario + Rabbids Kingdom Battle",
+      "ytId": "",
+      "genre": [
+        "Strategy",
+        "RPG"
+      ],
+      "year": 2017,
+      "players": null
+    },
+    {
+      "id": "g312",
+      "platformId": "switch1",
+      "name": "Mario Kart 8 Deluxe",
+      "ytId": "aISqGMFgGgw",
+      "genre": [
+        "เกมแข่งรถ",
+        "เล่น 2-4 คน",
+        "เกมครอบครัว"
+      ],
+      "year": 2017,
+      "players": "1-4"
+    },
+    {
+      "id": "g313",
+      "platformId": "switch1",
+      "name": "Mario Tennis Aces",
+      "ytId": "",
+      "genre": [
+        "Sports"
+      ],
+      "year": 2018,
+      "players": null
+    },
+    {
+      "id": "g314",
+      "platformId": "switch1",
+      "name": "Mario&Sonic Olympic Games",
+      "ytId": "",
+      "genre": [
+        "Sports",
+        "Party"
+      ],
+      "year": 2019,
+      "players": null
+    },
+    {
+      "id": "g315",
+      "platformId": "switch1",
+      "name": "Mario Golf Super Rush",
+      "ytId": "",
+      "genre": [
+        "Sports"
+      ],
+      "year": 2021,
+      "players": null
+    },
+    {
+      "id": "g316",
+      "platformId": "switch1",
+      "name": "Samurai Warriors 5",
+      "ytId": "",
+      "genre": [
+        "Action"
+      ],
+      "year": 2021,
+      "players": null
+    },
+    {
+      "id": "g317",
+      "platformId": "switch1",
+      "name": "Stardrew Valley",
+      "ytId": "ot7uXNQskhs",
+      "genre": [
+        "Simulation",
+        "RPG"
+      ],
+      "year": 2016,
+      "players": null
+    },
+    {
+      "id": "g318",
+      "platformId": "switch1",
+      "name": "Super Mario Maker 2",
+      "ytId": "",
+      "genre": [
+        "Platformer"
+      ],
+      "year": 2019,
+      "players": null
+    },
+    {
+      "id": "g319",
+      "platformId": "switch1",
+      "name": "Super Mario Bros.U Deluxe",
+      "ytId": "",
+      "genre": [
+        "Platformer"
+      ],
+      "year": 2019,
+      "players": null
+    },
+    {
+      "id": "g320",
+      "platformId": "switch1",
+      "name": "Super Mario 3D All Stars",
+      "ytId": "wGQHQc_3ycE",
+      "genre": [
+        "Platformer"
+      ],
+      "year": 2020,
+      "players": null
+    },
+    {
+      "id": "g321",
+      "platformId": "switch1",
+      "name": "Super Mario Odyssey",
+      "ytId": "wGQHQc_3ycE",
+      "genre": [
+        "เกม Platform",
+        "เล่น 2 คน",
+        "เกมครอบครัว"
+      ],
+      "year": 2017,
+      "players": "1-2"
+    },
+    {
+      "id": "g322",
+      "platformId": "switch1",
+      "name": "Super Mario Party Superstar",
+      "ytId": "",
+      "genre": [
+        "Party"
+      ],
+      "year": 2021,
+      "players": null
+    },
+    {
+      "id": "g323",
+      "platformId": "switch1",
+      "name": "Super Mario Party",
+      "ytId": "",
+      "genre": [
+        "Party"
+      ],
+      "year": 2018,
+      "players": null
+    },
+    {
+      "id": "g324",
+      "platformId": "switch1",
+      "name": "Super Smash Bros Ultimate",
+      "ytId": "8_J3B5FHmkI",
+      "genre": [
+        "เกมต่อสู้",
+        "เล่น 2-8 คน",
+        "เกมปาร์ตี้"
+      ],
+      "year": 2018,
+      "players": "1-8"
+    },
+    {
+      "id": "g325",
+      "platformId": "switch1",
+      "name": "Super Bomberman R",
+      "ytId": "",
+      "genre": [
+        "Party",
+        "Action"
+      ],
+      "year": 2017,
+      "players": null
+    },
+    {
+      "id": "g326",
+      "platformId": "switch1",
+      "name": "Samurai Jack",
+      "ytId": "",
+      "genre": [
+        "Action",
+        "Platformer"
+      ],
+      "year": 2019,
+      "players": null
+    },
+    {
+      "id": "g327",
+      "platformId": "switch1",
+      "name": "Snipperclips",
+      "ytId": "",
+      "genre": [
+        "Puzzle",
+        "Cooperative"
+      ],
+      "year": 2017,
+      "players": null
+    },
+    {
+      "id": "g328",
+      "platformId": "switch1",
+      "name": "Stikbold Deluxe",
+      "ytId": "",
+      "genre": [
+        "Party",
+        "Sports"
+      ],
+      "year": 2018,
+      "players": null
+    },
+    {
+      "id": "g329",
+      "platformId": "switch1",
+      "name": "Sonic Origins",
+      "ytId": "",
+      "genre": [
+        "Platformer"
+      ],
+      "year": 2022,
+      "players": null
+    },
+    {
+      "id": "g330",
+      "platformId": "switch1",
+      "name": "Sonic Force",
+      "ytId": "",
+      "genre": [
+        "Platformer",
+        "Action"
+      ],
+      "year": 2017,
+      "players": null
+    },
+    {
+      "id": "g331",
+      "platformId": "switch1",
+      "name": "Overcooked ALL you can eat",
+      "ytId": "n9R4FdEXMCk",
+      "genre": [
+        "เล่น 2-4 คน",
+        "เกมปาร์ตี้",
+        "เกมครอบครัว"
+      ],
+      "year": 2020,
+      "players": "1-4"
+    },
+    {
+      "id": "g332",
+      "platformId": "switch1",
+      "name": "Olympic Games",
+      "ytId": "",
+      "genre": [
+        "Sports",
+        "Party"
+      ],
+      "year": 2021,
+      "players": null
+    },
+    {
+      "id": "g333",
+      "platformId": "switch1",
+      "name": "Tetris",
+      "ytId": "",
+      "genre": [
+        "Puzzle"
+      ],
+      "year": 2018,
+      "players": null
+    },
+    {
+      "id": "g334",
+      "platformId": "switch1",
+      "name": "Terraria",
+      "ytId": "w7uOhFTrrq0",
+      "genre": [
+        "Sandbox",
+        "Adventure"
+      ],
+      "year": 2013,
+      "players": null
+    },
+    {
+      "id": "g335",
+      "platformId": "switch1",
+      "name": "Team Sonic Racing",
+      "ytId": "",
+      "genre": [
+        "Racing"
+      ],
+      "year": 2019,
+      "players": null
+    },
+    {
+      "id": "g336",
+      "platformId": "switch1",
+      "name": "Tsum Tsum Festival",
+      "ytId": "",
+      "genre": [
+        "Party"
+      ],
+      "year": 2019,
+      "players": null
+    },
+    {
+      "id": "g337",
+      "platformId": "switch1",
+      "name": "The Legend of Zelda Breath of the wild",
+      "ytId": "zw47_q9wbBE",
+      "genre": [
+        "Action",
+        "Adventure",
+        "Open World"
+      ],
+      "year": 2017,
+      "players": null
+    },
+    {
+      "id": "g338",
+      "platformId": "switch1",
+      "name": "The Legend of Zelda : Skyward Sword HD",
+      "ytId": "",
+      "genre": [
+        "Action",
+        "Adventure"
+      ],
+      "year": 2021,
+      "players": null
+    },
+    {
+      "id": "g339",
+      "platformId": "switch1",
+      "name": "The Witcher 3 Wild Hunt",
+      "ytId": "c0i88t0Kacs",
+      "genre": [
+        "RPG",
+        "Open World"
+      ],
+      "year": 2019,
+      "players": null
+    },
+    {
+      "id": "g340",
+      "platformId": "switch1",
+      "name": "The Elder of Skyrim",
+      "ytId": "",
+      "genre": [
+        "RPG",
+        "Open World"
+      ],
+      "year": 2017,
+      "players": null
+    },
+    {
+      "id": "g341",
+      "platformId": "switch1",
+      "name": "Twelve Minutes",
+      "ytId": "",
+      "genre": [
+        "Adventure",
+        "Puzzle"
+      ],
+      "year": 2022,
+      "players": null
+    },
+    {
+      "id": "g342",
+      "platformId": "switch1",
+      "name": "Yoshi's Crafted World",
+      "ytId": "",
+      "genre": [
+        "Platformer"
+      ],
+      "year": 2019,
+      "players": null
+    },
+    {
+      "id": "g343",
+      "platformId": "switch1",
+      "name": "World War Z",
+      "ytId": "",
+      "genre": [
+        "Shooter",
+        "Cooperative"
+      ],
+      "year": 2021,
+      "players": null
+    },
+    {
+      "id": "g344",
+      "platformId": "switch1",
+      "name": "Uno",
+      "ytId": "",
+      "genre": [
+        "Party"
+      ],
+      "year": 2017,
+      "players": null
+    },
+    {
+      "id": "g346",
+      "platformId": "ps45",
+      "name": "Resident Evil Requiem",
+      "ytId": "tDtSfKhVGZ8",
+      "genre": [
+        "Horror",
+        "Survival Horror"
+      ],
+      "year": 2025,
+      "players": null
+    },
+    {
+      "id": "g347",
+      "platformId": "ps45",
+      "name": "Nioh 3",
+      "ytId": "Oz7kQo4l4Cw",
+      "genre": [
+        "Action RPG",
+        "Souls-like"
+      ],
+      "year": 2025,
+      "players": null
+    },
+    {
+      "id": "g348",
+      "platformId": "ps45",
+      "name": "Hollow Knight Silksong",
+      "ytId": "UAO2urG23S4",
+      "genre": [
+        "Platformer",
+        "Action"
+      ],
+      "year": 2025,
+      "players": null
+    },
+    {
+      "id": "g349",
+      "platformId": "ps45",
+      "name": "Call of Duty Black Ops 7",
+      "ytId": "fCMIpNALUhQ",
+      "genre": [
+        "Shooter",
+        "FPS"
+      ],
+      "year": 2025,
+      "players": null
+    },
+    {
+      "id": "g350",
+      "platformId": "ps45",
+      "name": "Battlefield 6",
+      "ytId": "fb1MR85ZFic",
+      "genre": [
+        "Shooter",
+        "FPS"
+      ],
+      "year": 2025,
+      "players": null
+    },
+    {
+      "id": "g351",
+      "platformId": "ps45",
+      "name": "Little Nightmares 3",
+      "ytId": "W3BpAQnGKvs",
+      "genre": [
+        "เกมสยองขวัญ",
+        "เล่น 2 คน"
+      ],
+      "year": 2025,
+      "players": "1-2"
+    },
+    {
+      "id": "g352",
+      "platformId": "ps45",
+      "name": "Doom The Dark Ages",
+      "ytId": "",
+      "genre": [
+        "Shooter",
+        "FPS"
+      ],
+      "year": 2025,
+      "players": null
+    },
+    {
+      "id": "g353",
+      "platformId": "ps45",
+      "name": "Ghos of Yotei",
+      "ytId": "kBfFuRoK3J8",
+      "genre": [
+        "Action",
+        "Adventure",
+        "Open World"
+      ],
+      "year": 2025,
+      "players": null
+    },
+    {
+      "id": "g354",
+      "platformId": "ps45",
+      "name": "Silent Hill f",
+      "ytId": "xYI8JIQW5-g",
+      "genre": [
+        "Horror"
+      ],
+      "year": 2025,
+      "players": null
+    },
+    {
+      "id": "g355",
+      "platformId": "ps45",
+      "name": "Warhammer 40K : Space Marine 2",
+      "ytId": "M_S7HrVDX7w",
+      "genre": [
+        "Action",
+        "Shooter"
+      ],
+      "year": 2024,
+      "players": null
+    },
+    {
+      "id": "g356",
+      "platformId": "ps45",
+      "name": "Madden NFL 26",
+      "ytId": "",
+      "genre": [
+        "Sports"
+      ],
+      "year": 2025,
+      "players": null
+    },
+    {
+      "id": "g357",
+      "platformId": "ps45",
+      "name": "Dying Light The Beast",
+      "ytId": "kLo9Wd3KCWQ",
+      "genre": [
+        "Action",
+        "Survival",
+        "Open World"
+      ],
+      "year": 2015,
+      "players": null
+    },
+    {
+      "id": "g358",
+      "platformId": "ps45",
+      "name": "NBA 2K26",
+      "ytId": "AcbKe6MOaEI",
+      "genre": [
+        "Sports"
+      ],
+      "year": 2025,
+      "players": null
+    },
+    {
+      "id": "g359",
+      "platformId": "ps45",
+      "name": "EA Sport FC 26 (Fifa 26)",
+      "ytId": "Y8jVVTiqUEg",
+      "genre": [
+        "เกมกีฬา",
+        "เล่น 2 คน",
+        "ฟุตบอล"
+      ],
+      "year": 2025,
+      "players": "1-4"
+    },
+    {
+      "id": "g360",
+      "platformId": "ps45",
+      "name": "Borderlands 4",
+      "ytId": "",
+      "genre": [
+        "Shooter",
+        "RPG"
+      ],
+      "year": 2019,
+      "players": null
+    },
+    {
+      "id": "g361",
+      "platformId": "ps45",
+      "name": "Lost Soul Aside",
+      "ytId": "",
+      "genre": [
+        "Action RPG"
+      ],
+      "year": 2025,
+      "players": null
+    },
+    {
+      "id": "g362",
+      "platformId": "ps45",
+      "name": "Undisputed",
+      "ytId": "",
+      "genre": [
+        "Sports",
+        "Fighting"
+      ],
+      "year": 2024,
+      "players": null
+    },
+    {
+      "id": "g363",
+      "platformId": "ps45",
+      "name": "Wuchang Fallen Feathers",
+      "ytId": "",
+      "genre": [
+        "Action RPG",
+        "Souls-like"
+      ],
+      "year": 2025,
+      "players": null
+    },
+    {
+      "id": "g364",
+      "platformId": "ps45",
+      "name": "Mafia Old Country",
+      "ytId": "",
+      "genre": [
+        "Action",
+        "Open World"
+      ],
+      "year": 2025,
+      "players": null
+    },
+    {
+      "id": "g365",
+      "platformId": "ps45",
+      "name": "Death Stranding 2 : On The Beach",
+      "ytId": "nkfcFxfR7kY",
+      "genre": [
+        "Action",
+        "Adventure"
+      ],
+      "year": 2025,
+      "players": null
+    },
+    {
+      "id": "g366",
+      "platformId": "ps45",
+      "name": "The Exit 8",
+      "ytId": "",
+      "genre": [
+        "Horror",
+        "Puzzle"
+      ],
+      "year": 2025,
+      "players": null
+    },
+    {
+      "id": "g367",
+      "platformId": "ps45",
+      "name": "Like a Dragon: Infinite Weath",
+      "ytId": "Ct6KoFbAFiU",
+      "genre": [
+        "RPG",
+        "Action"
+      ],
+      "year": 2024,
+      "players": null
+    },
+    {
+      "id": "g368",
+      "platformId": "ps45",
+      "name": "DayZ",
+      "ytId": "lGiM0FPMEyk",
+      "genre": [
+        "Survival",
+        "Open World"
+      ],
+      "year": 2022,
+      "players": null
+    },
+    {
+      "id": "g369",
+      "platformId": "ps45",
+      "name": "Lie of P",
+      "ytId": "M8_U7rp8lEs",
+      "genre": [
+        "Action RPG",
+        "Souls-like"
+      ],
+      "year": 2023,
+      "players": null
+    },
+    {
+      "id": "g370",
+      "platformId": "ps45",
+      "name": "Goat Simulator 3",
+      "ytId": "",
+      "genre": [
+        "Party",
+        "Simulation"
+      ],
+      "year": 2022,
+      "players": null
+    },
+    {
+      "id": "g371",
+      "platformId": "ps45",
+      "name": "Stray",
+      "ytId": "2qVwdNp9JcE",
+      "genre": [
+        "Adventure",
+        "Puzzle"
+      ],
+      "year": 2022,
+      "players": null
+    },
+    {
+      "id": "g372",
+      "platformId": "ps45",
+      "name": "A Quiet Place : The Road Ahead",
+      "ytId": "",
+      "genre": [
+        "Horror",
+        "Stealth"
+      ],
+      "year": 2024,
+      "players": null
+    },
+    {
+      "id": "g373",
+      "platformId": "ps45",
+      "name": "Rematch",
+      "ytId": "",
+      "genre": [
+        "Sports"
+      ],
+      "year": 2025,
+      "players": null
+    },
+    {
+      "id": "g374",
+      "platformId": "ps45",
+      "name": "Elden Ring Nightreign",
+      "ytId": "B2-ha7YPpRc",
+      "genre": [
+        "Action RPG",
+        "Souls-like"
+      ],
+      "year": 2025,
+      "players": null
+    },
+    {
+      "id": "g375",
+      "platformId": "ps45",
+      "name": "Fantasy Life I : The Girl Who Steals Time",
+      "ytId": "",
+      "genre": [
+        "RPG",
+        "Simulation"
+      ],
+      "year": 2024,
+      "players": null
+    },
+    {
+      "id": "g376",
+      "platformId": "ps45",
+      "name": "Clair Obscur: Expedition 33",
+      "ytId": "",
+      "genre": [
+        "RPG"
+      ],
+      "year": 2025,
+      "players": null
+    },
+    {
+      "id": "g377",
+      "platformId": "ps45",
+      "name": "Split Ficiton",
+      "ytId": "vViFIrgNmkA",
+      "genre": [
+        "เล่น 2 คน",
+        "เกมผจญภัย"
+      ],
+      "year": 2025,
+      "players": "2"
+    },
+    {
+      "id": "g378",
+      "platformId": "ps45",
+      "name": "RoboCop Rogue City",
+      "ytId": "",
+      "genre": [
+        "Shooter",
+        "Action"
+      ],
+      "year": 2023,
+      "players": null
+    },
+    {
+      "id": "g379",
+      "platformId": "ps45",
+      "name": "The First Berserker Khazan",
+      "ytId": "",
+      "genre": [
+        "Action RPG",
+        "Souls-like"
+      ],
+      "year": 2025,
+      "players": null
+    },
+    {
+      "id": "g380",
+      "platformId": "ps45",
+      "name": "Assassin's Creed Shadows",
+      "ytId": "iqysmS4lxwQ",
+      "genre": [
+        "Action RPG",
+        "Open World"
+      ],
+      "year": 2025,
+      "players": null
+    },
+    {
+      "id": "g381",
+      "platformId": "ps45",
+      "name": "Price of Persia : The Lost Crown",
+      "ytId": "o0YEwiFh-BE",
+      "genre": [
+        "Action",
+        "Platformer"
+      ],
+      "year": 2024,
+      "players": null
+    },
+    {
+      "id": "g382",
+      "platformId": "ps45",
+      "name": "Dragon Age The Veilguard",
+      "ytId": "",
+      "genre": [
+        "Action RPG"
+      ],
+      "year": 2024,
+      "players": null
+    },
+    {
+      "id": "g383",
+      "platformId": "ps45",
+      "name": "Monster Hunter Wilds",
+      "ytId": "6Rll_eHj0oE",
+      "genre": [
+        "Action RPG"
+      ],
+      "year": 2025,
+      "players": null
+    },
+    {
+      "id": "g384",
+      "platformId": "ps45",
+      "name": "Kingdom Come Deliverance II",
+      "ytId": "",
+      "genre": [
+        "RPG",
+        "Open World"
+      ],
+      "year": 2025,
+      "players": null
+    },
+    {
+      "id": "g385",
+      "platformId": "ps45",
+      "name": "Dynasty Warriors Origins",
+      "ytId": "",
+      "genre": [
+        "Action"
+      ],
+      "year": 2025,
+      "players": null
+    },
+    {
+      "id": "g386",
+      "platformId": "ps45",
+      "name": "SD Gundam Battle Alliance",
+      "ytId": "",
+      "genre": [
+        "Action RPG"
+      ],
+      "year": 2022,
+      "players": null
+    },
+    {
+      "id": "g387",
+      "platformId": "ps45",
+      "name": "Like a Dragon Gaiden The Man Who Erased His name",
+      "ytId": "",
+      "genre": [
+        "RPG",
+        "Action"
+      ],
+      "year": 2023,
+      "players": null
+    },
+    {
+      "id": "g388",
+      "platformId": "ps45",
+      "name": "Atlas Fallen Reign of Sand",
+      "ytId": "",
+      "genre": [
+        "Action RPG",
+        "Open World"
+      ],
+      "year": 2023,
+      "players": null
+    },
+    {
+      "id": "g389",
+      "platformId": "ps45",
+      "name": "Suicide Squad",
+      "ytId": "CJr_sLLJVV0",
+      "genre": [
+        "Action",
+        "Shooter"
+      ],
+      "year": 2024,
+      "players": null
+    },
+    {
+      "id": "g390",
+      "platformId": "ps45",
+      "name": "Path of Exile 2",
+      "ytId": "",
+      "genre": [
+        "Action RPG"
+      ],
+      "year": 2024,
+      "players": null
+    },
+    {
+      "id": "g391",
+      "platformId": "ps45",
+      "name": "Call of Duty Black Ops 6",
+      "ytId": "fCMIpNALUhQ",
+      "genre": [
+        "Shooter",
+        "FPS"
+      ],
+      "year": 2024,
+      "players": null
+    },
+    {
+      "id": "g392",
+      "platformId": "ps45",
+      "name": "Astro Bot",
+      "ytId": "WD9OIhGElAg",
+      "genre": [
+        "เกม Platform",
+        "เล่นคนเดียว",
+        "เกมครอบครัว"
+      ],
+      "year": 2024,
+      "players": "1"
+    },
+    {
+      "id": "g393",
+      "platformId": "ps45",
+      "name": "UFC 5",
+      "ytId": "9x2TaGTCiQY",
+      "genre": [
+        "เกมกีฬา",
+        "เล่น 2 คน",
+        "กีฬาต่อสู้"
+      ],
+      "year": 2023,
+      "players": "1-2"
+    },
+    {
+      "id": "g394",
+      "platformId": "ps45",
+      "name": "NBA 2K25",
+      "ytId": "AcbKe6MOaEI",
+      "genre": [
+        "เกมกีฬา",
+        "เล่น 2 คน",
+        "บาสเกตบอล"
+      ],
+      "year": 2024,
+      "players": "1-4"
+    },
+    {
+      "id": "g395",
+      "platformId": "ps45",
+      "name": "Metaphor : ReFantazio",
+      "ytId": "c7e55jqieKo",
+      "genre": [
+        "RPG"
+      ],
+      "year": 2024,
+      "players": null
+    },
+    {
+      "id": "g396",
+      "platformId": "ps45",
+      "name": "Dragonball Sparking Zero",
+      "ytId": "1FJacCxShAQ",
+      "genre": [
+        "เกมต่อสู้",
+        "เล่น 2 คน",
+        "อนิเมะ"
+      ],
+      "year": 2024,
+      "players": "1-2"
+    },
+    {
+      "id": "g397",
+      "platformId": "ps45",
+      "name": "F1 2024",
+      "ytId": "WBLlJqAcpks",
+      "genre": [
+        "Racing",
+        "Sports"
+      ],
+      "year": 2024,
+      "players": null
+    },
+    {
+      "id": "g398",
+      "platformId": "ps45",
+      "name": "WWE 2K 24",
+      "ytId": "OwHRJpg-9S0",
+      "genre": [
+        "เกมกีฬา",
+        "เล่น 2-4 คน",
+        "มวยปล้ำ"
+      ],
+      "year": 2024,
+      "players": "1-4"
+    },
+    {
+      "id": "g399",
+      "platformId": "ps45",
+      "name": "Dead Space Remake",
+      "ytId": "tYXHEhkFLBg",
+      "genre": [
+        "Horror",
+        "Action"
+      ],
+      "year": 2023,
+      "players": null
+    },
+    {
+      "id": "g400",
+      "platformId": "ps45",
+      "name": "The Last Of Us Part 1",
+      "ytId": "yZHHbQ7NJXI",
+      "genre": [
+        "เกมผจญภัย",
+        "เล่นคนเดียว",
+        "เกมดราม่า"
+      ],
+      "year": 2022,
+      "players": "1"
+    },
+    {
+      "id": "g401",
+      "platformId": "ps45",
+      "name": "EA Sport FC 25 (Fifa 25)",
+      "ytId": "Y8jVVTiqUEg",
+      "genre": [
+        "เกมกีฬา",
+        "เล่น 2 คน",
+        "ฟุตบอล"
+      ],
+      "year": 2024,
+      "players": "1-4"
+    },
+    {
+      "id": "g402",
+      "platformId": "ps45",
+      "name": "The Show 24 (MBL)",
+      "ytId": "",
+      "genre": [
+        "Sports"
+      ],
+      "year": 2024,
+      "players": null
+    },
+    {
+      "id": "g403",
+      "platformId": "ps45",
+      "name": "Harry Potter : Quidditch Champions",
+      "ytId": "",
+      "genre": [
+        "Sports"
+      ],
+      "year": 2024,
+      "players": null
+    },
+    {
+      "id": "g404",
+      "platformId": "ps45",
+      "name": "The Little Nightmares 2",
+      "ytId": "W3BpAQnGKvs",
+      "genre": [
+        "Horror",
+        "Platformer",
+        "Puzzle"
+      ],
+      "year": 2021,
+      "players": null
+    },
+    {
+      "id": "g405",
+      "platformId": "ps45",
+      "name": "Valorant",
+      "ytId": "",
+      "genre": [
+        "Shooter",
+        "FPS"
+      ],
+      "year": 2025,
+      "players": null
+    },
+    {
+      "id": "g406",
+      "platformId": "ps45",
+      "name": "Black Myth: Wukong",
+      "ytId": "mCyGgcHpXD4",
+      "genre": [
+        "เกมผจญภัย",
+        "เล่นคนเดียว",
+        "เกมโหด"
+      ],
+      "year": 2024,
+      "players": "1"
+    },
+    {
+      "id": "g407",
+      "platformId": "ps45",
+      "name": "Stellar Blade",
+      "ytId": "LCmzGrkmDLE",
+      "genre": [
+        "เกมผจญภัย",
+        "เล่นคนเดียว"
+      ],
+      "year": 2024,
+      "players": "1"
+    },
+    {
+      "id": "g408",
+      "platformId": "ps45",
+      "name": "Persona 3 Reload",
+      "ytId": "7kxHNOolekU",
+      "genre": [
+        "RPG"
+      ],
+      "year": 2024,
+      "players": null
+    },
+    {
+      "id": "g409",
+      "platformId": "ps45",
+      "name": "Remnant 2",
+      "ytId": "GRmr9EGSjkw",
+      "genre": [
+        "Action RPG",
+        "Shooter"
+      ],
+      "year": 2023,
+      "players": null
+    },
+    {
+      "id": "g410",
+      "platformId": "ps45",
+      "name": "Crisis Core Final Fantasy Reunion",
+      "ytId": "c_jzHKBi2TU",
+      "genre": [
+        "Action RPG"
+      ],
+      "year": 2022,
+      "players": null
+    },
+    {
+      "id": "g411",
+      "platformId": "ps45",
+      "name": "Police Simulator",
+      "ytId": "",
+      "genre": [
+        "Simulation"
+      ],
+      "year": 2022,
+      "players": null
+    },
+    {
+      "id": "g412",
+      "platformId": "ps45",
+      "name": "Monster Hunter Iceborne",
+      "ytId": "0AeVKJQpIsE",
+      "genre": [
+        "Action RPG"
+      ],
+      "year": 2019,
+      "players": null
+    },
+    {
+      "id": "g413",
+      "platformId": "ps45",
+      "name": "Monster Hunter Rise",
+      "ytId": "gLOVNhcOWck",
+      "genre": [
+        "Action RPG"
+      ],
+      "year": 2022,
+      "players": null
+    },
+    {
+      "id": "g414",
+      "platformId": "ps45",
+      "name": "Football Manager 2024 Console",
+      "ytId": "",
+      "genre": [
+        "Sports",
+        "Strategy"
+      ],
+      "year": 2023,
+      "players": null
+    },
+    {
+      "id": "g415",
+      "platformId": "ps45",
+      "name": "Monster Energy Supercross 6",
+      "ytId": "",
+      "genre": [
+        "Racing",
+        "Sports"
+      ],
+      "year": 2023,
+      "players": null
+    },
+    {
+      "id": "g416",
+      "platformId": "ps45",
+      "name": "Anno 1800",
+      "ytId": "",
+      "genre": [
+        "Strategy",
+        "Simulation"
+      ],
+      "year": 2023,
+      "players": null
+    },
+    {
+      "id": "g417",
+      "platformId": "ps45",
+      "name": "Lego The Incredibles",
+      "ytId": "",
+      "genre": [
+        "Adventure",
+        "Puzzle"
+      ],
+      "year": 2018,
+      "players": null
+    },
+    {
+      "id": "g418",
+      "platformId": "ps45",
+      "name": "Lego Hobbit",
+      "ytId": "",
+      "genre": [
+        "Adventure",
+        "Puzzle"
+      ],
+      "year": 2014,
+      "players": null
+    },
+    {
+      "id": "g419",
+      "platformId": "ps45",
+      "name": "Cricket 24",
+      "ytId": "",
+      "genre": [
+        "Sports"
+      ],
+      "year": 2023,
+      "players": null
+    },
+    {
+      "id": "g420",
+      "platformId": "ps45",
+      "name": "Lego Marvel Super Heroes 2",
+      "ytId": "",
+      "genre": [
+        "Adventure",
+        "Puzzle"
+      ],
+      "year": 2017,
+      "players": null
+    },
+    {
+      "id": "g421",
+      "platformId": "ps45",
+      "name": "Miasma Chronicles",
+      "ytId": "",
+      "genre": [
+        "Strategy",
+        "RPG"
+      ],
+      "year": 2023,
+      "players": null
+    },
+    {
+      "id": "g422",
+      "platformId": "ps45",
+      "name": "Elden Ring : Shadow of the Erdtree",
+      "ytId": "B2-ha7YPpRc",
+      "genre": [
+        "Action RPG",
+        "Souls-like"
+      ],
+      "year": 2024,
+      "players": null
+    },
+    {
+      "id": "g423",
+      "platformId": "ps45",
+      "name": "Dredge",
+      "ytId": "",
+      "genre": [
+        "Adventure",
+        "Horror"
+      ],
+      "year": 2023,
+      "players": null
+    },
+    {
+      "id": "g424",
+      "platformId": "ps45",
+      "name": "Home Sweet Home",
+      "ytId": "tKDrPPcsPqU",
+      "genre": [
+        "Horror"
+      ],
+      "year": 2018,
+      "players": null
+    },
+    {
+      "id": "g425",
+      "platformId": "ps45",
+      "name": "One Piece Pirate Warrior 4",
+      "ytId": "",
+      "genre": [
+        "Action"
+      ],
+      "year": 2020,
+      "players": null
+    },
+    {
+      "id": "g426",
+      "platformId": "ps45",
+      "name": "One Piece Odyssey",
+      "ytId": "",
+      "genre": [
+        "RPG",
+        "Action"
+      ],
+      "year": 2023,
+      "players": null
+    },
+    {
+      "id": "g427",
+      "platformId": "ps45",
+      "name": "Doraemon Story of Season :  Friends of the Great Kingdom",
+      "ytId": "",
+      "genre": [
+        "Simulation",
+        "RPG"
+      ],
+      "year": 2022,
+      "players": null
+    },
+    {
+      "id": "g428",
+      "platformId": "ps45",
+      "name": "Tunic",
+      "ytId": "",
+      "genre": [
+        "Action RPG",
+        "Adventure"
+      ],
+      "year": 2023,
+      "players": null
+    },
+    {
+      "id": "g429",
+      "platformId": "ps45",
+      "name": "Ghostrunner 2",
+      "ytId": "lPl17pSXqLg",
+      "genre": [
+        "Action"
+      ],
+      "year": 2023,
+      "players": null
+    },
+    {
+      "id": "g430",
+      "platformId": "ps45",
+      "name": "Dave the Diver",
+      "ytId": "VrDoHVGaRpU",
+      "genre": [
+        "Adventure",
+        "Simulation"
+      ],
+      "year": 2024,
+      "players": null
+    },
+    {
+      "id": "g431",
+      "platformId": "ps45",
+      "name": "Oddballers",
+      "ytId": "",
+      "genre": [
+        "Party"
+      ],
+      "year": 2023,
+      "players": null
+    },
+    {
+      "id": "g432",
+      "platformId": "ps45",
+      "name": "Construction Simulator",
+      "ytId": "",
+      "genre": [
+        "Simulation"
+      ],
+      "year": 2022,
+      "players": null
+    },
+    {
+      "id": "g433",
+      "platformId": "ps45",
+      "name": "Lego Ninjago Movie",
+      "ytId": "",
+      "genre": [
+        "Adventure",
+        "Puzzle"
+      ],
+      "year": 2017,
+      "players": null
+    },
+    {
+      "id": "g434",
+      "platformId": "ps45",
+      "name": "Lego Marvel's Avengers",
+      "ytId": "",
+      "genre": [
+        "Adventure",
+        "Puzzle"
+      ],
+      "year": 2016,
+      "players": null
+    },
+    {
+      "id": "g435",
+      "platformId": "ps45",
+      "name": "Minecraft Legends",
+      "ytId": "",
+      "genre": [
+        "Action",
+        "Strategy"
+      ],
+      "year": 2023,
+      "players": null
+    },
+    {
+      "id": "g436",
+      "platformId": "ps45",
+      "name": "Immortals of Aveum",
+      "ytId": "",
+      "genre": [
+        "Shooter",
+        "Action"
+      ],
+      "year": 2023,
+      "players": null
+    },
+    {
+      "id": "g437",
+      "platformId": "ps45",
+      "name": "Rise of Ronin",
+      "ytId": "L47XVMXZrKI",
+      "genre": [
+        "Action RPG",
+        "Open World"
+      ],
+      "year": 2024,
+      "players": null
+    },
+    {
+      "id": "g438",
+      "platformId": "ps45",
+      "name": "Final Fantasy 7 Rebirth",
+      "ytId": "Rf0BmZEhwIs",
+      "genre": [
+        "RPG",
+        "เล่นคนเดียว"
+      ],
+      "year": 2024,
+      "players": "1"
+    },
+    {
+      "id": "g439",
+      "platformId": "ps45",
+      "name": "Helldiver 2",
+      "ytId": "S1znFpVAEKY",
+      "genre": [
+        "เกมยิง",
+        "เล่น 2-4 คน",
+        "เกม Coop"
+      ],
+      "year": 2024,
+      "players": "1-4"
+    },
+    {
+      "id": "g440",
+      "platformId": "ps45",
+      "name": "Foam Star",
+      "ytId": "",
+      "genre": [
+        "Shooter"
+      ],
+      "year": 2024,
+      "players": null
+    },
+    {
+      "id": "g441",
+      "platformId": "ps45",
+      "name": "Tekken 8",
+      "ytId": "eNcbJc2VuaQ",
+      "genre": [
+        "เกมต่อสู้",
+        "เล่น 2 คน"
+      ],
+      "year": 2024,
+      "players": "1-2"
+    },
+    {
+      "id": "g442",
+      "platformId": "ps45",
+      "name": "The Last Of Us Part 2 :  Remastered",
+      "ytId": "ruDSRIbw2oI",
+      "genre": [
+        "เกมผจญภัย",
+        "เล่นคนเดียว"
+      ],
+      "year": 2024,
+      "players": "1"
+    },
+    {
+      "id": "g443",
+      "platformId": "ps45",
+      "name": "Call of Duty Modern Warfare 3",
+      "ytId": "fCMIpNALUhQ",
+      "genre": [
+        "Shooter",
+        "FPS"
+      ],
+      "year": 2023,
+      "players": null
+    },
+    {
+      "id": "g444",
+      "platformId": "ps45",
+      "name": "A Plague Tale : Requiem",
+      "ytId": "vOFdBmQAY8E",
+      "genre": [
+        "Action",
+        "Adventure"
+      ],
+      "year": 2022,
+      "players": null
+    },
+    {
+      "id": "g445",
+      "platformId": "ps45",
+      "name": "Evil West",
+      "ytId": "eO6QBXQpfgU",
+      "genre": [
+        "Action",
+        "Shooter"
+      ],
+      "year": 2022,
+      "players": null
+    },
+    {
+      "id": "g446",
+      "platformId": "ps45",
+      "name": "Nobody Saves the World",
+      "ytId": "",
+      "genre": [
+        "Action RPG"
+      ],
+      "year": 2022,
+      "players": null
+    },
+    {
+      "id": "g447",
+      "platformId": "ps45",
+      "name": "Avatar: Frontiers of Pandora",
+      "ytId": "MmEiIw9w4qw",
+      "genre": [
+        "Action",
+        "Open World"
+      ],
+      "year": 2023,
+      "players": null
+    },
+    {
+      "id": "g448",
+      "platformId": "ps45",
+      "name": "Lego 2K Drive",
+      "ytId": "",
+      "genre": [
+        "Racing"
+      ],
+      "year": 2023,
+      "players": null
+    },
+    {
+      "id": "g449",
+      "platformId": "ps45",
+      "name": "Alan Wake 2",
+      "ytId": "xFvBHqfFLrY",
+      "genre": [
+        "Horror",
+        "Action"
+      ],
+      "year": 2023,
+      "players": null
+    },
+    {
+      "id": "g450",
+      "platformId": "ps45",
+      "name": "Spiderman 2",
+      "ytId": "OeWQD7J46gA",
+      "genre": [
+        "เกมผจญภัย",
+        "เล่นคนเดียว"
+      ],
+      "year": 2023,
+      "players": "1"
+    },
+    {
+      "id": "g451",
+      "platformId": "ps45",
+      "name": "Nier Automata",
+      "ytId": "ZBxNOBv7xM8",
+      "genre": [
+        "Action RPG"
+      ],
+      "year": 2017,
+      "players": null
+    },
+    {
+      "id": "g452",
+      "platformId": "ps45",
+      "name": "Assassin's Creed Mirage",
+      "ytId": "v2QOCuuVtAs",
+      "genre": [
+        "Action",
+        "Adventure"
+      ],
+      "year": 2023,
+      "players": null
+    },
+    {
+      "id": "g453",
+      "platformId": "ps45",
+      "name": "EA Sport FC 24 (Fifa 24)",
+      "ytId": "xkVDsaBwGnA",
+      "genre": [
+        "เกมกีฬา",
+        "เล่น 2 คน",
+        "ฟุตบอล"
+      ],
+      "year": 2023,
+      "players": "1-4"
+    },
+    {
+      "id": "g454",
+      "platformId": "ps45",
+      "name": "Saint Row",
+      "ytId": "",
+      "genre": [
+        "Action",
+        "Open World"
+      ],
+      "year": 2022,
+      "players": null
+    },
+    {
+      "id": "g455",
+      "platformId": "ps45",
+      "name": "Sekiro : Shadows Die Twice",
+      "ytId": "rXMX4YJ7Lks",
+      "genre": [
+        "Action RPG",
+        "Souls-like"
+      ],
+      "year": 2019,
+      "players": null
+    },
+    {
+      "id": "g456",
+      "platformId": "ps45",
+      "name": "Diablo 4",
+      "ytId": "0BC56nLbKIQ",
+      "genre": [
+        "Action RPG"
+      ],
+      "year": 2023,
+      "players": null
+    },
+    {
+      "id": "g457",
+      "platformId": "ps45",
+      "name": "Street Fighter 6",
+      "ytId": "ANvNkk9vSso",
+      "genre": [
+        "เกมต่อสู้",
+        "เล่น 2 คน"
+      ],
+      "year": 2023,
+      "players": "1-2"
+    },
+    {
+      "id": "g458",
+      "platformId": "ps45",
+      "name": "Final Fantasy XVI",
+      "ytId": "jMVTlJKZFpc",
+      "genre": [
+        "RPG",
+        "เล่นคนเดียว"
+      ],
+      "year": 2023,
+      "players": "1"
+    },
+    {
+      "id": "g459",
+      "platformId": "ps45",
+      "name": "Dead Island 2",
+      "ytId": "sNUQNyZ0i-c",
+      "genre": [
+        "Action",
+        "Open World"
+      ],
+      "year": 2023,
+      "players": null
+    },
+    {
+      "id": "g460",
+      "platformId": "ps45",
+      "name": "Star Wars : Jedi Survivor",
+      "ytId": "xYfeHONT3Oc",
+      "genre": [
+        "Action",
+        "Adventure"
+      ],
+      "year": 2023,
+      "players": null
+    },
+    {
+      "id": "g461",
+      "platformId": "ps45",
+      "name": "WWE 2K23",
+      "ytId": "OwHRJpg-9S0",
+      "genre": [
+        "Sports",
+        "Fighting"
+      ],
+      "year": 2023,
+      "players": null
+    },
+    {
+      "id": "g462",
+      "platformId": "ps45",
+      "name": "NBA 2K23",
+      "ytId": "AcbKe6MOaEI",
+      "genre": [
+        "Sports"
+      ],
+      "year": 2022,
+      "players": null
+    },
+    {
+      "id": "g463",
+      "platformId": "ps45",
+      "name": "Trek To Yomi",
+      "ytId": "",
+      "genre": [
+        "Action",
+        "Adventure"
+      ],
+      "year": 2022,
+      "players": null
+    },
+    {
+      "id": "g464",
+      "platformId": "ps45",
+      "name": "Jurassic World Evolution 2",
+      "ytId": "",
+      "genre": [
+        "Strategy",
+        "Simulation"
+      ],
+      "year": 2021,
+      "players": null
+    },
+    {
+      "id": "g465",
+      "platformId": "ps45",
+      "name": "Humanity",
+      "ytId": "",
+      "genre": [
+        "Puzzle"
+      ],
+      "year": 2023,
+      "players": null
+    },
+    {
+      "id": "g466",
+      "platformId": "ps45",
+      "name": "Call of Duty Black Ops : Cold War",
+      "ytId": "fCMIpNALUhQ",
+      "genre": [
+        "Shooter",
+        "FPS"
+      ],
+      "year": 2020,
+      "players": null
+    },
+    {
+      "id": "g467",
+      "platformId": "ps45",
+      "name": "Alan Wake : Remastered",
+      "ytId": "xFvBHqfFLrY",
+      "genre": [
+        "Horror",
+        "Action"
+      ],
+      "year": 2021,
+      "players": null
+    },
+    {
+      "id": "g468",
+      "platformId": "ps45",
+      "name": "Ratchet & Clank: Rift Apart",
+      "ytId": "VrbKS2I2N5k",
+      "genre": [
+        "Platformer",
+        "Action"
+      ],
+      "year": 2021,
+      "players": null
+    },
+    {
+      "id": "g469",
+      "platformId": "ps45",
+      "name": "Resident Evil 4 Remake + Separate way",
+      "ytId": "EJuqMRJMRRM",
+      "genre": [
+        "เกมสยองขวัญ",
+        "เล่นคนเดียว"
+      ],
+      "year": 2023,
+      "players": "1"
+    },
+    {
+      "id": "g470",
+      "platformId": "ps45",
+      "name": "A Plague Tale",
+      "ytId": "V1i4q2gXCU0",
+      "genre": [
+        "Action",
+        "Adventure"
+      ],
+      "year": 2019,
+      "players": null
+    },
+    {
+      "id": "g471",
+      "platformId": "ps45",
+      "name": "AOTennis 2",
+      "ytId": "",
+      "genre": [
+        "Sports"
+      ],
+      "year": 2020,
+      "players": null
+    },
+    {
+      "id": "g472",
+      "platformId": "ps45",
+      "name": "Ark Survival",
+      "ytId": "418K3fP8cPM",
+      "genre": [
+        "Survival",
+        "Open World"
+      ],
+      "year": 2017,
+      "players": null
+    },
+    {
+      "id": "g473",
+      "platformId": "ps45",
+      "name": "Assassin's Creed Odyssey",
+      "ytId": "XSsGMUWUgsE",
+      "genre": [
+        "Action RPG",
+        "Open World"
+      ],
+      "year": 2018,
+      "players": null
+    },
+    {
+      "id": "g474",
+      "platformId": "ps45",
+      "name": "Assassin's Creed Valhalla",
+      "ytId": "ssrNcwxALS4",
+      "genre": [
+        "Action RPG",
+        "Open World"
+      ],
+      "year": 2020,
+      "players": null
+    },
+    {
+      "id": "g475",
+      "platformId": "ps45",
+      "name": "Apex Legends",
+      "ytId": "",
+      "genre": [
+        "Shooter",
+        "Battle Royale"
+      ],
+      "year": 2019,
+      "players": null
+    },
+    {
+      "id": "g476",
+      "platformId": "ps45",
+      "name": "Battlefield V",
+      "ytId": "fb1MR85ZFic",
+      "genre": [
+        "Shooter",
+        "FPS"
+      ],
+      "year": 2018,
+      "players": null
+    },
+    {
+      "id": "g477",
+      "platformId": "ps45",
+      "name": "Battlefiled 4",
+      "ytId": "fb1MR85ZFic",
+      "genre": [
+        "Shooter",
+        "FPS"
+      ],
+      "year": 2013,
+      "players": null
+    },
+    {
+      "id": "g478",
+      "platformId": "ps45",
+      "name": "Bioshock",
+      "ytId": "nkJe-zUC0JI",
+      "genre": [
+        "Shooter",
+        "Horror"
+      ],
+      "year": 2020,
+      "players": null
+    },
+    {
+      "id": "g479",
+      "platformId": "ps45",
+      "name": "Bloodborne",
+      "ytId": "G203e1HG35Q",
+      "genre": [
+        "Action RPG",
+        "Souls-like"
+      ],
+      "year": 2015,
+      "players": null
+    },
+    {
+      "id": "g480",
+      "platformId": "ps45",
+      "name": "Burnout™ Paradise",
+      "ytId": "UGSmBpFP8YE",
+      "genre": [
+        "Racing"
+      ],
+      "year": 2018,
+      "players": null
+    },
+    {
+      "id": "g481",
+      "platformId": "ps45",
+      "name": "Call of Duty Black Ops 3",
+      "ytId": "fCMIpNALUhQ",
+      "genre": [
+        "Shooter",
+        "FPS"
+      ],
+      "year": 2015,
+      "players": null
+    },
+    {
+      "id": "g482",
+      "platformId": "ps45",
+      "name": "Call of Duty Black Ops 4",
+      "ytId": "fCMIpNALUhQ",
+      "genre": [
+        "Shooter",
+        "FPS"
+      ],
+      "year": 2018,
+      "players": null
+    },
+    {
+      "id": "g483",
+      "platformId": "ps45",
+      "name": "Call of Duty Modern Warfare 2",
+      "ytId": "fCMIpNALUhQ",
+      "genre": [
+        "Shooter",
+        "FPS"
+      ],
+      "year": 2022,
+      "players": null
+    },
+    {
+      "id": "g484",
+      "platformId": "ps45",
+      "name": "Call of Duty Warzone",
+      "ytId": "",
+      "genre": [
+        "Shooter",
+        "Battle Royale"
+      ],
+      "year": 2020,
+      "players": null
+    },
+    {
+      "id": "g485",
+      "platformId": "ps45",
+      "name": "Call of Duty WWII",
+      "ytId": "fCMIpNALUhQ",
+      "genre": [
+        "Shooter",
+        "FPS"
+      ],
+      "year": 2017,
+      "players": null
+    },
+    {
+      "id": "g486",
+      "platformId": "ps45",
+      "name": "Control",
+      "ytId": "pH7GXMHRFWU",
+      "genre": [
+        "Action",
+        "Shooter"
+      ],
+      "year": 2019,
+      "players": null
+    },
+    {
+      "id": "g487",
+      "platformId": "ps45",
+      "name": "Cyberpunk 2077",
+      "ytId": "FknHjl7eQ6o",
+      "genre": [
+        "RPG",
+        "เล่นคนเดียว",
+        "Open World"
+      ],
+      "year": 2020,
+      "players": "1"
+    },
+    {
+      "id": "g488",
+      "platformId": "ps45",
+      "name": "Day Gone",
+      "ytId": "qXhMFV01JFEY",
+      "genre": [
+        "Action",
+        "Open World",
+        "Survival"
+      ],
+      "year": 2019,
+      "players": null
+    },
+    {
+      "id": "g489",
+      "platformId": "ps45",
+      "name": "Death Stranding Director's Cut",
+      "ytId": "H4fCFHPjGUk",
+      "genre": [
+        "Action",
+        "Adventure"
+      ],
+      "year": 2021,
+      "players": null
+    },
+    {
+      "id": "g490",
+      "platformId": "ps45",
+      "name": "Deathloop",
+      "ytId": "HCGQzFjL3K8",
+      "genre": [
+        "Action",
+        "Shooter"
+      ],
+      "year": 2021,
+      "players": null
+    },
+    {
+      "id": "g491",
+      "platformId": "ps45",
+      "name": "Demon Soul",
+      "ytId": "IiCRMjqHdRQ",
+      "genre": [
+        "RPG",
+        "เล่นคนเดียว",
+        "เกมโหด"
+      ],
+      "year": 2020,
+      "players": "1"
+    },
+    {
+      "id": "g492",
+      "platformId": "ps45",
+      "name": "Detroit",
+      "ytId": "BE4tkIgJiRo",
+      "genre": [
+        "Adventure"
+      ],
+      "year": 2018,
+      "players": null
+    },
+    {
+      "id": "g493",
+      "platformId": "ps45",
+      "name": "Dirt 5",
+      "ytId": "tX2BoEjGFSg",
+      "genre": [
+        "Racing"
+      ],
+      "year": 2020,
+      "players": null
+    },
+    {
+      "id": "g494",
+      "platformId": "ps45",
+      "name": "Dying Light",
+      "ytId": "kLo9Wd3KCWQ",
+      "genre": [
+        "Action",
+        "Survival",
+        "Open World"
+      ],
+      "year": 2015,
+      "players": null
+    },
+    {
+      "id": "g495",
+      "platformId": "ps45",
+      "name": "Dying Light 2 : Stay Human",
+      "ytId": "G6-7VJoHxZk",
+      "genre": [
+        "Action",
+        "Survival",
+        "Open World"
+      ],
+      "year": 2022,
+      "players": null
+    },
+    {
+      "id": "g496",
+      "platformId": "ps45",
+      "name": "Dynasty Warriors 9",
+      "ytId": "",
+      "genre": [
+        "Action"
+      ],
+      "year": 2018,
+      "players": null
+    },
+    {
+      "id": "g497",
+      "platformId": "ps45",
+      "name": "eFootball 2024 / PES2024",
+      "ytId": "iQ1-cAQPJkA",
+      "genre": [
+        "Sports"
+      ],
+      "year": 2023,
+      "players": null
+    },
+    {
+      "id": "g498",
+      "platformId": "ps45",
+      "name": "Elden Ring",
+      "ytId": "E3Huy2cdih0",
+      "genre": [
+        "RPG",
+        "เล่นคนเดียว",
+        "เกมโหด",
+        "Open World"
+      ],
+      "year": 2022,
+      "players": "1-4"
+    },
+    {
+      "id": "g499",
+      "platformId": "ps45",
+      "name": "Everybody Golf",
+      "ytId": "",
+      "genre": [
+        "Sports"
+      ],
+      "year": 2017,
+      "players": null
+    },
+    {
+      "id": "g500",
+      "platformId": "ps45",
+      "name": "Evil Within",
+      "ytId": "",
+      "genre": [
+        "Horror",
+        "Action"
+      ],
+      "year": 2014,
+      "players": null
+    },
+    {
+      "id": "g501",
+      "platformId": "ps45",
+      "name": "Evil Within 2",
+      "ytId": "",
+      "genre": [
+        "Horror",
+        "Action"
+      ],
+      "year": 2017,
+      "players": null
+    },
+    {
+      "id": "g502",
+      "platformId": "ps45",
+      "name": "Farcry 5",
+      "ytId": "bVjcRVzHbcg",
+      "genre": [
+        "Shooter",
+        "Open World"
+      ],
+      "year": 2018,
+      "players": null
+    },
+    {
+      "id": "g503",
+      "platformId": "ps45",
+      "name": "Farcry 6",
+      "ytId": "mkLbgKPmNAE",
+      "genre": [
+        "Shooter",
+        "Open World"
+      ],
+      "year": 2021,
+      "players": null
+    },
+    {
+      "id": "g504",
+      "platformId": "ps45",
+      "name": "Farcry Primal",
+      "ytId": "",
+      "genre": [
+        "Shooter",
+        "Open World"
+      ],
+      "year": 2016,
+      "players": null
+    },
+    {
+      "id": "g505",
+      "platformId": "ps45",
+      "name": "Fallout 4",
+      "ytId": "l7-AzLYF2Pw",
+      "genre": [
+        "RPG",
+        "Open World",
+        "Survival"
+      ],
+      "year": 2015,
+      "players": null
+    },
+    {
+      "id": "g506",
+      "platformId": "ps45",
+      "name": "Fifa 22",
+      "ytId": "lNeblxO0Mec",
+      "genre": [
+        "Sports"
+      ],
+      "year": 2021,
+      "players": null
+    },
+    {
+      "id": "g507",
+      "platformId": "ps45",
+      "name": "Fifa 23",
+      "ytId": "8FIJf-V3hNk",
+      "genre": [
+        "Sports"
+      ],
+      "year": 2022,
+      "players": null
+    },
+    {
+      "id": "g508",
+      "platformId": "ps45",
+      "name": "Final Fantasy 7 remake",
+      "ytId": "giXco2jaZ_4",
+      "genre": [
+        "RPG",
+        "Action RPG"
+      ],
+      "year": 2020,
+      "players": null
+    },
+    {
+      "id": "g509",
+      "platformId": "ps45",
+      "name": "Fortnite",
+      "ytId": "",
+      "genre": [
+        "Shooter",
+        "Battle Royale"
+      ],
+      "year": 2017,
+      "players": null
+    },
+    {
+      "id": "g510",
+      "platformId": "ps45",
+      "name": "For Honor",
+      "ytId": "",
+      "genre": [
+        "Action",
+        "Fighting"
+      ],
+      "year": 2017,
+      "players": null
+    },
+    {
+      "id": "g511",
+      "platformId": "ps45",
+      "name": "Forspoken",
+      "ytId": "bYqK5eTkB0Y",
+      "genre": [
+        "Action RPG",
+        "Open World"
+      ],
+      "year": 2023,
+      "players": null
+    },
+    {
+      "id": "g512",
+      "platformId": "ps45",
+      "name": "Ghost of Tshushima : Director Cut",
+      "ytId": "Jqn09pU3lIU",
+      "genre": [
+        "เกมผจญภัย",
+        "เล่นคนเดียว",
+        "Open World"
+      ],
+      "year": 2021,
+      "players": "1-2"
+    },
+    {
+      "id": "g513",
+      "platformId": "ps45",
+      "name": "Ghost Recon Breakpoint",
+      "ytId": "GC6cTuNMIVw",
+      "genre": [
+        "Shooter",
+        "Open World"
+      ],
+      "year": 2019,
+      "players": null
+    },
+    {
+      "id": "g514",
+      "platformId": "ps45",
+      "name": "Ghostrunner",
+      "ytId": "lPl17pSXqLg",
+      "genre": [
+        "Action"
+      ],
+      "year": 2020,
+      "players": null
+    },
+    {
+      "id": "g515",
+      "platformId": "ps45",
+      "name": "Ghostwire: Tokyo",
+      "ytId": "MNE4PnOzPgQ",
+      "genre": [
+        "Action",
+        "Adventure"
+      ],
+      "year": 2022,
+      "players": null
+    },
+    {
+      "id": "g516",
+      "platformId": "ps45",
+      "name": "God of war : Ragnarok",
+      "ytId": "EE-4GvjKcfs",
+      "genre": [
+        "เกมผจญภัย",
+        "เล่นคนเดียว"
+      ],
+      "year": 2022,
+      "players": "1"
+    },
+    {
+      "id": "g517",
+      "platformId": "ps45",
+      "name": "God of war 3",
+      "ytId": "Qx8P5-zzHgE",
+      "genre": [
+        "Action",
+        "Adventure"
+      ],
+      "year": 2015,
+      "players": null
+    },
+    {
+      "id": "g518",
+      "platformId": "ps45",
+      "name": "God of war 4",
+      "ytId": "K0u_kAWLJOA",
+      "genre": [
+        "เกมผจญภัย",
+        "เล่นคนเดียว"
+      ],
+      "year": 2018,
+      "players": "1"
+    },
+    {
+      "id": "g519",
+      "platformId": "ps45",
+      "name": "Gran Turismo 7",
+      "ytId": "X-DmFvvkQMc",
+      "genre": [
+        "เกมแข่งรถ",
+        "เล่น 2 คน"
+      ],
+      "year": 2022,
+      "players": "1-2"
+    },
+    {
+      "id": "g520",
+      "platformId": "ps45",
+      "name": "Gravity Rush 2",
+      "ytId": "4xnQEbKmT2s",
+      "genre": [
+        "Action",
+        "Adventure"
+      ],
+      "year": 2017,
+      "players": null
+    },
+    {
+      "id": "g521",
+      "platformId": "ps45",
+      "name": "Greed Fall",
+      "ytId": "",
+      "genre": [
+        "RPG",
+        "Open World"
+      ],
+      "year": 2019,
+      "players": null
+    },
+    {
+      "id": "g522",
+      "platformId": "ps45",
+      "name": "GT Sport",
+      "ytId": "o44Q0lbRBSI",
+      "genre": [
+        "เกมแข่งรถ",
+        "เล่น 2 คน"
+      ],
+      "year": 2017,
+      "players": "1-2"
+    },
+    {
+      "id": "g523",
+      "platformId": "ps45",
+      "name": "GTA V",
+      "ytId": "QkkoHAzjnUs",
+      "genre": [
+        "Action",
+        "Open World"
+      ],
+      "year": 2014,
+      "players": null
+    },
+    {
+      "id": "g524",
+      "platformId": "ps45",
+      "name": "Hell Divers",
+      "ytId": "S1znFpVAEKY",
+      "genre": [
+        "Shooter",
+        "Cooperative"
+      ],
+      "year": 2015,
+      "players": null
+    },
+    {
+      "id": "g525",
+      "platformId": "ps45",
+      "name": "Hell Neighbor",
+      "ytId": "",
+      "genre": [
+        "Horror"
+      ],
+      "year": 2019,
+      "players": null
+    },
+    {
+      "id": "g526",
+      "platformId": "ps45",
+      "name": "Hitman",
+      "ytId": "HiPFGI7pCXg",
+      "genre": [
+        "Action",
+        "Stealth"
+      ],
+      "year": 2021,
+      "players": null
+    },
+    {
+      "id": "g527",
+      "platformId": "ps45",
+      "name": "Hitman 2",
+      "ytId": "HiPFGI7pCXg",
+      "genre": [
+        "Action",
+        "Stealth"
+      ],
+      "year": 2018,
+      "players": null
+    },
+    {
+      "id": "g528",
+      "platformId": "ps45",
+      "name": "Hitman 3",
+      "ytId": "HiPFGI7pCXg",
+      "genre": [
+        "Action",
+        "Stealth"
+      ],
+      "year": 2021,
+      "players": null
+    },
+    {
+      "id": "g529",
+      "platformId": "ps45",
+      "name": "Hogwarts Legacy",
+      "ytId": "Zb1DXd4HDPQ",
+      "genre": [
+        "RPG",
+        "เล่นคนเดียว",
+        "Open World"
+      ],
+      "year": 2023,
+      "players": "1"
+    },
+    {
+      "id": "g530",
+      "platformId": "ps45",
+      "name": "Hollow Knight",
+      "ytId": "UAO2urG23S4",
+      "genre": [
+        "เกม Platform",
+        "เล่นคนเดียว",
+        "เกมโหด"
+      ],
+      "year": 2017,
+      "players": "1"
+    },
+    {
+      "id": "g531",
+      "platformId": "ps45",
+      "name": "Horizon Call Of The Mountain (Required PS VR2)",
+      "ytId": "",
+      "genre": [
+        "Action",
+        "VR"
+      ],
+      "year": 2023,
+      "players": null
+    },
+    {
+      "id": "g532",
+      "platformId": "ps45",
+      "name": "Horizon Forbidden West",
+      "ytId": "Lq594XmpPBg",
+      "genre": [
+        "RPG",
+        "เล่นคนเดียว",
+        "Open World"
+      ],
+      "year": 2022,
+      "players": "1"
+    },
+    {
+      "id": "g533",
+      "platformId": "ps45",
+      "name": "Horizon Zero Dawn",
+      "ytId": "u4-FCsiF5x4",
+      "genre": [
+        "Action RPG",
+        "Open World"
+      ],
+      "year": 2017,
+      "players": null
+    },
+    {
+      "id": "g534",
+      "platformId": "ps45",
+      "name": "Hot Wheel : Unleashed",
+      "ytId": "UGSmBpFP8YE",
+      "genre": [
+        "Racing"
+      ],
+      "year": 2021,
+      "players": null
+    },
+    {
+      "id": "g535",
+      "platformId": "ps45",
+      "name": "Human : Fall Flat",
+      "ytId": "6f7c-aHy7XI",
+      "genre": [
+        "Puzzle",
+        "Party"
+      ],
+      "year": 2016,
+      "players": null
+    },
+    {
+      "id": "g536",
+      "platformId": "ps45",
+      "name": "Infamous Second Son",
+      "ytId": "GJKsHy6hJbY",
+      "genre": [
+        "Action",
+        "Open World"
+      ],
+      "year": 2014,
+      "players": null
+    },
+    {
+      "id": "g537",
+      "platformId": "ps45",
+      "name": "Injustice 2",
+      "ytId": "rCJ8oE_uZ8I",
+      "genre": [
+        "Fighting"
+      ],
+      "year": 2017,
+      "players": null
+    },
+    {
+      "id": "g538",
+      "platformId": "ps45",
+      "name": "Judgement",
+      "ytId": "XCyqsX4PTQY",
+      "genre": [
+        "Action",
+        "Adventure"
+      ],
+      "year": 2019,
+      "players": null
+    },
+    {
+      "id": "g539",
+      "platformId": "ps45",
+      "name": "Just Cause 4",
+      "ytId": "f_iqc-YQYew",
+      "genre": [
+        "Action",
+        "Open World"
+      ],
+      "year": 2018,
+      "players": null
+    },
+    {
+      "id": "g540",
+      "platformId": "ps45",
+      "name": "Kena : Bridge of spirits",
+      "ytId": "fTToRIOi8-8",
+      "genre": [
+        "Action",
+        "Adventure"
+      ],
+      "year": 2021,
+      "players": null
+    },
+    {
+      "id": "g541",
+      "platformId": "ps45",
+      "name": "Lego : Harry Potter",
+      "ytId": "",
+      "genre": [
+        "Adventure",
+        "Puzzle"
+      ],
+      "year": 2010,
+      "players": null
+    },
+    {
+      "id": "g542",
+      "platformId": "ps45",
+      "name": "Lego Batman 3 : Beyond Gotham",
+      "ytId": "",
+      "genre": [
+        "Adventure",
+        "Puzzle"
+      ],
+      "year": 2014,
+      "players": null
+    },
+    {
+      "id": "g543",
+      "platformId": "ps45",
+      "name": "Mad Max",
+      "ytId": "JNFiGXAWNWA",
+      "genre": [
+        "Action",
+        "Open World"
+      ],
+      "year": 2015,
+      "players": null
+    },
+    {
+      "id": "g544",
+      "platformId": "ps45",
+      "name": "Man of Medan",
+      "ytId": "jvGdSZoI8u4",
+      "genre": [
+        "Horror",
+        "Adventure"
+      ],
+      "year": 2019,
+      "players": null
+    },
+    {
+      "id": "g545",
+      "platformId": "ps45",
+      "name": "Maneaten",
+      "ytId": "",
+      "genre": [
+        "Action",
+        "Open World"
+      ],
+      "year": 2020,
+      "players": null
+    },
+    {
+      "id": "g546",
+      "platformId": "ps45",
+      "name": "Marvel VS Capcom : Infinite",
+      "ytId": "",
+      "genre": [
+        "Fighting"
+      ],
+      "year": 2017,
+      "players": null
+    },
+    {
+      "id": "g547",
+      "platformId": "ps45",
+      "name": "Marvel's Guardians of the Galaxy",
+      "ytId": "EuL9k6RQIG4",
+      "genre": [
+        "Action",
+        "Adventure"
+      ],
+      "year": 2021,
+      "players": null
+    },
+    {
+      "id": "g548",
+      "platformId": "ps45",
+      "name": "Metal Gear Solid V",
+      "ytId": "CLHVMI4V1XY",
+      "genre": [
+        "Action",
+        "Stealth"
+      ],
+      "year": 2015,
+      "players": null
+    },
+    {
+      "id": "g549",
+      "platformId": "ps45",
+      "name": "Middle-earth Shadow of War",
+      "ytId": "",
+      "genre": [
+        "Action RPG",
+        "Open World"
+      ],
+      "year": 2017,
+      "players": null
+    },
+    {
+      "id": "g550",
+      "platformId": "ps45",
+      "name": "Monster Truck Championship",
+      "ytId": "",
+      "genre": [
+        "Racing"
+      ],
+      "year": 2020,
+      "players": null
+    },
+    {
+      "id": "g551",
+      "platformId": "ps45",
+      "name": "Mortal Kombat 11",
+      "ytId": "OPgbKy1JEsY",
+      "genre": [
+        "เกมต่อสู้",
+        "เล่น 2 คน",
+        "เกมผู้ใหญ่"
+      ],
+      "year": 2019,
+      "players": "1-2"
+    },
+    {
+      "id": "g552",
+      "platformId": "ps45",
+      "name": "Naruto Shippuden",
+      "ytId": "",
+      "genre": [
+        "Action",
+        "Fighting"
+      ],
+      "year": 2017,
+      "players": null
+    },
+    {
+      "id": "g553",
+      "platformId": "ps45",
+      "name": "NBA 2K20",
+      "ytId": "AcbKe6MOaEI",
+      "genre": [
+        "Sports"
+      ],
+      "year": 2019,
+      "players": null
+    },
+    {
+      "id": "g554",
+      "platformId": "ps45",
+      "name": "NBA 2K22",
+      "ytId": "AcbKe6MOaEI",
+      "genre": [
+        "Sports"
+      ],
+      "year": 2021,
+      "players": null
+    },
+    {
+      "id": "g555",
+      "platformId": "ps45",
+      "name": "Nioh",
+      "ytId": "8y_-4iGkQFs",
+      "genre": [
+        "Action RPG",
+        "Souls-like"
+      ],
+      "year": 2017,
+      "players": null
+    },
+    {
+      "id": "g556",
+      "platformId": "ps45",
+      "name": "Nioh 2",
+      "ytId": "Oz7kQo4l4Cw",
+      "genre": [
+        "Action RPG",
+        "Souls-like"
+      ],
+      "year": 2020,
+      "players": null
+    },
+    {
+      "id": "g557",
+      "platformId": "ps45",
+      "name": "No Man's Sky",
+      "ytId": "nLtmEjqzg7M",
+      "genre": [
+        "Open World",
+        "Survival",
+        "Adventure"
+      ],
+      "year": 2016,
+      "players": null
+    },
+    {
+      "id": "g558",
+      "platformId": "ps45",
+      "name": "Oddworld Soulstrom",
+      "ytId": "",
+      "genre": [
+        "Platformer",
+        "Action"
+      ],
+      "year": 2021,
+      "players": null
+    },
+    {
+      "id": "g559",
+      "platformId": "ps45",
+      "name": "Outlast",
+      "ytId": "l7-AzLYF2Pw",
+      "genre": [
+        "Horror",
+        "Survival Horror"
+      ],
+      "year": 2017,
+      "players": null
+    },
+    {
+      "id": "g560",
+      "platformId": "ps45",
+      "name": "Outlast 2",
+      "ytId": "sKI4YjJoMRo",
+      "genre": [
+        "Horror",
+        "Survival Horror"
+      ],
+      "year": 2017,
+      "players": null
+    },
+    {
+      "id": "g561",
+      "platformId": "ps45",
+      "name": "Overcooked",
+      "ytId": "n9R4FdEXMCk",
+      "genre": [
+        "Party",
+        "Cooperative"
+      ],
+      "year": 2016,
+      "players": null
+    },
+    {
+      "id": "g562",
+      "platformId": "ps45",
+      "name": "Overcooked 2",
+      "ytId": "n9R4FdEXMCk",
+      "genre": [
+        "เล่น 2-4 คน",
+        "เกมปาร์ตี้"
+      ],
+      "year": 2018,
+      "players": "1-4"
+    },
+    {
+      "id": "g563",
+      "platformId": "ps45",
+      "name": "Overcooked All You Can Eat",
+      "ytId": "n9R4FdEXMCk",
+      "genre": [
+        "เล่น 2-4 คน",
+        "เกมปาร์ตี้",
+        "เกมครอบครัว"
+      ],
+      "year": 2020,
+      "players": "1-4"
+    },
+    {
+      "id": "g564",
+      "platformId": "ps45",
+      "name": "Persona 5 Striker",
+      "ytId": "2lT4q2_tL2U",
+      "genre": [
+        "RPG",
+        "Action"
+      ],
+      "year": 2021,
+      "players": null
+    },
+    {
+      "id": "g565",
+      "platformId": "ps45",
+      "name": "PES 2021",
+      "ytId": "iQ1-cAQPJkA",
+      "genre": [
+        "Sports"
+      ],
+      "year": 2021,
+      "players": null
+    },
+    {
+      "id": "g566",
+      "platformId": "ps45",
+      "name": "PGA Tour 2021",
+      "ytId": "",
+      "genre": [
+        "Sports"
+      ],
+      "year": 2021,
+      "players": null
+    },
+    {
+      "id": "g567",
+      "platformId": "ps45",
+      "name": "Plants vs. Zombies: Battle for Neighborville™",
+      "ytId": "",
+      "genre": [
+        "Shooter"
+      ],
+      "year": 2019,
+      "players": null
+    },
+    {
+      "id": "g568",
+      "platformId": "ps45",
+      "name": "Prison Architect",
+      "ytId": "",
+      "genre": [
+        "Strategy",
+        "Simulation"
+      ],
+      "year": 2016,
+      "players": null
+    },
+    {
+      "id": "g569",
+      "platformId": "ps45",
+      "name": "Rayman Legends",
+      "ytId": "",
+      "genre": [
+        "Platformer"
+      ],
+      "year": 2013,
+      "players": null
+    },
+    {
+      "id": "g570",
+      "platformId": "ps45",
+      "name": "Red Dead Redemption 2",
+      "ytId": "eaW0tYpxyp0",
+      "genre": [
+        "เกมผจญภัย",
+        "เล่นคนเดียว",
+        "Open World"
+      ],
+      "year": 2018,
+      "players": "1"
+    },
+    {
+      "id": "g571",
+      "platformId": "ps45",
+      "name": "Resident Evil 2",
+      "ytId": "YFNSFpKrjwI",
+      "genre": [
+        "Horror",
+        "Survival Horror"
+      ],
+      "year": 2019,
+      "players": null
+    },
+    {
+      "id": "g572",
+      "platformId": "ps45",
+      "name": "Resident Evil 3",
+      "ytId": "IyHnEPFx90I",
+      "genre": [
+        "Horror",
+        "Survival Horror"
+      ],
+      "year": 2020,
+      "players": null
+    },
+    {
+      "id": "g573",
+      "platformId": "ps45",
+      "name": "Resident Evil 7",
+      "ytId": "Q2MuV9gjhSM",
+      "genre": [
+        "Horror",
+        "Survival Horror"
+      ],
+      "year": 2017,
+      "players": null
+    },
+    {
+      "id": "g574",
+      "platformId": "ps45",
+      "name": "Resident Evil Village + Winters' Expansion",
+      "ytId": "z-HwSMbFhMk",
+      "genre": [
+        "Horror",
+        "Survival Horror"
+      ],
+      "year": 2021,
+      "players": null
+    },
+    {
+      "id": "g575",
+      "platformId": "ps45",
+      "name": "Returnal",
+      "ytId": "rCKedDtZoQ4",
+      "genre": [
+        "เกมยิง",
+        "เล่นคนเดียว",
+        "เกมโหด"
+      ],
+      "year": 2021,
+      "players": "1"
+    },
+    {
+      "id": "g576",
+      "platformId": "ps45",
+      "name": "Riders Republic",
+      "ytId": "VRUbDqIRFrA",
+      "genre": [
+        "Sports",
+        "Open World"
+      ],
+      "year": 2021,
+      "players": null
+    },
+    {
+      "id": "g577",
+      "platformId": "ps45",
+      "name": "Ride 4",
+      "ytId": "",
+      "genre": [
+        "Racing"
+      ],
+      "year": 2020,
+      "players": null
+    },
+    {
+      "id": "g578",
+      "platformId": "ps45",
+      "name": "Rocket League",
+      "ytId": "",
+      "genre": [
+        "Sports"
+      ],
+      "year": 2016,
+      "players": null
+    },
+    {
+      "id": "g579",
+      "platformId": "ps45",
+      "name": "Sackboy : A Big Advanture",
+      "ytId": "T5Sp7zEeDNM",
+      "genre": [
+        "Platformer",
+        "Cooperative"
+      ],
+      "year": 2020,
+      "players": null
+    },
+    {
+      "id": "g580",
+      "platformId": "ps45",
+      "name": "Scarlet Nexus",
+      "ytId": "2bIBSYJxEHE",
+      "genre": [
+        "Action RPG"
+      ],
+      "year": 2021,
+      "players": null
+    },
+    {
+      "id": "g581",
+      "platformId": "ps45",
+      "name": "Secret Neighbor",
+      "ytId": "",
+      "genre": [
+        "Horror",
+        "Party"
+      ],
+      "year": 2021,
+      "players": null
+    },
+    {
+      "id": "g582",
+      "platformId": "ps45",
+      "name": "Shadow of the colossus",
+      "ytId": "mfkrVFXUWbo",
+      "genre": [
+        "Action",
+        "Adventure"
+      ],
+      "year": 2018,
+      "players": null
+    },
+    {
+      "id": "g583",
+      "platformId": "ps45",
+      "name": "SIFU",
+      "ytId": "wNVTMoUXNKE",
+      "genre": [
+        "เกมต่อสู้",
+        "เล่นคนเดียว"
+      ],
+      "year": 2022,
+      "players": "1"
+    },
+    {
+      "id": "g584",
+      "platformId": "ps45",
+      "name": "Soulcalibur",
+      "ytId": "G_j5Mxdg_rI",
+      "genre": [
+        "Fighting"
+      ],
+      "year": 2018,
+      "players": null
+    },
+    {
+      "id": "g585",
+      "platformId": "ps45",
+      "name": "Spiderman",
+      "ytId": "q4GdJGpEH8I",
+      "genre": [
+        "Action",
+        "Adventure",
+        "Open World"
+      ],
+      "year": 2018,
+      "players": null
+    },
+    {
+      "id": "g586",
+      "platformId": "ps45",
+      "name": "Spiderman : Miles Molares",
+      "ytId": "Nt1fXuE5GDk",
+      "genre": [
+        "Action",
+        "Adventure",
+        "Open World"
+      ],
+      "year": 2020,
+      "players": null
+    },
+    {
+      "id": "g587",
+      "platformId": "ps45",
+      "name": "Star Wars Battlefront II",
+      "ytId": "Go8hONQzNZ4",
+      "genre": [
+        "Shooter",
+        "Action"
+      ],
+      "year": 2017,
+      "players": null
+    },
+    {
+      "id": "g588",
+      "platformId": "ps45",
+      "name": "STAR WARS Jedi: Fallen Order™",
+      "ytId": "xYI8JIQW5-g",
+      "genre": [
+        "Action",
+        "Adventure"
+      ],
+      "year": 2019,
+      "players": null
+    },
+    {
+      "id": "g589",
+      "platformId": "ps45",
+      "name": "Street Fighter V",
+      "ytId": "ANvNkk9vSso",
+      "genre": [
+        "เกมต่อสู้",
+        "เล่น 2 คน"
+      ],
+      "year": 2016,
+      "players": "1-2"
+    },
+    {
+      "id": "g590",
+      "platformId": "ps45",
+      "name": "Subnautica",
+      "ytId": "MdANWGHGj_4",
+      "genre": [
+        "Survival",
+        "Open World"
+      ],
+      "year": 2021,
+      "players": null
+    },
+    {
+      "id": "g591",
+      "platformId": "ps45",
+      "name": "Super Bomberman R",
+      "ytId": "",
+      "genre": [
+        "Party",
+        "Action"
+      ],
+      "year": 2017,
+      "players": null
+    },
+    {
+      "id": "g592",
+      "platformId": "ps45",
+      "name": "Superhot",
+      "ytId": "A1jothqmqHw",
+      "genre": [
+        "Action",
+        "Shooter"
+      ],
+      "year": 2017,
+      "players": null
+    },
+    {
+      "id": "g593",
+      "platformId": "ps45",
+      "name": "Taiko No Tatsujin",
+      "ytId": "",
+      "genre": [
+        "Rhythm"
+      ],
+      "year": 2019,
+      "players": null
+    },
+    {
+      "id": "g594",
+      "platformId": "ps45",
+      "name": "Tales of Arise",
+      "ytId": "Ix2fkGJUCpI",
+      "genre": [
+        "RPG",
+        "Action RPG"
+      ],
+      "year": 2021,
+      "players": null
+    },
+    {
+      "id": "g595",
+      "platformId": "ps45",
+      "name": "It Take Two",
+      "ytId": "CzVM-XkNvHk",
+      "genre": [
+        "เล่น 2 คน",
+        "เกมผจญภัย"
+      ],
+      "year": 2021,
+      "players": "2"
+    },
+    {
+      "id": "g596",
+      "platformId": "ps45",
+      "name": "Tekken 7",
+      "ytId": "o9bSXDiMRvo",
+      "genre": [
+        "เกมต่อสู้",
+        "เล่น 2 คน"
+      ],
+      "year": 2017,
+      "players": "1-2"
+    },
+    {
+      "id": "g597",
+      "platformId": "ps45",
+      "name": "Tennis World Tour 2",
+      "ytId": "",
+      "genre": [
+        "Sports"
+      ],
+      "year": 2020,
+      "players": null
+    },
+    {
+      "id": "g598",
+      "platformId": "ps45",
+      "name": "Terraria",
+      "ytId": "w7uOhFTrrq0",
+      "genre": [
+        "Sandbox",
+        "Adventure"
+      ],
+      "year": 2013,
+      "players": null
+    },
+    {
+      "id": "g599",
+      "platformId": "ps45",
+      "name": "The Callisto Protocal",
+      "ytId": "GbHoKhzJifM",
+      "genre": [
+        "Horror",
+        "Action"
+      ],
+      "year": 2022,
+      "players": null
+    },
+    {
+      "id": "g600",
+      "platformId": "ps45",
+      "name": "The Crew 2",
+      "ytId": "UGSmBpFP8YE",
+      "genre": [
+        "Racing",
+        "Open World"
+      ],
+      "year": 2018,
+      "players": null
+    },
+    {
+      "id": "g601",
+      "platformId": "ps45",
+      "name": "The Fisherman Fishing Planet",
+      "ytId": "",
+      "genre": [
+        "Simulation"
+      ],
+      "year": 2019,
+      "players": null
+    },
+    {
+      "id": "g602",
+      "platformId": "ps45",
+      "name": "The Last of Us",
+      "ytId": "yZHHbQ7NJXI",
+      "genre": [
+        "เกมผจญภัย",
+        "เล่นคนเดียว",
+        "เกมดราม่า"
+      ],
+      "year": 2022,
+      "players": "1"
+    },
+    {
+      "id": "g603",
+      "platformId": "ps45",
+      "name": "The Lego movie video game",
+      "ytId": "",
+      "genre": [
+        "Adventure",
+        "Puzzle"
+      ],
+      "year": 2014,
+      "players": null
+    },
+    {
+      "id": "g604",
+      "platformId": "ps45",
+      "name": "The Sims 4",
+      "ytId": "",
+      "genre": [
+        "Simulation"
+      ],
+      "year": 2017,
+      "players": null
+    },
+    {
+      "id": "g605",
+      "platformId": "ps45",
+      "name": "The Witcher 3 (PS5 Upgraded)",
+      "ytId": "c0i88t0Kacs",
+      "genre": [
+        "RPG",
+        "Open World"
+      ],
+      "year": 2022,
+      "players": null
+    },
+    {
+      "id": "g606",
+      "platformId": "ps45",
+      "name": "Tom Clancy's Rainbow Six Extraction",
+      "ytId": "KmvFmvB_6a0",
+      "genre": [
+        "Shooter",
+        "Cooperative"
+      ],
+      "year": 2022,
+      "players": null
+    },
+    {
+      "id": "g607",
+      "platformId": "ps45",
+      "name": "Tomb Rider",
+      "ytId": "",
+      "genre": [
+        "Action",
+        "Adventure"
+      ],
+      "year": 2014,
+      "players": null
+    },
+    {
+      "id": "g608",
+      "platformId": "ps45",
+      "name": "UFC 4",
+      "ytId": "5vwPLaScmYQ",
+      "genre": [
+        "เกมกีฬา",
+        "เล่น 2 คน",
+        "กีฬาต่อสู้"
+      ],
+      "year": 2020,
+      "players": "1-2"
+    },
+    {
+      "id": "g609",
+      "platformId": "ps45",
+      "name": "Uncharted : Legacy of Thieves Collection",
+      "ytId": "8OoR3hb6g4Y",
+      "genre": [
+        "Action",
+        "Adventure"
+      ],
+      "year": 2022,
+      "players": null
+    },
+    {
+      "id": "g610",
+      "platformId": "ps45",
+      "name": "Uncharted : The lost legacy",
+      "ytId": "8OoR3hb6g4Y",
+      "genre": [
+        "Action",
+        "Adventure"
+      ],
+      "year": 2017,
+      "players": null
+    },
+    {
+      "id": "g611",
+      "platformId": "ps45",
+      "name": "Uncharted 4",
+      "ytId": "8OoR3hb6g4Y",
+      "genre": [
+        "Action",
+        "Adventure"
+      ],
+      "year": 2016,
+      "players": null
+    },
+    {
+      "id": "g612",
+      "platformId": "ps45",
+      "name": "Until Dawn",
+      "ytId": "jvGdSZoI8u4",
+      "genre": [
+        "Horror",
+        "Adventure"
+      ],
+      "year": 2015,
+      "players": null
+    },
+    {
+      "id": "g613",
+      "platformId": "ps45",
+      "name": "Watch Dogs Legion",
+      "ytId": "FjXOmYj6ZFM",
+      "genre": [
+        "Action",
+        "Open World"
+      ],
+      "year": 2020,
+      "players": null
+    },
+    {
+      "id": "g614",
+      "platformId": "ps45",
+      "name": "Werewolf",
+      "ytId": "",
+      "genre": [
+        "Action RPG"
+      ],
+      "year": 2021,
+      "players": null
+    },
+    {
+      "id": "g615",
+      "platformId": "ps45",
+      "name": "Wild Hearts",
+      "ytId": "",
+      "genre": [
+        "Action RPG"
+      ],
+      "year": 2023,
+      "players": null
+    },
+    {
+      "id": "g616",
+      "platformId": "meta",
+      "name": "Cook Out",
+      "ytId": "",
+      "genre": [
+        "Cooperative",
+        "Party",
+        "VR"
+      ],
+      "year": 2020,
+      "players": null
+    },
+    {
+      "id": "g617",
+      "platformId": "meta",
+      "name": "MLB Home Run Derby VR",
+      "ytId": "",
+      "genre": [
+        "Sports",
+        "VR"
+      ],
+      "year": 2019,
+      "players": null
+    },
+    {
+      "id": "g618",
+      "platformId": "meta",
+      "name": "Arizona Sunshine : Remake",
+      "ytId": "",
+      "genre": [
+        "Shooter",
+        "Horror",
+        "VR"
+      ],
+      "year": 2023,
+      "players": null
+    },
+    {
+      "id": "g619",
+      "platformId": "meta",
+      "name": "Asgard's Wrath 2",
+      "ytId": "sBToI3fS3cg",
+      "genre": [
+        "Action RPG",
+        "VR"
+      ],
+      "year": 2023,
+      "players": null
+    },
+    {
+      "id": "g620",
+      "platformId": "meta",
+      "name": "Synth Riders",
+      "ytId": "",
+      "genre": [
+        "Rhythm",
+        "VR"
+      ],
+      "year": 2021,
+      "players": null
+    },
+    {
+      "id": "g621",
+      "platformId": "meta",
+      "name": "Creed: Rise to Glory",
+      "ytId": "",
+      "genre": [
+        "Sports",
+        "VR"
+      ],
+      "year": 2018,
+      "players": null
+    },
+    {
+      "id": "g622",
+      "platformId": "meta",
+      "name": "The Last Clockwinder",
+      "ytId": "",
+      "genre": [
+        "Puzzle",
+        "VR"
+      ],
+      "year": 2022,
+      "players": null
+    },
+    {
+      "id": "g623",
+      "platformId": "meta",
+      "name": "Green Hell VR",
+      "ytId": "",
+      "genre": [
+        "Survival",
+        "VR"
+      ],
+      "year": 2022,
+      "players": null
+    },
+    {
+      "id": "g624",
+      "platformId": "meta",
+      "name": "Virtual Desktop",
+      "ytId": "",
+      "genre": [
+        "VR",
+        "Utility"
+      ],
+      "year": 2019,
+      "players": null
+    },
+    {
+      "id": "g625",
+      "platformId": "meta",
+      "name": "Beat Saber",
+      "ytId": "vL39Sg2AqWg",
+      "genre": [
+        "เกม VR",
+        "เกมดนตรี",
+        "เล่นคนเดียว"
+      ],
+      "year": 2018,
+      "players": "1-2"
+    },
+    {
+      "id": "g626",
+      "platformId": "meta",
+      "name": "Among US VR",
+      "ytId": "",
+      "genre": [
+        "Party",
+        "VR"
+      ],
+      "year": 2022,
+      "players": null
+    },
+    {
+      "id": "g627",
+      "platformId": "meta",
+      "name": "Deisim",
+      "ytId": "",
+      "genre": [
+        "Simulation",
+        "VR"
+      ],
+      "year": 2020,
+      "players": null
+    },
+    {
+      "id": "g628",
+      "platformId": "meta",
+      "name": "Angry Birds VR : Isle of Pigs",
+      "ytId": "",
+      "genre": [
+        "Puzzle",
+        "VR"
+      ],
+      "year": 2019,
+      "players": null
+    },
+    {
+      "id": "g629",
+      "platformId": "meta",
+      "name": "Richie's Plank Experience",
+      "ytId": "",
+      "genre": [
+        "VR",
+        "Experience"
+      ],
+      "year": 2019,
+      "players": null
+    },
+    {
+      "id": "g630",
+      "platformId": "meta",
+      "name": "Walkabout Mini Golf",
+      "ytId": "",
+      "genre": [
+        "Sports",
+        "VR"
+      ],
+      "year": 2021,
+      "players": null
+    },
+    {
+      "id": "g631",
+      "platformId": "meta",
+      "name": "Onward",
+      "ytId": "",
+      "genre": [
+        "Shooter",
+        "VR"
+      ],
+      "year": 2020,
+      "players": null
+    },
+    {
+      "id": "g632",
+      "platformId": "meta",
+      "name": "The Climb",
+      "ytId": "",
+      "genre": [
+        "Sports",
+        "VR"
+      ],
+      "year": 2020,
+      "players": null
+    },
+    {
+      "id": "g633",
+      "platformId": "meta",
+      "name": "Until You Fall",
+      "ytId": "",
+      "genre": [
+        "Action",
+        "VR"
+      ],
+      "year": 2021,
+      "players": null
+    },
+    {
+      "id": "g634",
+      "platformId": "meta",
+      "name": "Jurassic World Aftermath Collection",
+      "ytId": "",
+      "genre": [
+        "Adventure",
+        "VR"
+      ],
+      "year": 2022,
+      "players": null
+    },
+    {
+      "id": "g635",
+      "platformId": "meta",
+      "name": "Fruit Ninja",
+      "ytId": "",
+      "genre": [
+        "Action",
+        "VR"
+      ],
+      "year": 2020,
+      "players": null
+    },
+    {
+      "id": "g636",
+      "platformId": "meta",
+      "name": "Sports Scramble",
+      "ytId": "",
+      "genre": [
+        "Sports",
+        "VR"
+      ],
+      "year": 2019,
+      "players": null
+    },
+    {
+      "id": "g637",
+      "platformId": "meta",
+      "name": "Hand Physucs Lab",
+      "ytId": "",
+      "genre": [
+        "Puzzle",
+        "VR"
+      ],
+      "year": 2021,
+      "players": null
+    },
+    {
+      "id": "g638",
+      "platformId": "meta",
+      "name": "A Township Tale",
+      "ytId": "",
+      "genre": [
+        "RPG",
+        "VR"
+      ],
+      "year": 2020,
+      "players": null
+    },
+    {
+      "id": "g639",
+      "platformId": "meta",
+      "name": "Demeo",
+      "ytId": "",
+      "genre": [
+        "Strategy",
+        "RPG",
+        "VR"
+      ],
+      "year": 2021,
+      "players": null
+    },
+    {
+      "id": "g640",
+      "platformId": "meta",
+      "name": "Red Matter",
+      "ytId": "",
+      "genre": [
+        "Puzzle",
+        "VR"
+      ],
+      "year": 2020,
+      "players": null
+    },
+    {
+      "id": "g641",
+      "platformId": "meta",
+      "name": "Espire 1: VR Operative",
+      "ytId": "",
+      "genre": [
+        "Shooter",
+        "Stealth",
+        "VR"
+      ],
+      "year": 2020,
+      "players": null
+    },
+    {
+      "id": "g642",
+      "platformId": "meta",
+      "name": "2MD: VR Football Unleashed All-Star",
+      "ytId": "",
+      "genre": [
+        "Sports",
+        "VR"
+      ],
+      "year": 2020,
+      "players": null
+    },
+    {
+      "id": "g643",
+      "platformId": "meta",
+      "name": "Tetris Effect : Connected",
+      "ytId": "",
+      "genre": [
+        "Puzzle",
+        "VR"
+      ],
+      "year": 2020,
+      "players": null
+    },
+    {
+      "id": "g644",
+      "platformId": "meta",
+      "name": "Stones Of Harlath",
+      "ytId": "",
+      "genre": [
+        "Strategy",
+        "VR"
+      ],
+      "year": 2021,
+      "players": null
+    },
+    {
+      "id": "g645",
+      "platformId": "meta",
+      "name": "Vacation Simulator",
+      "ytId": "",
+      "genre": [
+        "Simulation",
+        "VR"
+      ],
+      "year": 2019,
+      "players": null
+    },
+    {
+      "id": "g646",
+      "platformId": "meta",
+      "name": "Final Soccer",
+      "ytId": "",
+      "genre": [
+        "Sports",
+        "VR"
+      ],
+      "year": 2021,
+      "players": null
+    },
+    {
+      "id": "g647",
+      "platformId": "meta",
+      "name": "Sense Arena",
+      "ytId": "",
+      "genre": [
+        "Sports",
+        "VR"
+      ],
+      "year": 2021,
+      "players": null
+    },
+    {
+      "id": "g648",
+      "platformId": "meta",
+      "name": "Blaston",
+      "ytId": "",
+      "genre": [
+        "Shooter",
+        "VR"
+      ],
+      "year": 2021,
+      "players": null
+    },
+    {
+      "id": "g649",
+      "platformId": "meta",
+      "name": "Poker VR",
+      "ytId": "",
+      "genre": [
+        "Casino",
+        "VR"
+      ],
+      "year": 2018,
+      "players": null
+    },
+    {
+      "id": "g650",
+      "platformId": "meta",
+      "name": "Elixir",
+      "ytId": "",
+      "genre": [
+        "Puzzle",
+        "VR"
+      ],
+      "year": 2021,
+      "players": null
+    },
+    {
+      "id": "g651",
+      "platformId": "meta",
+      "name": "Remio",
+      "ytId": "",
+      "genre": [
+        "Party",
+        "VR"
+      ],
+      "year": 2022,
+      "players": null
+    },
+    {
+      "id": "g652",
+      "platformId": "meta",
+      "name": "Gods of Gravity",
+      "ytId": "",
+      "genre": [
+        "Puzzle",
+        "VR"
+      ],
+      "year": 2021,
+      "players": null
+    },
+    {
+      "id": "g653",
+      "platformId": "meta",
+      "name": "Monkey Doo",
+      "ytId": "",
+      "genre": [
+        "Party",
+        "VR"
+      ],
+      "year": 2021,
+      "players": null
+    },
+    {
+      "id": "g654",
+      "platformId": "meta",
+      "name": "Big Ballers",
+      "ytId": "",
+      "genre": [
+        "Sports",
+        "VR"
+      ],
+      "year": 2021,
+      "players": null
+    },
+    {
+      "id": "g655",
+      "platformId": "meta",
+      "name": "Noclip VR",
+      "ytId": "",
+      "genre": [
+        "VR",
+        "Experience"
+      ],
+      "year": 2021,
+      "players": null
+    },
+    {
+      "id": "g656",
+      "platformId": "meta",
+      "name": "Penguin Paradise",
+      "ytId": "",
+      "genre": [
+        "VR",
+        "Experience"
+      ],
+      "year": 2021,
+      "players": null
+    },
+    {
+      "id": "g657",
+      "platformId": "meta",
+      "name": "Roblox",
+      "ytId": "",
+      "genre": [
+        "Sandbox",
+        "Party"
+      ],
+      "year": 2023,
+      "players": null
+    },
+    {
+      "id": "g658",
+      "platformId": "meta",
+      "name": "FitXR",
+      "ytId": "",
+      "genre": [
+        "Sports",
+        "Fitness",
+        "VR"
+      ],
+      "year": 2021,
+      "players": null
+    },
+    {
+      "id": "g659",
+      "platformId": "meta",
+      "name": "Gun Raiders",
+      "ytId": "",
+      "genre": [
+        "Shooter",
+        "VR"
+      ],
+      "year": 2021,
+      "players": null
+    },
+    {
+      "id": "g660",
+      "platformId": "meta",
+      "name": "Human Anatomy VR Learning",
+      "ytId": "",
+      "genre": [
+        "Education",
+        "VR"
+      ],
+      "year": 2021,
+      "players": null
+    },
+    {
+      "id": "g661",
+      "platformId": "meta",
+      "name": "Tripp",
+      "ytId": "",
+      "genre": [
+        "Meditation",
+        "VR"
+      ],
+      "year": 2021,
+      "players": null
+    },
+    {
+      "id": "g662",
+      "platformId": "meta",
+      "name": "First Hand",
+      "ytId": "",
+      "genre": [
+        "VR",
+        "Experience"
+      ],
+      "year": 2022,
+      "players": null
+    },
+    {
+      "id": "g663",
+      "platformId": "meta",
+      "name": "SHOOTOUT",
+      "ytId": "",
+      "genre": [
+        "Shooter",
+        "VR"
+      ],
+      "year": 2021,
+      "players": null
+    },
+    {
+      "id": "g664",
+      "platformId": "meta",
+      "name": "Showtime VR",
+      "ytId": "",
+      "genre": [
+        "VR",
+        "Experience"
+      ],
+      "year": 2021,
+      "players": null
+    },
+    {
+      "id": "g665",
+      "platformId": "meta",
+      "name": "Youtube VR",
+      "ytId": "",
+      "genre": [
+        "VR",
+        "Utility"
+      ],
+      "year": 2019,
+      "players": null
+    },
+    {
+      "id": "g666",
+      "platformId": "meta",
+      "name": "Netflix VR",
+      "ytId": "",
+      "genre": [
+        "VR",
+        "Utility"
+      ],
+      "year": 2020,
+      "players": null
+    },
+    {
+      "id": "g667",
+      "platformId": "meta",
+      "name": "Instagram VR",
+      "ytId": "",
+      "genre": [
+        "VR",
+        "Social"
+      ],
+      "year": 2021,
+      "players": null
+    },
+    {
+      "id": "g668",
+      "platformId": "meta",
+      "name": "Facebook VR",
+      "ytId": "",
+      "genre": [
+        "VR",
+        "Social"
+      ],
+      "year": 2021,
+      "players": null
+    },
+    {
+      "id": "g669",
+      "platformId": "meta",
+      "name": "Firefox VR",
+      "ytId": "",
+      "genre": [
+        "VR",
+        "Utility"
+      ],
+      "year": 2019,
+      "players": null
+    },
+    {
+      "id": "g670",
+      "platformId": "meta",
+      "name": "Hoame",
+      "ytId": "",
+      "genre": [
+        "Meditation",
+        "VR"
+      ],
+      "year": 2022,
+      "players": null
+    },
+    {
+      "id": "g671",
+      "platformId": "meta",
+      "name": "Bait!",
+      "ytId": "",
+      "genre": [
+        "Simulation",
+        "VR"
+      ],
+      "year": 2019,
+      "players": null
+    },
+    {
+      "id": "g672",
+      "platformId": "meta",
+      "name": "Spatial",
+      "ytId": "",
+      "genre": [
+        "VR",
+        "Social"
+      ],
+      "year": 2021,
+      "players": null
+    },
+    {
+      "id": "g673",
+      "platformId": "meta",
+      "name": "Match Point Tennis",
+      "ytId": "",
+      "genre": [
+        "Sports",
+        "VR"
+      ],
+      "year": 2022,
+      "players": null
+    },
+    {
+      "id": "g674",
+      "platformId": "meta",
+      "name": "Population: One",
+      "ytId": "",
+      "genre": [
+        "Shooter",
+        "Battle Royale",
+        "VR"
+      ],
+      "year": 2020,
+      "players": null
+    },
+    {
+      "id": "g675",
+      "platformId": "meta",
+      "name": "Steam Link",
+      "ytId": "",
+      "genre": [
+        "VR",
+        "Utility"
+      ],
+      "year": 2020,
+      "players": null
+    },
+    {
+      "id": "g676",
+      "platformId": "meta",
+      "name": "Echo VR",
+      "ytId": "",
+      "genre": [
+        "Sports",
+        "VR"
+      ],
+      "year": 2021,
+      "players": null
+    },
+    {
+      "id": "g677",
+      "platformId": "meta",
+      "name": "Wooorld",
+      "ytId": "",
+      "genre": [
+        "Education",
+        "VR"
+      ],
+      "year": 2021,
+      "players": null
+    },
+    {
+      "id": "g678",
+      "platformId": "meta",
+      "name": "AltspaceVR",
+      "ytId": "",
+      "genre": [
+        "VR",
+        "Social"
+      ],
+      "year": 2020,
+      "players": null
+    },
+    {
+      "id": "g679",
+      "platformId": "meta",
+      "name": "Hyper Dash",
+      "ytId": "",
+      "genre": [
+        "Shooter",
+        "VR"
+      ],
+      "year": 2021,
+      "players": null
+    },
+    {
+      "id": "g680",
+      "platformId": "meta",
+      "name": "Immersed",
+      "ytId": "",
+      "genre": [
+        "VR",
+        "Utility"
+      ],
+      "year": 2020,
+      "players": null
+    },
+    {
+      "id": "g681",
+      "platformId": "meta",
+      "name": "Epic Roller Coasters",
+      "ytId": "",
+      "genre": [
+        "VR",
+        "Experience"
+      ],
+      "year": 2019,
+      "players": null
+    },
+    {
+      "id": "g682",
+      "platformId": "meta",
+      "name": "Gym Class - Basketball VR",
+      "ytId": "",
+      "genre": [
+        "Sports",
+        "VR"
+      ],
+      "year": 2020,
+      "players": null
+    },
+    {
+      "id": "g683",
+      "platformId": "meta",
+      "name": "Gorilla Tag",
+      "ytId": "",
+      "genre": [
+        "Sports",
+        "VR"
+      ],
+      "year": 2021,
+      "players": null
+    },
+    {
+      "id": "g684",
+      "platformId": "meta",
+      "name": "Meta Horinzon Workrooms",
+      "ytId": "",
+      "genre": [
+        "VR",
+        "Utility"
+      ],
+      "year": 2021,
+      "players": null
+    },
+    {
+      "id": "g685",
+      "platformId": "meta",
+      "name": "VRChat",
+      "ytId": "",
+      "genre": [
+        "VR",
+        "Social"
+      ],
+      "year": 2019,
+      "players": null
+    },
+    {
+      "id": "g686",
+      "platformId": "meta",
+      "name": "Rec Room",
+      "ytId": "",
+      "genre": [
+        "VR",
+        "Party"
+      ],
+      "year": 2019,
+      "players": null
+    },
+    {
+      "id": "g_1774589730815",
+      "platformId": "ps45",
+      "name": "test",
+      "ytId": "",
+      "year": null,
+      "players": null,
+      "genre": [],
+      "desc_th": null,
+      "desc_en": null,
+      "imgUrl": ""
+    },
+    {
+      "id": "g345",
+      "platformId": "ps45",
+      "name": "Crimson Desert",
+      "ytId": "",
+      "genre": [
+        "Action RPG",
+        "Open World"
+      ],
+      "year": 2025,
+      "players": null
+    }
+  ],
+  "howToSteps": [
+    {
+      "id": "h1",
+      "icon": "🔍",
+      "title_th": "ดูรายการเกม",
+      "title_en": "Browse Games",
+      "desc_th": "เลื่อนดูรายการเกมทั้งหมดได้เลย แบ่งตามประเภทเครื่องเกม กดที่ปุ่มประเภทเครื่องเพื่อกรองให้เหลือเฉพาะที่ต้องการ",
+      "desc_en": "Scroll through all available games organized by console type. Tap a console tab to filter the list."
+    },
+    {
+      "id": "h2",
+      "icon": "🎯",
+      "title_th": "เลือกเกมที่ต้องการ",
+      "title_en": "Pick Your Games",
+      "desc_th": "กดปุ่ม \"เลือกเกม\" หรือกดปุ่มลอยด้านขวาล่าง จากนั้นคลิกรูปเกมที่ต้องการเพื่อเลือก สามารถเลือกได้สูงสุด 10 เกม จากหลายประเภทเครื่อง",
+      "desc_en": "Tap the \"Pick Games\" button or the floating button at the bottom right. Click on a game cover to select it — up to 10 games across all consoles."
+    },
+    {
+      "id": "h3",
+      "icon": "📋",
+      "title_th": "สร้างข้อความสั่งเกม",
+      "title_en": "Generate Order Message",
+      "desc_th": "เมื่อเลือกเกมครบแล้ว กดปุ่ม \"สร้างข้อความสั่งเกม\" จากนั้นกด \"Copy รายการ\" เพื่อคัดลอกข้อความ",
+      "desc_en": "Once you have selected your games, tap \"Generate Order Message\" then \"Copy List\" to copy your selection."
+    },
+    {
+      "id": "h4",
+      "icon": "💬",
+      "title_th": "ส่งมาที่ Line @ajgame",
+      "title_en": "Send via Line @ajgame",
+      "desc_th": "วางข้อความที่คัดลอกมาแล้วส่งมาที่ Line Official ของร้าน @ajgame พร้อมแจ้งวันที่ต้องการเช่าและที่อยู่จัดส่ง",
+      "desc_en": "Paste your copied message and send it to our Line Official @ajgame along with your rental dates and delivery address."
+    },
+    {
+      "id": "h5",
+      "icon": "🚚",
+      "title_th": "รอรับเครื่องที่บ้าน",
+      "title_en": "Receive at Your Door",
+      "desc_th": "ทางร้านจัดส่งผ่าน Lalamove หรือ Grab ให้ถึงบ้านคุณ มาพร้อมเกม 2 จอย และอุปกรณ์ต่อทีวีครบชุด",
+      "desc_en": "We deliver via Lalamove or Grab straight to your door, complete with games, 2 controllers, and TV connection equipment."
+    }
+  ],
+  "faqItems": [
+    {
+      "id": "f1",
+      "q_th": "เลือกเกมได้สูงสุดกี่เกม?",
+      "q_en": "How many games can I select?",
+      "a_th": "เลือกได้สูงสุด 10 เกม ต่อการเช่า 1 ครั้ง เนื่องจากความจุของตัวเครื่องมีจำกัด จำนวน 10 เกมนี้จึงเป็นจำนวนที่พอเหมาะที่สุดแล้ว ทั้งนี้หากบางเกมมีขนาดใหญ่เป็นพิเศษ อาจทำให้ลงได้ไม่ถึง 10 เกม",
+      "a_en": "You can select up to 10 games per rental. This limit is due to storage capacity constraints — 10 games is the optimal number. Note that some large games may reduce the available slots."
+    },
+    {
+      "id": "f2",
+      "q_th": "เลือกเกมนอกเหนือจากในรายการได้ไหม?",
+      "q_en": "Can I request a game not listed?",
+      "a_th": "ไม่ได้ครับ เนื่องจากเกมที่มีในรายการเป็นเกมที่ร้านเตรียมพร้อมไว้ให้แล้ว และมีข้อจำกัดด้านลิขสิทธิ์และความพร้อมใช้งาน",
+      "a_en": "Sorry, only games listed in our catalog are available for rental due to licensing and availability constraints."
+    },
+    {
+      "id": "f3",
+      "q_th": "เช่าขั้นต่ำกี่วัน?",
+      "q_en": "What is the minimum rental period?",
+      "a_th": "ขั้นต่ำ 3 วัน ต่อการเช่า 1 ครั้ง",
+      "a_en": "The minimum rental period is 3 days per booking."
+    },
+    {
+      "id": "f4",
+      "q_th": "มีค่ามัดจำไหม?",
+      "q_en": "Is there a deposit?",
+      "a_th": "มีค่ามัดจำ โดยขึ้นอยู่กับประเภทเครื่อง ตั้งแต่ 2,000 – 4,000 บาท จะคืนเงินมัดจำเต็มจำนวนเมื่อส่งคืนครบชุดและอุปกรณ์สมบูรณ์",
+      "a_en": "Yes, a deposit of 2,000–4,000 THB is required depending on the console. It is fully refunded upon complete and undamaged return."
+    },
+    {
+      "id": "f5",
+      "q_th": "ส่งถึงที่ได้ไหม? ค่าส่งเท่าไหร่?",
+      "q_en": "Is delivery available? What is the fee?",
+      "a_th": "จัดส่งทั่วกรุงเทพและปริมณฑลผ่าน Lalamove หรือ Grab ค่าส่ง 100 บาทต่อเที่ยว เช่า 3-6 วันฟรีค่าส่งคืน เช่า 7 วันขึ้นไปฟรีทั้งไปและกลับ",
+      "a_en": "We deliver across Bangkok and surrounding areas via Lalamove or Grab. Delivery fee is 100 THB/trip. Rent 3–6 days: free return shipping. Rent 7+ days: free both ways."
+    },
+    {
+      "id": "f6",
+      "q_th": "เปลี่ยนเกมระหว่างเช่าได้ไหม?",
+      "q_en": "Can I swap games during the rental?",
+      "a_th": "ไม่ได้ครับ เกมที่เลือกล่วงหน้าจะถูกโหลดไว้แล้ว ไม่สามารถเปลี่ยนแปลงได้ระหว่างช่วงเช่า",
+      "a_en": "No, games are pre-loaded before delivery and cannot be changed during the rental period."
+    },
+    {
+      "id": "f7",
+      "q_th": "ต่อทีวีได้เลยไหม มีอุปกรณ์ให้ไหม?",
+      "q_en": "Does it work with my TV? Are accessories included?",
+      "a_th": "ได้เลยครับ ร้านจัดเตรียมอุปกรณ์ต่อทีวีมาให้ครบชุด รวมถึง HDMI และ 2 จอย ไม่ต้องซื้อเพิ่ม",
+      "a_en": "Yes! Everything you need is included — HDMI cable, 2 controllers, and all necessary accessories. No extra purchases needed."
+    },
+    {
+      "id": "f8",
+      "q_th": "ลูกค้าเก่ามีส่วนลดไหม?",
+      "q_en": "Is there a returning customer discount?",
+      "a_th": "มีครับ ลูกค้าที่เคยเช่าแล้วได้รับส่วนลด 10% สำหรับการเช่าครั้งต่อไป",
+      "a_en": "Yes! Returning customers receive a 10% discount on their next rental."
+    }
+  ]
+}
