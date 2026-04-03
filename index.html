@@ -849,9 +849,27 @@
   }
   .ptab.active .ptab-count { background: rgba(255,255,255,0.2); opacity: 1; }
 
-  /* ── PLATFORM SECTION ── */
-  .platform-section { margin-bottom: 60px; display: none; }
+  /* ── PLATFORM SECTION / MACHINE BLOCK ── */
+  .platform-section {
+    display: none;
+    margin: 0 0 28px;
+    padding: 20px;
+    background: linear-gradient(180deg, #ffffff 0%, #fcfcfc 100%);
+    border: 1px solid rgba(0,0,0,0.08);
+    border-radius: 24px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.05), 0 2px 10px rgba(0,0,0,0.03);
+    position: relative;
+    overflow: hidden;
+  }
   .platform-section.visible { display: block; }
+  .platform-section::before {
+    content: '';
+    position: absolute;
+    top: 0; left: 0; right: 0;
+    height: 4px;
+    background: linear-gradient(90deg, var(--accent) 0%, #ff4d4d 100%);
+    opacity: 0.95;
+  }
 
   .section-header {
     display: flex;
@@ -1930,16 +1948,49 @@
 
   /* ── Section header redesign ── */
   .section-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 14px;
     border-bottom: 1px solid var(--border) !important;
-    padding-bottom: 14px !important;
-    margin-bottom: 0 !important;
+    padding-bottom: 16px !important;
+    margin-bottom: 18px !important;
+  }
+  .section-title {
+    min-width: 0;
+    align-items: center;
+    gap: 14px;
   }
   .section-badge {
-    border-radius: 10px !important;
-    background: linear-gradient(135deg, #1a1a1a 0%, #333 100%) !important;
+    width: 48px !important;
+    height: 48px !important;
+    border-radius: 14px !important;
+    background: linear-gradient(135deg, #111111 0%, #333333 100%) !important;
+    color: #fff;
+    box-shadow: 0 6px 18px rgba(0,0,0,0.14);
   }
   .section-name {
+    font-size: 19px !important;
+    font-weight: 700 !important;
     letter-spacing: -0.5px !important;
+    line-height: 1.2;
+  }
+  .section-meta {
+    margin-top: 3px !important;
+  }
+  .section-header-right {
+    gap: 10px !important;
+    flex-shrink: 0;
+  }
+  .game-count-pill {
+    background: var(--accent-light) !important;
+    color: var(--accent) !important;
+    border: 1px solid rgba(204,0,0,0.14) !important;
+    padding: 8px 14px !important;
+    box-shadow: none !important;
+  }
+  .section-body {
+    padding-top: 4px;
   }
 
   /* ── Game card upgrade ── */
@@ -1963,6 +2014,48 @@
     background: rgba(204,0,0,0.08) !important;
     color: var(--accent) !important;
     letter-spacing: 0.3px !important;
+  }
+
+
+  /* ── Machine type block polish ── */
+  .platform-section + .platform-section {
+    margin-top: 6px;
+  }
+  .platform-section .filter-bar {
+    margin-bottom: 16px;
+    padding: 12px 14px;
+    background: #f8f8f8;
+    border: 1px solid var(--border);
+    border-radius: 14px;
+  }
+  .platform-section .game-grid,
+  .platform-section .game-list-view,
+  .platform-section .empty-state {
+    position: relative;
+    z-index: 1;
+  }
+  @media (max-width: 768px) {
+    .platform-section {
+      padding: 16px !important;
+      border-radius: 20px !important;
+    }
+    .section-header {
+      align-items: flex-start;
+      flex-wrap: wrap;
+    }
+    .section-header-right {
+      width: 100%;
+      justify-content: space-between;
+    }
+    .section-name {
+      font-size: 17px !important;
+    }
+    .section-badge {
+      width: 42px !important;
+      height: 42px !important;
+      font-size: 20px !important;
+      border-radius: 12px !important;
+    }
   }
 
   /* ── Search bar upgrade ── */
@@ -1994,7 +2087,7 @@
 
   /* ── Scroll refinement ── */
   .platform-section {
-    margin-bottom: 48px !important;
+    margin-bottom: 24px !important;
   }
   .btn-pick-outline {
     display: flex;
@@ -5799,4 +5892,3 @@ document.addEventListener('touchstart', function(e) {
 
 </body>
 </html>
-
