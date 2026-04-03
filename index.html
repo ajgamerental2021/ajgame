@@ -199,6 +199,17 @@
     border-radius: 2px;
     opacity: 0.35;
   }
+
+  .hero-title .game-red {
+    color: var(--accent);
+    text-decoration: underline;
+    text-decoration-thickness: 3px;
+    text-underline-offset: 4px;
+  }
+  .hero-title .catalog-black {
+    color: var(--text);
+    text-decoration: none;
+  }
   .hero-sub {
     font-size: 14px;
     color: var(--text3);
@@ -4757,7 +4768,7 @@ const TRANSLATIONS = {
     lang_toggle: 'ไทย',
     admin_btn: '⚙ Admin',
     eyebrow: 'AJ Game Rental · Bangkok',
-    hero_title_html: 'Game<em> Catalog</em>',
+    hero_title_html: '<span class="game-red">Game</span> <span class="catalog-black">Catalog</span>',
     hero_sub: 'Browse and rent games — delivered to your door 🎮',
     search_placeholder: 'Search games...',
     btn_pick: 'Pick Games',
