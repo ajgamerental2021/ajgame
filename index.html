@@ -521,6 +521,7 @@
     display: flex;
     flex-direction: column;
     overflow: hidden;
+    min-height: 0;
     box-shadow: 0 24px 80px rgba(0,0,0,0.4);
     animation: modalIn 0.25s ease;
   }
@@ -587,7 +588,10 @@
 
   .pick-body {
     flex: 1;
+    min-height: 0;
     overflow-y: auto;
+    overscroll-behavior: contain;
+    -webkit-overflow-scrolling: touch;
     padding: 16px 24px;
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
@@ -1213,6 +1217,7 @@
     gap: 8px;
     flex-wrap: wrap;
     align-items: center;
+    flex-shrink: 0;
   }
   .pick-search-wrap {
     display: flex;
@@ -1261,6 +1266,13 @@
     display: none;
     gap: 6px;
     flex-wrap: wrap;
+    align-content: flex-start;
+    flex-shrink: 0;
+    max-height: min(28vh, 180px);
+    overflow-y: auto;
+    overflow-x: hidden;
+    overscroll-behavior: contain;
+    -webkit-overflow-scrolling: touch;
     border-bottom: 1px solid var(--border);
     background: var(--surface-inset);
   }
@@ -2146,8 +2158,13 @@
     .pick-tutorial { padding: 7px 11px; margin-bottom: 6px; }
     .pick-tutorial ol { font-size: 11.5px; }
     .pick-platform-tabs { padding: 0 14px 8px; flex-shrink: 0; }
+    .pick-genre-row {
+      padding: 8px 14px 10px;
+      max-height: min(30vh, 170px);
+    }
     .pick-body {
       flex: 1;
+      min-height: 0;
       overflow-y: auto;
       -webkit-overflow-scrolling: touch;
       padding: 10px 14px;
@@ -4491,6 +4508,7 @@ let pickSortMode = 'newest';
 let pickGenreFilter = '';
 let pickSearchQuery = '';
 let pickViewMode = 'grid'; // 'grid' | 'list'
+let pickGenrePanelOpen = false;
 
 function openPickModal() {
   pickedGames = [];
@@ -4498,8 +4516,10 @@ function openPickModal() {
   pickSortMode = 'newest';
   pickGenreFilter = '';
   pickSearchQuery = '';
+  pickGenrePanelOpen = false;
   document.getElementById('pick-search-filter').style.display = 'none';
   document.getElementById('pick-genre-row').classList.remove('show');
+  updatePickFilterButtons();
   renderPickPlatformTabs();
   // Show choose-platform prompt
   const body = document.getElementById('pick-body');
@@ -4513,7 +4533,9 @@ function openPickModal() {
   document.getElementById('btn-generate-copy').style.display = 'none';
   document.getElementById('pick-tutorial').style.display = '';
   document.getElementById('pick-overlay').classList.add('open');
+  syncPickModalScrollState();
 }
+
 function closePickModal() {
   document.getElementById('pick-overlay').classList.remove('open');
 }
@@ -4552,9 +4574,11 @@ function resetPickPlatform() {
   pickSortMode = 'newest';
   pickGenreFilter = '';
   pickSearchQuery = '';
+  pickGenrePanelOpen = false;
   const sf = document.getElementById('pick-search-filter');
   if (sf) sf.style.display = 'none';
   document.getElementById('pick-genre-row').classList.remove('show');
+  updatePickFilterButtons();
   renderPickPlatformTabs();
   renderPickFooter();
   document.getElementById('pick-copy-panel').classList.remove('show');
@@ -4568,55 +4592,112 @@ function resetPickPlatform() {
 
 function isEn() { return currentLang === 'en'; }
 
+function syncPickModalScrollState() {
+  const body = document.getElementById('pick-body');
+  const genreRow = document.getElementById('pick-genre-row');
+  if (body) {
+    body.style.minHeight = '0';
+    body.style.overscrollBehavior = 'contain';
+  }
+  if (genreRow) {
+    genreRow.style.overscrollBehavior = 'contain';
+  }
+}
+
+
+function updatePickGenreButtonLabel() {
+  const elGenre = document.getElementById('pf-label-genre');
+  const btnGenre = document.getElementById('pfsort-genre');
+  if (!elGenre) return;
+
+  const baseLabel = isEn() ? 'Genre' : 'ประเภท';
+  const selectedLabel = pickGenreFilter ? getGenreLabel([pickGenreFilter], currentLang) : '';
+  const arrow = pickGenrePanelOpen ? ' ▲' : ' ▼';
+  elGenre.textContent = selectedLabel ? `${baseLabel}: ${selectedLabel}${arrow}` : `${baseLabel}${arrow}`;
+
+  if (btnGenre) btnGenre.classList.toggle('active', pickGenrePanelOpen || !!pickGenreFilter);
+}
+
+function updatePickFilterButtons() {
+  ['newest','alpha'].forEach(m => {
+    const btn = document.getElementById('pfsort-' + m);
+    if (btn) btn.classList.toggle('active', pickSortMode === m);
+  });
+  updatePickGenreButtonLabel();
+}
+
+function togglePickGenrePanel(forceOpen) {
+  pickGenrePanelOpen = typeof forceOpen === 'boolean' ? forceOpen : !pickGenrePanelOpen;
+  const row = document.getElementById('pick-genre-row');
+
+  if (pickGenrePanelOpen) {
+    renderPickGenreRow();
+  } else if (row) {
+    row.classList.remove('show');
+  }
+
+  updatePickFilterButtons();
+  syncPickModalScrollState();
+}
+
 function setPickPlatform(id) {
   pickActivePlatform = id;
   pickSearchQuery = '';
   pickSortMode = 'newest';
   pickGenreFilter = '';
+  pickGenrePanelOpen = false;
   // Show search/filter bar
   const sf = document.getElementById('pick-search-filter');
   if (sf) { sf.style.display = 'flex'; }
   const si = document.getElementById('pick-search-input');
   if (si) { si.value = ''; si.placeholder = isEn() ? 'Search games...' : 'ค้นหาเกม...'; }
   document.getElementById('pick-genre-row').classList.remove('show');
-  // Reset sort buttons
-  ['newest','alpha','genre'].forEach(m => {
-    const btn = document.getElementById('pfsort-' + m);
-    if (btn) btn.classList.toggle('active', m === 'newest');
-  });
+  updatePickFilterButtons();
   renderPickPlatformTabs();
   renderPickBody();
+  syncPickModalScrollState();
 }
 
+
 function setPickSort(mode) {
+  if (mode === 'genre') {
+    togglePickGenrePanel();
+    return;
+  }
+
   pickSortMode = mode;
-  pickGenreFilter = '';
-  ['newest','alpha','genre'].forEach(m => {
-    const btn = document.getElementById('pfsort-' + m);
-    if (btn) btn.classList.toggle('active', m === mode);
-  });
-  if (mode === 'genre') renderPickGenreRow();
-  else document.getElementById('pick-genre-row').classList.remove('show');
+  pickGenrePanelOpen = false;
+  document.getElementById('pick-genre-row').classList.remove('show');
+  updatePickFilterButtons();
   renderPickBody();
+  syncPickModalScrollState();
 }
+
 
 function renderPickGenreRow() {
   const pg = games.filter(g => g.platformId === pickActivePlatform);
   const genres = [...new Set(pg.flatMap(g => g.genre || []))].sort();
   const row = document.getElementById('pick-genre-row');
   const allLabel = isEn() ? 'All' : 'ทั้งหมด';
-  let html = `<button class="genre-tag-btn ${!pickGenreFilter?'active':''}" onclick="setPickGenre('')" style="font-size:11px;padding:4px 10px">${allLabel}</button>`;
+  const hideLabel = isEn() ? 'Hide' : 'ย่อ';
+  let html = `<button class="genre-tag-btn" onclick="togglePickGenrePanel(false)" style="font-size:11px;padding:4px 10px">▲ ${hideLabel}</button>`;
+  html += `<button class="genre-tag-btn ${!pickGenreFilter?'active':''}" onclick="setPickGenre('')" style="font-size:11px;padding:4px 10px">${allLabel}</button>`;
   genres.forEach(g => {
     html += `<button class="genre-tag-btn ${pickGenreFilter===g?'active':''}" onclick="setPickGenre('${escHtml(g)}')" style="font-size:11px;padding:4px 10px">${escHtml(getGenreLabel([g], currentLang))}</button>`;
   });
   row.innerHTML = html;
   row.classList.add('show');
+  pickGenrePanelOpen = true;
+  updatePickFilterButtons();
+  syncPickModalScrollState();
 }
 
 function setPickGenre(genre) {
   pickGenreFilter = genre;
+  pickGenrePanelOpen = true;
   renderPickGenreRow();
   renderPickBody();
+  syncPickModalScrollState();
 }
 
 function onPickSearch(val) {
@@ -4633,6 +4714,7 @@ function clearPickSearch() {
   const clr = document.getElementById('pick-search-clear');
   if (clr) clr.style.display = 'none';
   renderPickBody();
+  syncPickModalScrollState();
   if (si) si.focus();
 }
 
@@ -4646,6 +4728,7 @@ function togglePick(gameId) {
   renderPickPlatformTabs();
   renderPickBody();
   renderPickFooter();
+  syncPickModalScrollState();
 }
 
 function renderPickFooter() {
@@ -4671,6 +4754,7 @@ function clearAllPicked() {
   renderPickPlatformTabs();
   renderPickBody();
   renderPickFooter();
+  syncPickModalScrollState();
   document.getElementById('pick-copy-panel').classList.remove('show');
 }
 
@@ -4877,8 +4961,7 @@ function applyLang() {
   const isEn = currentLang === 'en';
   const elNewest = document.getElementById('pf-label-newest');
   if (elNewest) elNewest.textContent = isEn ? 'Latest' : 'ใหม่ล่าสุด';
-  const elGenre = document.getElementById('pf-label-genre');
-  if (elGenre) elGenre.textContent = isEn ? 'Genre' : 'ประเภท';
+  updatePickGenreButtonLabel();
   const elView = document.getElementById('pf-label-view');
   if (elView) {
     const isListMode = (typeof pickViewMode !== 'undefined') && pickViewMode === 'list';
