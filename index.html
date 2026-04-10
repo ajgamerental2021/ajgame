@@ -537,6 +537,62 @@
   }
   .pick-title { font-family: 'Fraunces', serif; font-size: 22px; font-weight: 600; }
   .pick-sub { font-size: 12.5px; color: var(--text3); margin-top: 2px; }
+  .pick-warning {
+    display: flex;
+    align-items: flex-start;
+    gap: 10px;
+    margin: 10px 24px 0;
+    padding: 10px 12px;
+    border-radius: 12px;
+    border: 1px solid rgba(204,0,0,0.18);
+    background: linear-gradient(135deg, #fff8f8 0%, #fff2f2 100%);
+    box-shadow: 0 2px 10px rgba(204,0,0,0.05);
+  }
+  .pick-warning[hidden] { display: none !important; }
+  .pick-warning-icon {
+    font-size: 18px;
+    line-height: 1;
+    flex-shrink: 0;
+    margin-top: 1px;
+  }
+  .pick-warning-text {
+    min-width: 0;
+    flex: 1;
+  }
+  .pick-warning-title {
+    font-size: 12.5px;
+    font-weight: 800;
+    color: var(--accent);
+    line-height: 1.35;
+    margin-bottom: 1px;
+  }
+  .pick-warning-desc {
+    font-size: 11.5px;
+    line-height: 1.45;
+    color: #7a1f1f;
+    font-weight: 600;
+  }
+  .pick-warning-dismiss {
+    width: 26px;
+    height: 26px;
+    border-radius: 999px;
+    border: 1px solid rgba(204,0,0,0.14);
+    background: rgba(255,255,255,0.75);
+    color: #9a4a4a;
+    cursor: pointer;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 14px;
+    line-height: 1;
+    flex-shrink: 0;
+    transition: var(--transition);
+  }
+  .pick-warning-dismiss:hover {
+    background: var(--surface);
+    color: var(--accent);
+    border-color: rgba(204,0,0,0.3);
+  }
   .pick-close {
     width: 34px; height: 34px;
     border-radius: 50%;
@@ -2155,6 +2211,11 @@
     .pick-title { font-size: 15px; }
     .pick-sub { font-size: 11.5px; }
     .pick-close { width: 30px; height: 30px; font-size: 14px; flex-shrink: 0; }
+    .pick-warning { gap: 8px; padding: 9px 10px; margin: 8px 14px 0; border-radius: 11px; }
+    .pick-warning-icon { font-size: 16px; }
+    .pick-warning-title { font-size: 11.5px; margin-bottom: 1px; }
+    .pick-warning-desc { font-size: 10.8px; line-height: 1.4; }
+    .pick-warning-dismiss { width: 24px; height: 24px; font-size: 13px; }
     .pick-tutorial { padding: 7px 11px; margin-bottom: 6px; }
     .pick-tutorial ol { font-size: 11.5px; }
     .pick-platform-tabs { padding: 0 14px 8px; flex-shrink: 0; }
@@ -2602,6 +2663,16 @@
         <button class="pick-fsort-btn" id="pfsort-view" onclick="togglePickView()">⊞ <span id="pf-label-view">รายชื่อ</span></button>
       </div>
     </div>
+
+    <div class="pick-warning" id="pick-storage-warning" hidden>
+      <div class="pick-warning-icon">⚠️</div>
+      <div class="pick-warning-text">
+        <div class="pick-warning-title" data-i18n="pick_warning_title">สำคัญก่อนเลือกเกม</div>
+        <div class="pick-warning-desc" data-i18n="pick_warning_desc">เครื่องมีพื้นที่จัดเก็บจำกัด บางเกมขนาดใหญ่ อาจติดตั้งได้ไม่ครบตามจำนวนที่เลือก</div>
+      </div>
+      <button class="pick-warning-dismiss" type="button" onclick="dismissPickWarning()" aria-label="Close warning">✕</button>
+    </div>
+
     <!-- Genre filter row for pick modal -->
     <div class="pick-genre-row" id="pick-genre-row"></div>
 
@@ -4509,6 +4580,20 @@ let pickGenreFilter = '';
 let pickSearchQuery = '';
 let pickViewMode = 'grid'; // 'grid' | 'list'
 let pickGenrePanelOpen = false;
+let pickWarningDismissed = false;
+
+function updatePickWarningVisibility() {
+  const warningEl = document.getElementById('pick-storage-warning');
+  if (!warningEl) return;
+  const shouldShow = !!pickActivePlatform && !pickWarningDismissed;
+  warningEl.hidden = !shouldShow;
+}
+
+function dismissPickWarning() {
+  pickWarningDismissed = true;
+  updatePickWarningVisibility();
+  syncPickModalScrollState();
+}
 
 function openPickModal() {
   pickedGames = [];
@@ -4532,6 +4617,7 @@ function openPickModal() {
   document.getElementById('pick-copy-panel').classList.remove('show');
   document.getElementById('btn-generate-copy').style.display = 'none';
   document.getElementById('pick-tutorial').style.display = '';
+  updatePickWarningVisibility();
   document.getElementById('pick-overlay').classList.add('open');
   syncPickModalScrollState();
 }
@@ -4654,6 +4740,7 @@ function setPickPlatform(id) {
   document.getElementById('pick-genre-row').classList.remove('show');
   updatePickFilterButtons();
   renderPickPlatformTabs();
+  updatePickWarningVisibility();
   renderPickBody();
   syncPickModalScrollState();
 }
@@ -4836,6 +4923,8 @@ const TRANSLATIONS = {
     // Pick modal
     pick_title: 'เลือกเกมที่อยากเล่น',
     pick_sub: 'เลือกได้สูงสุด 10 เกม แล้ว Copy ส่งมาแจ้งทางร้านได้เลย',
+    pick_warning_title: 'สำคัญก่อนเลือกเกม',
+    pick_warning_desc: 'เครื่องมีพื้นที่จัดเก็บจำกัด บางเกมขนาดใหญ่ อาจติดตั้งได้ไม่ครบตามจำนวนที่เลือก',
     tut_title: 'วิธีเลือกเกม',
     tut_1: 'เลือกประเภทเครื่องเกม จากนั้นเกมในประเภทนั้นจะแสดงขึ้นมา',
     tut_2: 'คลิกที่รูปเกมเพื่อเลือก ✓ — คลิกซ้ำเพื่อยกเลิก',
@@ -4882,6 +4971,8 @@ const TRANSLATIONS = {
     search_count: (n) => `${n} result${n !== 1 ? 's' : ''} found`,
     pick_title: 'Pick Games to Play',
     pick_sub: 'Select up to 10 games, then copy the list to send us on Line',
+    pick_warning_title: 'Important before you pick games',
+    pick_warning_desc: 'Storage space on each console is limited. Some large games may not be installable in full based on the number you select.',
     tut_title: 'How to Pick Games',
     tut_1: 'Select a console type — only that category\'s games will appear',
     tut_2: 'Click a game card to select ✓ — click again to deselect',
